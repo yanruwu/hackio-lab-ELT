@@ -1,0 +1,2809 @@
+,Provincias,Edad (3 grupos de edad),Españoles/Extranjeros,Sexo,Año,Total
+0,2,0-15 años,Españoles,Hombres,2021,27304.0
+1,2,0-15 años,Españoles,Hombres,2020,27979.0
+2,2,0-15 años,Españoles,Hombres,2019,28513.0
+3,2,0-15 años,Españoles,Mujeres,2021,25547.0
+4,2,0-15 años,Españoles,Mujeres,2020,25953.0
+5,2,0-15 años,Españoles,Mujeres,2019,26515.0
+6,2,0-15 años,Extranjeros,Hombres,2021,2452.0
+7,2,0-15 años,Extranjeros,Hombres,2020,2445.0
+8,2,0-15 años,Extranjeros,Hombres,2019,2278.0
+9,2,0-15 años,Extranjeros,Mujeres,2021,2248.0
+10,2,0-15 años,Extranjeros,Mujeres,2020,2191.0
+11,2,0-15 años,Extranjeros,Mujeres,2019,2157.0
+12,2,0-15 años,% Extranjeros,Hombres,2021,8.24
+13,2,0-15 años,% Extranjeros,Hombres,2020,8.04
+14,2,0-15 años,% Extranjeros,Hombres,2019,7.4
+15,2,0-15 años,% Extranjeros,Mujeres,2021,8.09
+16,2,0-15 años,% Extranjeros,Mujeres,2020,7.78
+17,2,0-15 años,% Extranjeros,Mujeres,2019,7.52
+18,2,16-64 años,Españoles,Hombres,2021,118339.0
+19,2,16-64 años,Españoles,Hombres,2020,118606.0
+20,2,16-64 años,Españoles,Hombres,2019,119164.0
+21,2,16-64 años,Españoles,Mujeres,2021,114163.0
+22,2,16-64 años,Españoles,Mujeres,2020,114793.0
+23,2,16-64 años,Españoles,Mujeres,2019,115270.0
+24,2,16-64 años,Extranjeros,Hombres,2021,11655.0
+25,2,16-64 años,Extranjeros,Hombres,2020,11488.0
+26,2,16-64 años,Extranjeros,Hombres,2019,10695.0
+27,2,16-64 años,Extranjeros,Mujeres,2021,9637.0
+28,2,16-64 años,Extranjeros,Mujeres,2020,9436.0
+29,2,16-64 años,Extranjeros,Mujeres,2019,8781.0
+30,2,16-64 años,% Extranjeros,Hombres,2021,8.97
+31,2,16-64 años,% Extranjeros,Hombres,2020,8.83
+32,2,16-64 años,% Extranjeros,Hombres,2019,8.24
+33,2,16-64 años,% Extranjeros,Mujeres,2021,7.78
+34,2,16-64 años,% Extranjeros,Mujeres,2020,7.6
+35,2,16-64 años,% Extranjeros,Mujeres,2019,7.08
+36,2,65 y más,Españoles,Hombres,2021,33108.0
+37,2,65 y más,Españoles,Hombres,2020,33242.0
+38,2,65 y más,Españoles,Hombres,2019,32971.0
+39,2,65 y más,Españoles,Mujeres,2021,41204.0
+40,2,65 y más,Españoles,Mujeres,2020,41373.0
+41,2,65 y más,Españoles,Mujeres,2019,41148.0
+42,2,65 y más,Extranjeros,Hombres,2021,347.0
+43,2,65 y más,Extranjeros,Hombres,2020,321.0
+44,2,65 y más,Extranjeros,Hombres,2019,290.0
+45,2,65 y más,Extranjeros,Mujeres,2021,460.0
+46,2,65 y más,Extranjeros,Mujeres,2020,443.0
+47,2,65 y más,Extranjeros,Mujeres,2019,385.0
+48,2,65 y más,% Extranjeros,Hombres,2021,1.04
+49,2,65 y más,% Extranjeros,Hombres,2020,0.96
+50,2,65 y más,% Extranjeros,Hombres,2019,0.87
+51,2,65 y más,% Extranjeros,Mujeres,2021,1.1
+52,2,65 y más,% Extranjeros,Mujeres,2020,1.06
+53,2,65 y más,% Extranjeros,Mujeres,2019,0.93
+54,3,0-15 años,Españoles,Hombres,2021,121579.0
+55,3,0-15 años,Españoles,Hombres,2020,123879.0
+56,3,0-15 años,Españoles,Hombres,2019,125807.0
+57,3,0-15 años,Españoles,Mujeres,2021,114198.0
+58,3,0-15 años,Españoles,Mujeres,2020,116230.0
+59,3,0-15 años,Españoles,Mujeres,2019,118118.0
+60,3,0-15 años,Extranjeros,Hombres,2021,25690.0
+61,3,0-15 años,Extranjeros,Hombres,2020,26167.0
+62,3,0-15 años,Extranjeros,Hombres,2019,24426.0
+63,3,0-15 años,Extranjeros,Mujeres,2021,24468.0
+64,3,0-15 años,Extranjeros,Mujeres,2020,24953.0
+65,3,0-15 años,Extranjeros,Mujeres,2019,23344.0
+66,3,0-15 años,% Extranjeros,Hombres,2021,17.44
+67,3,0-15 años,% Extranjeros,Hombres,2020,17.44
+68,3,0-15 años,% Extranjeros,Hombres,2019,16.26
+69,3,0-15 años,% Extranjeros,Mujeres,2021,17.65
+70,3,0-15 años,% Extranjeros,Mujeres,2020,17.67
+71,3,0-15 años,% Extranjeros,Mujeres,2019,16.5
+72,3,16-64 años,Españoles,Hombres,2021,490091.0
+73,3,16-64 años,Españoles,Hombres,2020,488873.0
+74,3,16-64 años,Españoles,Hombres,2019,488464.0
+75,3,16-64 años,Españoles,Mujeres,2021,480834.0
+76,3,16-64 años,Españoles,Mujeres,2020,480020.0
+77,3,16-64 años,Españoles,Mujeres,2019,480081.0
+78,3,16-64 años,Extranjeros,Hombres,2021,123928.0
+79,3,16-64 años,Extranjeros,Hombres,2020,124773.0
+80,3,16-64 años,Extranjeros,Hombres,2019,116977.0
+81,3,16-64 años,Extranjeros,Mujeres,2021,122417.0
+82,3,16-64 años,Extranjeros,Mujeres,2020,121991.0
+83,3,16-64 años,Extranjeros,Mujeres,2019,114914.0
+84,3,16-64 años,% Extranjeros,Hombres,2021,20.18
+85,3,16-64 años,% Extranjeros,Hombres,2020,20.33
+86,3,16-64 años,% Extranjeros,Hombres,2019,19.32
+87,3,16-64 años,% Extranjeros,Mujeres,2021,20.29
+88,3,16-64 años,% Extranjeros,Mujeres,2020,20.26
+89,3,16-64 años,% Extranjeros,Mujeres,2019,19.31
+90,3,65 y más,Españoles,Hombres,2021,132094.0
+91,3,65 y más,Españoles,Hombres,2020,129671.0
+92,3,65 y más,Españoles,Hombres,2019,127087.0
+93,3,65 y más,Españoles,Mujeres,2021,169543.0
+94,3,65 y más,Españoles,Mujeres,2020,166597.0
+95,3,65 y más,Españoles,Mujeres,2019,163672.0
+96,3,65 y más,Extranjeros,Hombres,2021,38636.0
+97,3,65 y más,Extranjeros,Hombres,2020,38493.0
+98,3,65 y más,Extranjeros,Hombres,2019,38154.0
+99,3,65 y más,Extranjeros,Mujeres,2021,38284.0
+100,3,65 y más,Extranjeros,Mujeres,2020,38241.0
+101,3,65 y más,Extranjeros,Mujeres,2019,37639.0
+102,3,65 y más,% Extranjeros,Hombres,2021,22.63
+103,3,65 y más,% Extranjeros,Hombres,2020,22.89
+104,3,65 y más,% Extranjeros,Hombres,2019,23.09
+105,3,65 y más,% Extranjeros,Mujeres,2021,18.42
+106,3,65 y más,% Extranjeros,Mujeres,2020,18.67
+107,3,65 y más,% Extranjeros,Mujeres,2019,18.7
+108,4,0-15 años,Españoles,Hombres,2021,52239.0
+109,4,0-15 años,Españoles,Hombres,2020,52824.0
+110,4,0-15 años,Españoles,Hombres,2019,53087.0
+111,4,0-15 años,Españoles,Mujeres,2021,49554.0
+112,4,0-15 años,Españoles,Mujeres,2020,50175.0
+113,4,0-15 años,Españoles,Mujeres,2019,50402.0
+114,4,0-15 años,Extranjeros,Hombres,2021,14310.0
+115,4,0-15 años,Extranjeros,Hombres,2020,14105.0
+116,4,0-15 años,Extranjeros,Hombres,2019,13280.0
+117,4,0-15 años,Extranjeros,Mujeres,2021,13471.0
+118,4,0-15 años,Extranjeros,Mujeres,2020,13379.0
+119,4,0-15 años,Extranjeros,Mujeres,2019,12602.0
+120,4,0-15 años,% Extranjeros,Hombres,2021,21.5
+121,4,0-15 años,% Extranjeros,Hombres,2020,21.07
+122,4,0-15 años,% Extranjeros,Hombres,2019,20.01
+123,4,0-15 años,% Extranjeros,Mujeres,2021,21.37
+124,4,0-15 años,% Extranjeros,Mujeres,2020,21.05
+125,4,0-15 años,% Extranjeros,Mujeres,2019,20.0
+126,4,16-64 años,Españoles,Hombres,2021,190108.0
+127,4,16-64 años,Españoles,Hombres,2020,189607.0
+128,4,16-64 años,Españoles,Hombres,2019,189308.0
+129,4,16-64 años,Españoles,Mujeres,2021,186075.0
+130,4,16-64 años,Españoles,Mujeres,2020,185285.0
+131,4,16-64 años,Españoles,Mujeres,2019,184805.0
+132,4,16-64 años,Extranjeros,Hombres,2021,66062.0
+133,4,16-64 años,Extranjeros,Hombres,2020,65918.0
+134,4,16-64 años,Extranjeros,Hombres,2019,62493.0
+135,4,16-64 años,Extranjeros,Mujeres,2021,48660.0
+136,4,16-64 años,Extranjeros,Mujeres,2020,47971.0
+137,4,16-64 años,Extranjeros,Mujeres,2019,45278.0
+138,4,16-64 años,% Extranjeros,Hombres,2021,25.79
+139,4,16-64 años,% Extranjeros,Hombres,2020,25.8
+140,4,16-64 años,% Extranjeros,Hombres,2019,24.82
+141,4,16-64 años,% Extranjeros,Mujeres,2021,20.73
+142,4,16-64 años,% Extranjeros,Mujeres,2020,20.57
+143,4,16-64 años,% Extranjeros,Mujeres,2019,19.68
+144,4,65 y más,Españoles,Hombres,2021,43214.0
+145,4,65 y más,Españoles,Hombres,2020,42233.0
+146,4,65 y más,Españoles,Hombres,2019,41168.0
+147,4,65 y más,Españoles,Mujeres,2021,54245.0
+148,4,65 y más,Españoles,Mujeres,2020,53226.0
+149,4,65 y más,Españoles,Mujeres,2019,52142.0
+150,4,65 y más,Extranjeros,Hombres,2021,7203.0
+151,4,65 y más,Extranjeros,Hombres,2020,6871.0
+152,4,65 y más,Extranjeros,Hombres,2019,6365.0
+153,4,65 y más,Extranjeros,Mujeres,2021,6651.0
+154,4,65 y más,Extranjeros,Mujeres,2020,6351.0
+155,4,65 y más,Extranjeros,Mujeres,2019,5890.0
+156,4,65 y más,% Extranjeros,Hombres,2021,14.29
+157,4,65 y más,% Extranjeros,Hombres,2020,13.99
+158,4,65 y más,% Extranjeros,Hombres,2019,13.39
+159,4,65 y más,% Extranjeros,Mujeres,2021,10.92
+160,4,65 y más,% Extranjeros,Mujeres,2020,10.66
+161,4,65 y más,% Extranjeros,Mujeres,2019,10.15
+162,1,0-15 años,Españoles,Hombres,2021,23408.0
+163,1,0-15 años,Españoles,Hombres,2020,23695.0
+164,1,0-15 años,Españoles,Hombres,2019,23942.0
+165,1,0-15 años,Españoles,Mujeres,2021,21947.0
+166,1,0-15 años,Españoles,Mujeres,2020,22182.0
+167,1,0-15 años,Españoles,Mujeres,2019,22401.0
+168,1,0-15 años,Extranjeros,Hombres,2021,3069.0
+169,1,0-15 años,Extranjeros,Hombres,2020,3252.0
+170,1,0-15 años,Extranjeros,Hombres,2019,3121.0
+171,1,0-15 años,Extranjeros,Mujeres,2021,2976.0
+172,1,0-15 años,Extranjeros,Mujeres,2020,3097.0
+173,1,0-15 años,Extranjeros,Mujeres,2019,2934.0
+174,1,0-15 años,% Extranjeros,Hombres,2021,11.59
+175,1,0-15 años,% Extranjeros,Hombres,2020,12.07
+176,1,0-15 años,% Extranjeros,Hombres,2019,11.53
+177,1,0-15 años,% Extranjeros,Mujeres,2021,11.94
+178,1,0-15 años,% Extranjeros,Mujeres,2020,12.25
+179,1,0-15 años,% Extranjeros,Mujeres,2019,11.58
+180,1,16-64 años,Españoles,Hombres,2021,93014.0
+181,1,16-64 años,Españoles,Hombres,2020,93338.0
+182,1,16-64 años,Españoles,Hombres,2019,93644.0
+183,1,16-64 años,Españoles,Mujeres,2021,92248.0
+184,1,16-64 años,Españoles,Mujeres,2020,92747.0
+185,1,16-64 años,Españoles,Mujeres,2019,93074.0
+186,1,16-64 años,Extranjeros,Hombres,2021,13012.0
+187,1,16-64 años,Extranjeros,Hombres,2020,12870.0
+188,1,16-64 años,Extranjeros,Hombres,2019,12095.0
+189,1,16-64 años,Extranjeros,Mujeres,2021,12418.0
+190,1,16-64 años,Extranjeros,Mujeres,2020,12283.0
+191,1,16-64 años,Extranjeros,Mujeres,2019,11437.0
+192,1,16-64 años,% Extranjeros,Hombres,2021,12.27
+193,1,16-64 años,% Extranjeros,Hombres,2020,12.12
+194,1,16-64 años,% Extranjeros,Hombres,2019,11.44
+195,1,16-64 años,% Extranjeros,Mujeres,2021,11.86
+196,1,16-64 años,% Extranjeros,Mujeres,2020,11.69
+197,1,16-64 años,% Extranjeros,Mujeres,2019,10.94
+198,1,65 y más,Españoles,Hombres,2021,31393.0
+199,1,65 y más,Españoles,Hombres,2020,31035.0
+200,1,65 y más,Españoles,Hombres,2019,30425.0
+201,1,65 y más,Españoles,Mujeres,2021,39187.0
+202,1,65 y más,Españoles,Mujeres,2020,38527.0
+203,1,65 y más,Españoles,Mujeres,2019,37728.0
+204,1,65 y más,Extranjeros,Hombres,2021,356.0
+205,1,65 y más,Extranjeros,Hombres,2020,334.0
+206,1,65 y más,Extranjeros,Hombres,2019,272.0
+207,1,65 y más,Extranjeros,Mujeres,2021,598.0
+208,1,65 y más,Extranjeros,Mujeres,2020,580.0
+209,1,65 y más,Extranjeros,Mujeres,2019,476.0
+210,1,65 y más,% Extranjeros,Hombres,2021,1.12
+211,1,65 y más,% Extranjeros,Hombres,2020,1.06
+212,1,65 y más,% Extranjeros,Hombres,2019,0.89
+213,1,65 y más,% Extranjeros,Mujeres,2021,1.5
+214,1,65 y más,% Extranjeros,Mujeres,2020,1.48
+215,1,65 y más,% Extranjeros,Mujeres,2019,1.25
+216,33,0-15 años,Españoles,Hombres,2021,56108.0
+217,33,0-15 años,Españoles,Hombres,2020,57298.0
+218,33,0-15 años,Españoles,Hombres,2019,58440.0
+219,33,0-15 años,Españoles,Mujeres,2021,52991.0
+220,33,0-15 años,Españoles,Mujeres,2020,54177.0
+221,33,0-15 años,Españoles,Mujeres,2019,55289.0
+222,33,0-15 años,Extranjeros,Hombres,2021,3079.0
+223,33,0-15 años,Extranjeros,Hombres,2020,3158.0
+224,33,0-15 años,Extranjeros,Hombres,2019,2871.0
+225,33,0-15 años,Extranjeros,Mujeres,2021,2934.0
+226,33,0-15 años,Extranjeros,Mujeres,2020,2942.0
+227,33,0-15 años,Extranjeros,Mujeres,2019,2737.0
+228,33,0-15 años,% Extranjeros,Hombres,2021,5.2
+229,33,0-15 años,% Extranjeros,Hombres,2020,5.22
+230,33,0-15 años,% Extranjeros,Hombres,2019,4.68
+231,33,0-15 años,% Extranjeros,Mujeres,2021,5.25
+232,33,0-15 años,% Extranjeros,Mujeres,2020,5.15
+233,33,0-15 años,% Extranjeros,Mujeres,2019,4.72
+234,33,16-64 años,Españoles,Hombres,2021,293967.0
+235,33,16-64 años,Españoles,Hombres,2020,297245.0
+236,33,16-64 años,Españoles,Hombres,2019,301546.0
+237,33,16-64 años,Españoles,Mujeres,2021,296923.0
+238,33,16-64 años,Españoles,Mujeres,2020,300516.0
+239,33,16-64 años,Españoles,Mujeres,2019,304914.0
+240,33,16-64 años,Extranjeros,Hombres,2021,16886.0
+241,33,16-64 años,Extranjeros,Hombres,2020,16903.0
+242,33,16-64 años,Extranjeros,Hombres,2019,15609.0
+243,33,16-64 años,Extranjeros,Mujeres,2021,20065.0
+244,33,16-64 años,Extranjeros,Mujeres,2020,19978.0
+245,33,16-64 años,Extranjeros,Mujeres,2019,18401.0
+246,33,16-64 años,% Extranjeros,Hombres,2021,5.43
+247,33,16-64 años,% Extranjeros,Hombres,2020,5.38
+248,33,16-64 años,% Extranjeros,Hombres,2019,4.92
+249,33,16-64 años,% Extranjeros,Mujeres,2021,6.33
+250,33,16-64 años,% Extranjeros,Mujeres,2020,6.23
+251,33,16-64 años,% Extranjeros,Mujeres,2019,5.69
+252,33,65 y más,Españoles,Hombres,2021,111584.0
+253,33,65 y más,Españoles,Hombres,2020,110476.0
+254,33,65 y más,Españoles,Hombres,2019,108815.0
+255,33,65 y más,Españoles,Mujeres,2021,154774.0
+256,33,65 y más,Españoles,Mujeres,2020,153751.0
+257,33,65 y más,Españoles,Mujeres,2019,152170.0
+258,33,65 y más,Extranjeros,Hombres,2021,1041.0
+259,33,65 y más,Extranjeros,Hombres,2020,986.0
+260,33,65 y más,Extranjeros,Hombres,2019,856.0
+261,33,65 y más,Extranjeros,Mujeres,2021,1440.0
+262,33,65 y más,Extranjeros,Mujeres,2020,1354.0
+263,33,65 y más,Extranjeros,Mujeres,2019,1152.0
+264,33,65 y más,% Extranjeros,Hombres,2021,0.92
+265,33,65 y más,% Extranjeros,Hombres,2020,0.88
+266,33,65 y más,% Extranjeros,Hombres,2019,0.78
+267,33,65 y más,% Extranjeros,Mujeres,2021,0.92
+268,33,65 y más,% Extranjeros,Mujeres,2020,0.87
+269,33,65 y más,% Extranjeros,Mujeres,2019,0.75
+270,5,0-15 años,Españoles,Hombres,2021,9279.0
+271,5,0-15 años,Españoles,Hombres,2020,9370.0
+272,5,0-15 años,Españoles,Hombres,2019,9387.0
+273,5,0-15 años,Españoles,Mujeres,2021,8638.0
+274,5,0-15 años,Españoles,Mujeres,2020,8669.0
+275,5,0-15 años,Españoles,Mujeres,2019,8753.0
+276,5,0-15 años,Extranjeros,Hombres,2021,1132.0
+277,5,0-15 años,Extranjeros,Hombres,2020,1117.0
+278,5,0-15 años,Extranjeros,Hombres,2019,988.0
+279,5,0-15 años,Extranjeros,Mujeres,2021,1047.0
+280,5,0-15 años,Extranjeros,Mujeres,2020,1033.0
+281,5,0-15 años,Extranjeros,Mujeres,2019,914.0
+282,5,0-15 años,% Extranjeros,Hombres,2021,10.87
+283,5,0-15 años,% Extranjeros,Hombres,2020,10.65
+284,5,0-15 años,% Extranjeros,Hombres,2019,9.52
+285,5,0-15 años,% Extranjeros,Mujeres,2021,10.81
+286,5,0-15 años,% Extranjeros,Mujeres,2020,10.65
+287,5,0-15 años,% Extranjeros,Mujeres,2019,9.45
+288,5,16-64 años,Españoles,Hombres,2021,46251.0
+289,5,16-64 años,Españoles,Hombres,2020,45880.0
+290,5,16-64 años,Españoles,Hombres,2019,46432.0
+291,5,16-64 años,Españoles,Mujeres,2021,42923.0
+292,5,16-64 años,Españoles,Mujeres,2020,42511.0
+293,5,16-64 años,Españoles,Mujeres,2019,42915.0
+294,5,16-64 años,Extranjeros,Hombres,2021,3792.0
+295,5,16-64 años,Extranjeros,Hombres,2020,3807.0
+296,5,16-64 años,Extranjeros,Hombres,2019,3423.0
+297,5,16-64 años,Extranjeros,Mujeres,2021,4142.0
+298,5,16-64 años,Extranjeros,Mujeres,2020,4145.0
+299,5,16-64 años,Extranjeros,Mujeres,2019,3798.0
+300,5,16-64 años,% Extranjeros,Hombres,2021,7.58
+301,5,16-64 años,% Extranjeros,Hombres,2020,7.66
+302,5,16-64 años,% Extranjeros,Hombres,2019,6.87
+303,5,16-64 años,% Extranjeros,Mujeres,2021,8.8
+304,5,16-64 años,% Extranjeros,Mujeres,2020,8.88
+305,5,16-64 años,% Extranjeros,Mujeres,2019,8.13
+306,5,65 y más,Españoles,Hombres,2021,18938.0
+307,5,65 y más,Españoles,Hombres,2020,18774.0
+308,5,65 y más,Españoles,Hombres,2019,18700.0
+309,5,65 y más,Españoles,Mujeres,2021,21872.0
+310,5,65 y más,Españoles,Mujeres,2020,21988.0
+311,5,65 y más,Españoles,Mujeres,2019,22004.0
+312,5,65 y más,Extranjeros,Hombres,2021,170.0
+313,5,65 y más,Extranjeros,Hombres,2020,161.0
+314,5,65 y más,Extranjeros,Hombres,2019,141.0
+315,5,65 y más,Extranjeros,Mujeres,2021,237.0
+316,5,65 y más,Extranjeros,Mujeres,2020,209.0
+317,5,65 y más,Extranjeros,Mujeres,2019,185.0
+318,5,65 y más,% Extranjeros,Hombres,2021,0.89
+319,5,65 y más,% Extranjeros,Hombres,2020,0.85
+320,5,65 y más,% Extranjeros,Hombres,2019,0.75
+321,5,65 y más,% Extranjeros,Mujeres,2021,1.07
+322,5,65 y más,% Extranjeros,Mujeres,2020,0.94
+323,5,65 y más,% Extranjeros,Mujeres,2019,0.83
+324,6,0-15 años,Españoles,Hombres,2021,49620.0
+325,6,0-15 años,Españoles,Hombres,2020,50481.0
+326,6,0-15 años,Españoles,Hombres,2019,51393.0
+327,6,0-15 años,Españoles,Mujeres,2021,46957.0
+328,6,0-15 años,Españoles,Mujeres,2020,47847.0
+329,6,0-15 años,Españoles,Mujeres,2019,48708.0
+330,6,0-15 años,Extranjeros,Hombres,2021,1803.0
+331,6,0-15 años,Extranjeros,Hombres,2020,1779.0
+332,6,0-15 años,Extranjeros,Hombres,2019,1655.0
+333,6,0-15 años,Extranjeros,Mujeres,2021,1666.0
+334,6,0-15 años,Extranjeros,Mujeres,2020,1662.0
+335,6,0-15 años,Extranjeros,Mujeres,2019,1573.0
+336,6,0-15 años,% Extranjeros,Hombres,2021,3.51
+337,6,0-15 años,% Extranjeros,Hombres,2020,3.4
+338,6,0-15 años,% Extranjeros,Hombres,2019,3.12
+339,6,0-15 años,% Extranjeros,Mujeres,2021,3.43
+340,6,0-15 años,% Extranjeros,Mujeres,2020,3.36
+341,6,0-15 años,% Extranjeros,Mujeres,2019,3.13
+342,6,16-64 años,Españoles,Hombres,2021,213216.0
+343,6,16-64 años,Españoles,Hombres,2020,214177.0
+344,6,16-64 años,Españoles,Hombres,2019,215536.0
+345,6,16-64 años,Españoles,Mujeres,2021,206848.0
+346,6,16-64 años,Españoles,Mujeres,2020,207509.0
+347,6,16-64 años,Españoles,Mujeres,2019,208499.0
+348,6,16-64 años,Extranjeros,Hombres,2021,7776.0
+349,6,16-64 años,Extranjeros,Hombres,2020,7765.0
+350,6,16-64 años,Extranjeros,Hombres,2019,7218.0
+351,6,16-64 años,Extranjeros,Mujeres,2021,9086.0
+352,6,16-64 años,Extranjeros,Mujeres,2020,8925.0
+353,6,16-64 años,Extranjeros,Mujeres,2019,8211.0
+354,6,16-64 años,% Extranjeros,Hombres,2021,3.52
+355,6,16-64 años,% Extranjeros,Hombres,2020,3.5
+356,6,16-64 años,% Extranjeros,Hombres,2019,3.24
+357,6,16-64 años,% Extranjeros,Mujeres,2021,4.21
+358,6,16-64 años,% Extranjeros,Mujeres,2020,4.12
+359,6,16-64 años,% Extranjeros,Mujeres,2019,3.79
+360,6,65 y más,Españoles,Hombres,2021,58162.0
+361,6,65 y más,Españoles,Hombres,2020,57581.0
+362,6,65 y más,Españoles,Hombres,2019,56934.0
+363,6,65 y más,Españoles,Mujeres,2021,73857.0
+364,6,65 y más,Españoles,Mujeres,2020,73512.0
+365,6,65 y más,Españoles,Mujeres,2019,73030.0
+366,6,65 y más,Extranjeros,Hombres,2021,448.0
+367,6,65 y más,Extranjeros,Hombres,2020,421.0
+368,6,65 y más,Extranjeros,Hombres,2019,376.0
+369,6,65 y más,Extranjeros,Mujeres,2021,504.0
+370,6,65 y más,Extranjeros,Mujeres,2020,478.0
+371,6,65 y más,Extranjeros,Mujeres,2019,426.0
+372,6,65 y más,% Extranjeros,Hombres,2021,0.76
+373,6,65 y más,% Extranjeros,Hombres,2020,0.73
+374,6,65 y más,% Extranjeros,Hombres,2019,0.66
+375,6,65 y más,% Extranjeros,Mujeres,2021,0.68
+376,6,65 y más,% Extranjeros,Mujeres,2020,0.65
+377,6,65 y más,% Extranjeros,Mujeres,2019,0.58
+378,7,0-15 años,Españoles,Hombres,2021,77855.0
+379,7,0-15 años,Españoles,Hombres,2020,79066.0
+380,7,0-15 años,Españoles,Hombres,2019,79945.0
+381,7,0-15 años,Españoles,Mujeres,2021,73591.0
+382,7,0-15 años,Españoles,Mujeres,2020,74641.0
+383,7,0-15 años,Españoles,Mujeres,2019,75355.0
+384,7,0-15 años,Extranjeros,Hombres,2021,16174.0
+385,7,0-15 años,Extranjeros,Hombres,2020,16175.0
+386,7,0-15 años,Extranjeros,Hombres,2019,15163.0
+387,7,0-15 años,Extranjeros,Mujeres,2021,15394.0
+388,7,0-15 años,Extranjeros,Mujeres,2020,15382.0
+389,7,0-15 años,Extranjeros,Mujeres,2019,14560.0
+390,7,0-15 años,% Extranjeros,Hombres,2021,17.2
+391,7,0-15 años,% Extranjeros,Hombres,2020,16.98
+392,7,0-15 años,% Extranjeros,Hombres,2019,15.94
+393,7,0-15 años,% Extranjeros,Mujeres,2021,17.3
+394,7,0-15 años,% Extranjeros,Mujeres,2020,17.09
+395,7,0-15 años,% Extranjeros,Mujeres,2019,16.19
+396,7,16-64 años,Españoles,Hombres,2021,319697.0
+397,7,16-64 años,Españoles,Hombres,2020,319755.0
+398,7,16-64 años,Españoles,Hombres,2019,317084.0
+399,7,16-64 años,Españoles,Mujeres,2021,310502.0
+400,7,16-64 años,Españoles,Mujeres,2020,310582.0
+401,7,16-64 años,Españoles,Mujeres,2019,308383.0
+402,7,16-64 años,Extranjeros,Hombres,2021,87712.0
+403,7,16-64 años,Extranjeros,Hombres,2020,87781.0
+404,7,16-64 años,Extranjeros,Hombres,2019,81176.0
+405,7,16-64 años,Extranjeros,Mujeres,2021,84721.0
+406,7,16-64 años,Extranjeros,Mujeres,2020,84937.0
+407,7,16-64 años,Extranjeros,Mujeres,2019,79150.0
+408,7,16-64 años,% Extranjeros,Hombres,2021,21.53
+409,7,16-64 años,% Extranjeros,Hombres,2020,21.54
+410,7,16-64 años,% Extranjeros,Hombres,2019,20.38
+411,7,16-64 años,% Extranjeros,Mujeres,2021,21.44
+412,7,16-64 años,% Extranjeros,Mujeres,2020,21.47
+413,7,16-64 años,% Extranjeros,Mujeres,2019,20.42
+414,7,65 y más,Españoles,Hombres,2021,75923.0
+415,7,65 y más,Españoles,Hombres,2020,74297.0
+416,7,65 y más,Españoles,Hombres,2019,72522.0
+417,7,65 y más,Españoles,Mujeres,2021,95143.0
+418,7,65 y más,Españoles,Mujeres,2020,93167.0
+419,7,65 y más,Españoles,Mujeres,2019,91184.0
+420,7,65 y más,Extranjeros,Hombres,2021,7492.0
+421,7,65 y más,Extranjeros,Hombres,2020,7224.0
+422,7,65 y más,Extranjeros,Hombres,2019,6867.0
+423,7,65 y más,Extranjeros,Mujeres,2021,8804.0
+424,7,65 y más,Extranjeros,Mujeres,2020,8536.0
+425,7,65 y más,Extranjeros,Mujeres,2019,8071.0
+426,7,65 y más,% Extranjeros,Hombres,2021,8.98
+427,7,65 y más,% Extranjeros,Hombres,2020,8.86
+428,7,65 y más,% Extranjeros,Hombres,2019,8.65
+429,7,65 y más,% Extranjeros,Mujeres,2021,8.47
+430,7,65 y más,% Extranjeros,Mujeres,2020,8.39
+431,7,65 y más,% Extranjeros,Mujeres,2019,8.13
+432,8,0-15 años,Españoles,Hombres,2021,390709.0
+433,8,0-15 años,Españoles,Hombres,2020,400042.0
+434,8,0-15 años,Españoles,Hombres,2019,406857.0
+435,8,0-15 años,Españoles,Mujeres,2021,368763.0
+436,8,0-15 años,Españoles,Mujeres,2020,377523.0
+437,8,0-15 años,Españoles,Mujeres,2019,384000.0
+438,8,0-15 años,Extranjeros,Hombres,2021,66671.0
+439,8,0-15 años,Extranjeros,Hombres,2020,68576.0
+440,8,0-15 años,Extranjeros,Hombres,2019,63456.0
+441,8,0-15 años,Extranjeros,Mujeres,2021,62530.0
+442,8,0-15 años,Extranjeros,Mujeres,2020,64219.0
+443,8,0-15 años,Extranjeros,Mujeres,2019,59207.0
+444,8,0-15 años,% Extranjeros,Hombres,2021,14.58
+445,8,0-15 años,% Extranjeros,Hombres,2020,14.63
+446,8,0-15 años,% Extranjeros,Hombres,2019,13.49
+447,8,0-15 años,% Extranjeros,Mujeres,2021,14.5
+448,8,0-15 años,% Extranjeros,Mujeres,2020,14.54
+449,8,0-15 años,% Extranjeros,Mujeres,2019,13.36
+450,8,16-64 años,Españoles,Hombres,2021,1506091.0
+451,8,16-64 años,Españoles,Hombres,2020,1506464.0
+452,8,16-64 años,Españoles,Hombres,2019,1506278.0
+453,8,16-64 años,Españoles,Mujeres,2021,1518234.0
+454,8,16-64 años,Españoles,Mujeres,2020,1519981.0
+455,8,16-64 años,Españoles,Mujeres,2019,1522017.0
+456,8,16-64 años,Extranjeros,Hombres,2021,366417.0
+457,8,16-64 años,Extranjeros,Hombres,2020,369365.0
+458,8,16-64 años,Extranjeros,Hombres,2019,334255.0
+459,8,16-64 años,Extranjeros,Mujeres,2021,344414.0
+460,8,16-64 años,Extranjeros,Mujeres,2020,349893.0
+461,8,16-64 años,Extranjeros,Mujeres,2019,319265.0
+462,8,16-64 años,% Extranjeros,Hombres,2021,19.57
+463,8,16-64 años,% Extranjeros,Hombres,2020,19.69
+464,8,16-64 años,% Extranjeros,Hombres,2019,18.16
+465,8,16-64 años,% Extranjeros,Mujeres,2021,18.49
+466,8,16-64 años,% Extranjeros,Mujeres,2020,18.71
+467,8,16-64 años,% Extranjeros,Mujeres,2019,17.34
+468,8,65 y más,Españoles,Hombres,2021,447928.0
+469,8,65 y más,Españoles,Hombres,2020,446745.0
+470,8,65 y más,Españoles,Hombres,2019,440376.0
+471,8,65 y más,Españoles,Mujeres,2021,611247.0
+472,8,65 y más,Españoles,Mujeres,2020,609089.0
+473,8,65 y más,Españoles,Mujeres,2019,601342.0
+474,8,65 y más,Extranjeros,Hombres,2021,13434.0
+475,8,65 y más,Extranjeros,Hombres,2020,13124.0
+476,8,65 y más,Extranjeros,Hombres,2019,11467.0
+477,8,65 y más,Extranjeros,Mujeres,2021,18292.0
+478,8,65 y más,Extranjeros,Mujeres,2020,18381.0
+479,8,65 y más,Extranjeros,Mujeres,2019,16059.0
+480,8,65 y más,% Extranjeros,Hombres,2021,2.91
+481,8,65 y más,% Extranjeros,Hombres,2020,2.85
+482,8,65 y más,% Extranjeros,Hombres,2019,2.54
+483,8,65 y más,% Extranjeros,Mujeres,2021,2.91
+484,8,65 y más,% Extranjeros,Mujeres,2020,2.93
+485,8,65 y más,% Extranjeros,Mujeres,2019,2.6
+486,48,0-15 años,Españoles,Hombres,2021,73949.0
+487,48,0-15 años,Españoles,Hombres,2020,75820.0
+488,48,0-15 años,Españoles,Hombres,2019,76997.0
+489,48,0-15 años,Españoles,Mujeres,2021,69988.0
+490,48,0-15 años,Españoles,Mujeres,2020,71793.0
+491,48,0-15 años,Españoles,Mujeres,2019,73069.0
+492,48,0-15 años,Extranjeros,Hombres,2021,6874.0
+493,48,0-15 años,Extranjeros,Hombres,2020,6671.0
+494,48,0-15 años,Extranjeros,Hombres,2019,5979.0
+495,48,0-15 años,Extranjeros,Mujeres,2021,6277.0
+496,48,0-15 años,Extranjeros,Mujeres,2020,6109.0
+497,48,0-15 años,Extranjeros,Mujeres,2019,5643.0
+498,48,0-15 años,% Extranjeros,Hombres,2021,8.51
+499,48,0-15 años,% Extranjeros,Hombres,2020,8.09
+500,48,0-15 años,% Extranjeros,Hombres,2019,7.21
+501,48,0-15 años,% Extranjeros,Mujeres,2021,8.23
+502,48,0-15 años,% Extranjeros,Mujeres,2020,7.84
+503,48,0-15 años,% Extranjeros,Mujeres,2019,7.17
+504,48,16-64 años,Españoles,Hombres,2021,326914.0
+505,48,16-64 años,Españoles,Hombres,2020,329974.0
+506,48,16-64 años,Españoles,Hombres,2019,331539.0
+507,48,16-64 años,Españoles,Mujeres,2021,327857.0
+508,48,16-64 años,Españoles,Mujeres,2020,330830.0
+509,48,16-64 años,Españoles,Mujeres,2019,332647.0
+510,48,16-64 años,Extranjeros,Hombres,2021,36959.0
+511,48,16-64 años,Extranjeros,Hombres,2020,35887.0
+512,48,16-64 años,Extranjeros,Hombres,2019,31962.0
+513,48,16-64 años,Extranjeros,Mujeres,2021,37062.0
+514,48,16-64 años,Extranjeros,Mujeres,2020,36621.0
+515,48,16-64 años,Extranjeros,Mujeres,2019,32635.0
+516,48,16-64 años,% Extranjeros,Hombres,2021,10.16
+517,48,16-64 años,% Extranjeros,Hombres,2020,9.81
+518,48,16-64 años,% Extranjeros,Hombres,2019,8.79
+519,48,16-64 años,% Extranjeros,Mujeres,2021,10.16
+520,48,16-64 años,% Extranjeros,Mujeres,2020,9.97
+521,48,16-64 años,% Extranjeros,Mujeres,2019,8.93
+522,48,65 y más,Españoles,Hombres,2021,111756.0
+523,48,65 y más,Españoles,Hombres,2020,110539.0
+524,48,65 y más,Españoles,Hombres,2019,108966.0
+525,48,65 y más,Españoles,Mujeres,2021,154263.0
+526,48,65 y más,Españoles,Mujeres,2020,152936.0
+527,48,65 y más,Españoles,Mujeres,2019,151255.0
+528,48,65 y más,Extranjeros,Hombres,2021,964.0
+529,48,65 y más,Extranjeros,Hombres,2020,907.0
+530,48,65 y más,Extranjeros,Hombres,2019,769.0
+531,48,65 y más,Extranjeros,Mujeres,2021,1471.0
+532,48,65 y más,Extranjeros,Mujeres,2020,1356.0
+533,48,65 y más,Extranjeros,Mujeres,2019,1190.0
+534,48,65 y más,% Extranjeros,Hombres,2021,0.86
+535,48,65 y más,% Extranjeros,Hombres,2020,0.81
+536,48,65 y más,% Extranjeros,Hombres,2019,0.7
+537,48,65 y más,% Extranjeros,Mujeres,2021,0.94
+538,48,65 y más,% Extranjeros,Mujeres,2020,0.88
+539,48,65 y más,% Extranjeros,Mujeres,2019,0.78
+540,9,0-15 años,Españoles,Hombres,2021,22330.0
+541,9,0-15 años,Españoles,Hombres,2020,22755.0
+542,9,0-15 años,Españoles,Hombres,2019,22956.0
+543,9,0-15 años,Españoles,Mujeres,2021,21016.0
+544,9,0-15 años,Españoles,Mujeres,2020,21490.0
+545,9,0-15 años,Españoles,Mujeres,2019,21713.0
+546,9,0-15 años,Extranjeros,Hombres,2021,2379.0
+547,9,0-15 años,Extranjeros,Hombres,2020,2408.0
+548,9,0-15 años,Extranjeros,Hombres,2019,2206.0
+549,9,0-15 años,Extranjeros,Mujeres,2021,2321.0
+550,9,0-15 años,Extranjeros,Mujeres,2020,2320.0
+551,9,0-15 años,Extranjeros,Mujeres,2019,2169.0
+552,9,0-15 años,% Extranjeros,Hombres,2021,9.63
+553,9,0-15 años,% Extranjeros,Hombres,2020,9.57
+554,9,0-15 años,% Extranjeros,Hombres,2019,8.77
+555,9,0-15 años,% Extranjeros,Mujeres,2021,9.95
+556,9,0-15 años,% Extranjeros,Mujeres,2020,9.74
+557,9,0-15 años,% Extranjeros,Mujeres,2019,9.08
+558,9,16-64 años,Españoles,Hombres,2021,102439.0
+559,9,16-64 años,Españoles,Hombres,2020,103064.0
+560,9,16-64 años,Españoles,Hombres,2019,104176.0
+561,9,16-64 años,Españoles,Mujeres,2021,96313.0
+562,9,16-64 años,Españoles,Mujeres,2020,96836.0
+563,9,16-64 años,Españoles,Mujeres,2019,97702.0
+564,9,16-64 años,Extranjeros,Hombres,2021,11673.0
+565,9,16-64 años,Extranjeros,Hombres,2020,11427.0
+566,9,16-64 años,Extranjeros,Hombres,2019,10599.0
+567,9,16-64 años,Extranjeros,Mujeres,2021,11521.0
+568,9,16-64 años,Extranjeros,Mujeres,2020,11561.0
+569,9,16-64 años,Extranjeros,Mujeres,2019,10725.0
+570,9,16-64 años,% Extranjeros,Hombres,2021,10.23
+571,9,16-64 años,% Extranjeros,Hombres,2020,9.98
+572,9,16-64 años,% Extranjeros,Hombres,2019,9.23
+573,9,16-64 años,% Extranjeros,Mujeres,2021,10.68
+574,9,16-64 años,% Extranjeros,Mujeres,2020,10.67
+575,9,16-64 años,% Extranjeros,Mujeres,2019,9.89
+576,9,65 y más,Españoles,Hombres,2021,38651.0
+577,9,65 y más,Españoles,Hombres,2020,38514.0
+578,9,65 y más,Españoles,Hombres,2019,37935.0
+579,9,65 y más,Españoles,Mujeres,2021,46428.0
+580,9,65 y más,Españoles,Mujeres,2020,46365.0
+581,9,65 y más,Españoles,Mujeres,2019,46006.0
+582,9,65 y más,Extranjeros,Hombres,2021,448.0
+583,9,65 y más,Extranjeros,Hombres,2020,410.0
+584,9,65 y más,Extranjeros,Hombres,2019,358.0
+585,9,65 y más,Extranjeros,Mujeres,2021,536.0
+586,9,65 y más,Extranjeros,Mujeres,2020,500.0
+587,9,65 y más,Extranjeros,Mujeres,2019,413.0
+588,9,65 y más,% Extranjeros,Hombres,2021,1.15
+589,9,65 y más,% Extranjeros,Hombres,2020,1.05
+590,9,65 y más,% Extranjeros,Hombres,2019,0.93
+591,9,65 y más,% Extranjeros,Mujeres,2021,1.14
+592,9,65 y más,% Extranjeros,Mujeres,2020,1.07
+593,9,65 y más,% Extranjeros,Mujeres,2019,0.89
+594,10,0-15 años,Españoles,Hombres,2021,24590.0
+595,10,0-15 años,Españoles,Hombres,2020,25044.0
+596,10,0-15 años,Españoles,Hombres,2019,25562.0
+597,10,0-15 años,Españoles,Mujeres,2021,23307.0
+598,10,0-15 años,Españoles,Mujeres,2020,23815.0
+599,10,0-15 años,Españoles,Mujeres,2019,24269.0
+600,10,0-15 años,Extranjeros,Hombres,2021,1086.0
+601,10,0-15 años,Extranjeros,Hombres,2020,1103.0
+602,10,0-15 años,Extranjeros,Hombres,2019,1073.0
+603,10,0-15 años,Extranjeros,Mujeres,2021,1049.0
+604,10,0-15 años,Extranjeros,Mujeres,2020,1043.0
+605,10,0-15 años,Extranjeros,Mujeres,2019,1024.0
+606,10,0-15 años,% Extranjeros,Hombres,2021,4.23
+607,10,0-15 años,% Extranjeros,Hombres,2020,4.22
+608,10,0-15 años,% Extranjeros,Hombres,2019,4.03
+609,10,0-15 años,% Extranjeros,Mujeres,2021,4.31
+610,10,0-15 años,% Extranjeros,Mujeres,2020,4.2
+611,10,0-15 años,% Extranjeros,Mujeres,2019,4.05
+612,10,16-64 años,Españoles,Hombres,2021,121601.0
+613,10,16-64 años,Españoles,Hombres,2020,122407.0
+614,10,16-64 años,Españoles,Hombres,2019,123865.0
+615,10,16-64 años,Españoles,Mujeres,2021,116016.0
+616,10,16-64 años,Españoles,Mujeres,2020,116563.0
+617,10,16-64 años,Españoles,Mujeres,2019,117620.0
+618,10,16-64 años,Extranjeros,Hombres,2021,5202.0
+619,10,16-64 años,Extranjeros,Hombres,2020,5280.0
+620,10,16-64 años,Extranjeros,Hombres,2019,5182.0
+621,10,16-64 años,Extranjeros,Mujeres,2021,5343.0
+622,10,16-64 años,Extranjeros,Mujeres,2020,5341.0
+623,10,16-64 años,Extranjeros,Mujeres,2019,5104.0
+624,10,16-64 años,% Extranjeros,Hombres,2021,4.1
+625,10,16-64 años,% Extranjeros,Hombres,2020,4.14
+626,10,16-64 años,% Extranjeros,Hombres,2019,4.02
+627,10,16-64 años,% Extranjeros,Mujeres,2021,4.4
+628,10,16-64 años,% Extranjeros,Mujeres,2020,4.38
+629,10,16-64 años,% Extranjeros,Mujeres,2019,4.16
+630,10,65 y más,Españoles,Hombres,2021,39996.0
+631,10,65 y más,Españoles,Hombres,2020,39810.0
+632,10,65 y más,Españoles,Hombres,2019,39306.0
+633,10,65 y más,Españoles,Mujeres,2021,50445.0
+634,10,65 y más,Españoles,Mujeres,2020,50574.0
+635,10,65 y más,Españoles,Mujeres,2019,50365.0
+636,10,65 y más,Extranjeros,Hombres,2021,476.0
+637,10,65 y más,Extranjeros,Hombres,2020,440.0
+638,10,65 y más,Extranjeros,Hombres,2019,400.0
+639,10,65 y más,Extranjeros,Mujeres,2021,447.0
+640,10,65 y más,Extranjeros,Mujeres,2020,430.0
+641,10,65 y más,Extranjeros,Mujeres,2019,381.0
+642,10,65 y más,% Extranjeros,Hombres,2021,1.18
+643,10,65 y más,% Extranjeros,Hombres,2020,1.09
+644,10,65 y más,% Extranjeros,Hombres,2019,1.01
+645,10,65 y más,% Extranjeros,Mujeres,2021,0.88
+646,10,65 y más,% Extranjeros,Mujeres,2020,0.84
+647,10,65 y más,% Extranjeros,Mujeres,2019,0.75
+648,11,0-15 años,Españoles,Hombres,2021,101111.0
+649,11,0-15 años,Españoles,Hombres,2020,103829.0
+650,11,0-15 años,Españoles,Hombres,2019,105764.0
+651,11,0-15 años,Españoles,Mujeres,2021,95484.0
+652,11,0-15 años,Españoles,Mujeres,2020,97682.0
+653,11,0-15 años,Españoles,Mujeres,2019,99605.0
+654,11,0-15 años,Extranjeros,Hombres,2021,3512.0
+655,11,0-15 años,Extranjeros,Hombres,2020,3636.0
+656,11,0-15 años,Extranjeros,Hombres,2019,3400.0
+657,11,0-15 años,Extranjeros,Mujeres,2021,3522.0
+658,11,0-15 años,Extranjeros,Mujeres,2020,3580.0
+659,11,0-15 años,Extranjeros,Mujeres,2019,3282.0
+660,11,0-15 años,% Extranjeros,Hombres,2021,3.36
+661,11,0-15 años,% Extranjeros,Hombres,2020,3.38
+662,11,0-15 años,% Extranjeros,Hombres,2019,3.11
+663,11,0-15 años,% Extranjeros,Mujeres,2021,3.56
+664,11,0-15 años,% Extranjeros,Mujeres,2020,3.54
+665,11,0-15 años,% Extranjeros,Mujeres,2019,3.19
+666,11,16-64 años,Españoles,Hombres,2021,395620.0
+667,11,16-64 años,Españoles,Hombres,2020,395194.0
+668,11,16-64 años,Españoles,Hombres,2019,395813.0
+669,11,16-64 años,Españoles,Mujeres,2021,393119.0
+670,11,16-64 años,Españoles,Mujeres,2020,392676.0
+671,11,16-64 años,Españoles,Mujeres,2019,393181.0
+672,11,16-64 años,Extranjeros,Hombres,2021,19330.0
+673,11,16-64 años,Extranjeros,Hombres,2020,18810.0
+674,11,16-64 años,Extranjeros,Hombres,2019,17121.0
+675,11,16-64 años,Extranjeros,Mujeres,2021,19772.0
+676,11,16-64 años,Extranjeros,Mujeres,2020,19250.0
+677,11,16-64 años,Extranjeros,Mujeres,2019,17692.0
+678,11,16-64 años,% Extranjeros,Hombres,2021,4.66
+679,11,16-64 años,% Extranjeros,Hombres,2020,4.54
+680,11,16-64 años,% Extranjeros,Hombres,2019,4.15
+681,11,16-64 años,% Extranjeros,Mujeres,2021,4.79
+682,11,16-64 años,% Extranjeros,Mujeres,2020,4.67
+683,11,16-64 años,% Extranjeros,Mujeres,2019,4.31
+684,11,65 y más,Españoles,Hombres,2021,92185.0
+685,11,65 y más,Españoles,Hombres,2020,89931.0
+686,11,65 y más,Españoles,Hombres,2019,87717.0
+687,11,65 y más,Españoles,Mujeres,2021,117832.0
+688,11,65 y más,Españoles,Mujeres,2020,115267.0
+689,11,65 y más,Españoles,Mujeres,2019,112750.0
+690,11,65 y más,Extranjeros,Hombres,2021,2326.0
+691,11,65 y más,Extranjeros,Hombres,2020,2161.0
+692,11,65 y más,Extranjeros,Hombres,2019,1976.0
+693,11,65 y más,Extranjeros,Mujeres,2021,2147.0
+694,11,65 y más,Extranjeros,Mujeres,2020,2033.0
+695,11,65 y más,Extranjeros,Mujeres,2019,1854.0
+696,11,65 y más,% Extranjeros,Hombres,2021,2.46
+697,11,65 y más,% Extranjeros,Hombres,2020,2.35
+698,11,65 y más,% Extranjeros,Hombres,2019,2.2
+699,11,65 y más,% Extranjeros,Mujeres,2021,1.79
+700,11,65 y más,% Extranjeros,Mujeres,2020,1.73
+701,11,65 y más,% Extranjeros,Mujeres,2019,1.62
+702,39,0-15 años,Españoles,Hombres,2021,38393.0
+703,39,0-15 años,Españoles,Hombres,2020,39084.0
+704,39,0-15 años,Españoles,Hombres,2019,39805.0
+705,39,0-15 años,Españoles,Mujeres,2021,36456.0
+706,39,0-15 años,Españoles,Mujeres,2020,37283.0
+707,39,0-15 años,Españoles,Mujeres,2019,38023.0
+708,39,0-15 años,Extranjeros,Hombres,2021,2579.0
+709,39,0-15 años,Extranjeros,Hombres,2020,2615.0
+710,39,0-15 años,Extranjeros,Hombres,2019,2418.0
+711,39,0-15 años,Extranjeros,Mujeres,2021,2538.0
+712,39,0-15 años,Extranjeros,Mujeres,2020,2539.0
+713,39,0-15 años,Extranjeros,Mujeres,2019,2304.0
+714,39,0-15 años,% Extranjeros,Hombres,2021,6.29
+715,39,0-15 años,% Extranjeros,Hombres,2020,6.27
+716,39,0-15 años,% Extranjeros,Hombres,2019,5.73
+717,39,0-15 años,% Extranjeros,Mujeres,2021,6.51
+718,39,0-15 años,% Extranjeros,Mujeres,2020,6.38
+719,39,0-15 años,% Extranjeros,Mujeres,2019,5.71
+720,39,16-64 años,Españoles,Hombres,2021,171958.0
+721,39,16-64 años,Españoles,Hombres,2020,171882.0
+722,39,16-64 años,Españoles,Hombres,2019,172824.0
+723,39,16-64 años,Españoles,Mujeres,2021,171348.0
+724,39,16-64 años,Españoles,Mujeres,2020,171035.0
+725,39,16-64 años,Españoles,Mujeres,2019,172213.0
+726,39,16-64 años,Extranjeros,Hombres,2021,13909.0
+727,39,16-64 años,Extranjeros,Hombres,2020,13819.0
+728,39,16-64 años,Extranjeros,Hombres,2019,12722.0
+729,39,16-64 años,Extranjeros,Mujeres,2021,15310.0
+730,39,16-64 años,Extranjeros,Mujeres,2020,15223.0
+731,39,16-64 años,Extranjeros,Mujeres,2019,13869.0
+732,39,16-64 años,% Extranjeros,Hombres,2021,7.48
+733,39,16-64 años,% Extranjeros,Hombres,2020,7.44
+734,39,16-64 años,% Extranjeros,Hombres,2019,6.86
+735,39,16-64 años,% Extranjeros,Mujeres,2021,8.2
+736,39,16-64 años,% Extranjeros,Mujeres,2020,8.17
+737,39,16-64 años,% Extranjeros,Mujeres,2019,7.45
+738,39,65 y más,Españoles,Hombres,2021,55806.0
+739,39,65 y más,Españoles,Hombres,2020,54491.0
+740,39,65 y más,Españoles,Hombres,2019,53461.0
+741,39,65 y más,Españoles,Mujeres,2021,74379.0
+742,39,65 y más,Españoles,Mujeres,2020,73234.0
+743,39,65 y más,Españoles,Mujeres,2019,71969.0
+744,39,65 y más,Extranjeros,Hombres,2021,733.0
+745,39,65 y más,Extranjeros,Hombres,2020,668.0
+746,39,65 y más,Extranjeros,Hombres,2019,571.0
+747,39,65 y más,Extranjeros,Mujeres,2021,1098.0
+748,39,65 y más,Extranjeros,Mujeres,2020,1032.0
+749,39,65 y más,Extranjeros,Mujeres,2019,899.0
+750,39,65 y más,% Extranjeros,Hombres,2021,1.3
+751,39,65 y más,% Extranjeros,Hombres,2020,1.21
+752,39,65 y más,% Extranjeros,Hombres,2019,1.06
+753,39,65 y más,% Extranjeros,Mujeres,2021,1.45
+754,39,65 y más,% Extranjeros,Mujeres,2020,1.39
+755,39,65 y más,% Extranjeros,Mujeres,2019,1.23
+756,12,0-15 años,Españoles,Hombres,2021,38979.0
+757,12,0-15 años,Españoles,Hombres,2020,39596.0
+758,12,0-15 años,Españoles,Hombres,2019,40054.0
+759,12,0-15 años,Españoles,Mujeres,2021,36743.0
+760,12,0-15 años,Españoles,Mujeres,2020,37281.0
+761,12,0-15 años,Españoles,Mujeres,2019,37751.0
+762,12,0-15 años,Extranjeros,Hombres,2021,8049.0
+763,12,0-15 años,Extranjeros,Hombres,2020,8213.0
+764,12,0-15 años,Extranjeros,Hombres,2019,7958.0
+765,12,0-15 años,Extranjeros,Mujeres,2021,7261.0
+766,12,0-15 años,Extranjeros,Mujeres,2020,7416.0
+767,12,0-15 años,Extranjeros,Mujeres,2019,7190.0
+768,12,0-15 años,% Extranjeros,Hombres,2021,17.12
+769,12,0-15 años,% Extranjeros,Hombres,2020,17.18
+770,12,0-15 años,% Extranjeros,Hombres,2019,16.58
+771,12,0-15 años,% Extranjeros,Mujeres,2021,16.5
+772,12,0-15 años,% Extranjeros,Mujeres,2020,16.59
+773,12,0-15 años,% Extranjeros,Mujeres,2019,16.0
+774,12,16-64 años,Españoles,Hombres,2021,159523.0
+775,12,16-64 años,Españoles,Hombres,2020,158997.0
+776,12,16-64 años,Españoles,Hombres,2019,158876.0
+777,12,16-64 años,Españoles,Mujeres,2021,153080.0
+778,12,16-64 años,Españoles,Mujeres,2020,152661.0
+779,12,16-64 años,Españoles,Mujeres,2019,152625.0
+780,12,16-64 años,Extranjeros,Hombres,2021,33553.0
+781,12,16-64 años,Extranjeros,Hombres,2020,33587.0
+782,12,16-64 años,Extranjeros,Hombres,2019,31749.0
+783,12,16-64 años,Extranjeros,Mujeres,2021,34620.0
+784,12,16-64 años,Extranjeros,Mujeres,2020,34527.0
+785,12,16-64 años,Extranjeros,Mujeres,2019,32546.0
+786,12,16-64 años,% Extranjeros,Hombres,2021,17.38
+787,12,16-64 años,% Extranjeros,Hombres,2020,17.44
+788,12,16-64 años,% Extranjeros,Hombres,2019,16.66
+789,12,16-64 años,% Extranjeros,Mujeres,2021,18.44
+790,12,16-64 años,% Extranjeros,Mujeres,2020,18.45
+791,12,16-64 años,% Extranjeros,Mujeres,2019,17.58
+792,12,65 y más,Españoles,Hombres,2021,48716.0
+793,12,65 y más,Españoles,Hombres,2020,48030.0
+794,12,65 y más,Españoles,Hombres,2019,47314.0
+795,12,65 y más,Españoles,Mujeres,2021,60878.0
+796,12,65 y más,Españoles,Mujeres,2020,60033.0
+797,12,65 y más,Españoles,Mujeres,2019,59231.0
+798,12,65 y más,Extranjeros,Hombres,2021,2595.0
+799,12,65 y más,Extranjeros,Hombres,2020,2376.0
+800,12,65 y más,Extranjeros,Hombres,2019,2126.0
+801,12,65 y más,Extranjeros,Mujeres,2021,3067.0
+802,12,65 y más,Extranjeros,Mujeres,2020,2873.0
+803,12,65 y más,Extranjeros,Mujeres,2019,2542.0
+804,12,65 y más,% Extranjeros,Hombres,2021,5.06
+805,12,65 y más,% Extranjeros,Hombres,2020,4.71
+806,12,65 y más,% Extranjeros,Hombres,2019,4.3
+807,12,65 y más,% Extranjeros,Mujeres,2021,4.8
+808,12,65 y más,% Extranjeros,Mujeres,2020,4.57
+809,12,65 y más,% Extranjeros,Mujeres,2019,4.12
+810,13,0-15 años,Españoles,Hombres,2021,34558.0
+811,13,0-15 años,Españoles,Hombres,2020,35290.0
+812,13,0-15 años,Españoles,Hombres,2019,35791.0
+813,13,0-15 años,Españoles,Mujeres,2021,32927.0
+814,13,0-15 años,Españoles,Mujeres,2020,33501.0
+815,13,0-15 años,Españoles,Mujeres,2019,34087.0
+816,13,0-15 años,Extranjeros,Hombres,2021,2796.0
+817,13,0-15 años,Extranjeros,Hombres,2020,2868.0
+818,13,0-15 años,Extranjeros,Hombres,2019,2772.0
+819,13,0-15 años,Extranjeros,Mujeres,2021,2641.0
+820,13,0-15 años,Extranjeros,Mujeres,2020,2668.0
+821,13,0-15 años,Extranjeros,Mujeres,2019,2608.0
+822,13,0-15 años,% Extranjeros,Hombres,2021,7.49
+823,13,0-15 años,% Extranjeros,Hombres,2020,7.52
+824,13,0-15 años,% Extranjeros,Hombres,2019,7.19
+825,13,0-15 años,% Extranjeros,Mujeres,2021,7.43
+826,13,0-15 años,% Extranjeros,Mujeres,2020,7.38
+827,13,0-15 años,% Extranjeros,Mujeres,2019,7.11
+828,13,16-64 años,Españoles,Hombres,2021,150339.0
+829,13,16-64 años,Españoles,Hombres,2020,150541.0
+830,13,16-64 años,Españoles,Hombres,2019,151651.0
+831,13,16-64 años,Españoles,Mujeres,2021,144496.0
+832,13,16-64 años,Españoles,Mujeres,2020,144851.0
+833,13,16-64 años,Españoles,Mujeres,2019,146008.0
+834,13,16-64 años,Extranjeros,Hombres,2021,12755.0
+835,13,16-64 años,Extranjeros,Hombres,2020,12612.0
+836,13,16-64 años,Extranjeros,Hombres,2019,11486.0
+837,13,16-64 años,Extranjeros,Mujeres,2021,12061.0
+838,13,16-64 años,Extranjeros,Mujeres,2020,12018.0
+839,13,16-64 años,Extranjeros,Mujeres,2019,11253.0
+840,13,16-64 años,% Extranjeros,Hombres,2021,7.82
+841,13,16-64 años,% Extranjeros,Hombres,2020,7.73
+842,13,16-64 años,% Extranjeros,Hombres,2019,7.04
+843,13,16-64 años,% Extranjeros,Mujeres,2021,7.7
+844,13,16-64 años,% Extranjeros,Mujeres,2020,7.66
+845,13,16-64 años,% Extranjeros,Mujeres,2019,7.16
+846,13,65 y más,Españoles,Hombres,2021,42929.0
+847,13,65 y más,Españoles,Hombres,2020,43184.0
+848,13,65 y más,Españoles,Hombres,2019,42885.0
+849,13,65 y más,Españoles,Mujeres,2021,56147.0
+850,13,65 y más,Españoles,Mujeres,2020,56655.0
+851,13,65 y más,Españoles,Mujeres,2019,56492.0
+852,13,65 y más,Extranjeros,Hombres,2021,386.0
+853,13,65 y más,Extranjeros,Hombres,2020,347.0
+854,13,65 y más,Extranjeros,Hombres,2019,292.0
+855,13,65 y más,Extranjeros,Mujeres,2021,556.0
+856,13,65 y más,Extranjeros,Mujeres,2020,510.0
+857,13,65 y más,Extranjeros,Mujeres,2019,436.0
+858,13,65 y más,% Extranjeros,Hombres,2021,0.89
+859,13,65 y más,% Extranjeros,Hombres,2020,0.8
+860,13,65 y más,% Extranjeros,Hombres,2019,0.68
+861,13,65 y más,% Extranjeros,Mujeres,2021,0.98
+862,13,65 y más,% Extranjeros,Mujeres,2020,0.89
+863,13,65 y más,% Extranjeros,Mujeres,2019,0.77
+864,14,0-15 años,Españoles,Hombres,2021,59029.0
+865,14,0-15 años,Españoles,Hombres,2020,60452.0
+866,14,0-15 años,Españoles,Hombres,2019,61585.0
+867,14,0-15 años,Españoles,Mujeres,2021,55624.0
+868,14,0-15 años,Españoles,Mujeres,2020,56893.0
+869,14,0-15 años,Españoles,Mujeres,2019,57948.0
+870,14,0-15 años,Extranjeros,Hombres,2021,1721.0
+871,14,0-15 años,Extranjeros,Hombres,2020,1826.0
+872,14,0-15 años,Extranjeros,Hombres,2019,1668.0
+873,14,0-15 años,Extranjeros,Mujeres,2021,1567.0
+874,14,0-15 años,Extranjeros,Mujeres,2020,1697.0
+875,14,0-15 años,Extranjeros,Mujeres,2019,1593.0
+876,14,0-15 años,% Extranjeros,Hombres,2021,2.83
+877,14,0-15 años,% Extranjeros,Hombres,2020,2.93
+878,14,0-15 años,% Extranjeros,Hombres,2019,2.64
+879,14,0-15 años,% Extranjeros,Mujeres,2021,2.74
+880,14,0-15 años,% Extranjeros,Mujeres,2020,2.9
+881,14,0-15 años,% Extranjeros,Mujeres,2019,2.68
+882,14,16-64 años,Españoles,Hombres,2021,245710.0
+883,14,16-64 años,Españoles,Hombres,2020,247127.0
+884,14,16-64 años,Españoles,Hombres,2019,248376.0
+885,14,16-64 años,Españoles,Mujeres,2021,241627.0
+886,14,16-64 años,Españoles,Mujeres,2020,242985.0
+887,14,16-64 años,Españoles,Mujeres,2019,244282.0
+888,14,16-64 años,Extranjeros,Hombres,2021,8029.0
+889,14,16-64 años,Extranjeros,Hombres,2020,8340.0
+890,14,16-64 años,Extranjeros,Hombres,2019,8107.0
+891,14,16-64 años,Extranjeros,Mujeres,2021,9492.0
+892,14,16-64 años,Extranjeros,Mujeres,2020,9665.0
+893,14,16-64 años,Extranjeros,Mujeres,2019,8876.0
+894,14,16-64 años,% Extranjeros,Hombres,2021,3.16
+895,14,16-64 años,% Extranjeros,Hombres,2020,3.26
+896,14,16-64 años,% Extranjeros,Hombres,2019,3.16
+897,14,16-64 años,% Extranjeros,Mujeres,2021,3.78
+898,14,16-64 años,% Extranjeros,Mujeres,2020,3.83
+899,14,16-64 años,% Extranjeros,Mujeres,2019,3.51
+900,14,65 y más,Españoles,Hombres,2021,65501.0
+901,14,65 y más,Españoles,Hombres,2020,64690.0
+902,14,65 y más,Españoles,Hombres,2019,63664.0
+903,14,65 y más,Españoles,Mujeres,2021,87453.0
+904,14,65 y más,Españoles,Mujeres,2020,86792.0
+905,14,65 y más,Españoles,Mujeres,2019,86021.0
+906,14,65 y más,Extranjeros,Hombres,2021,483.0
+907,14,65 y más,Extranjeros,Hombres,2020,451.0
+908,14,65 y más,Extranjeros,Hombres,2019,390.0
+909,14,65 y más,Extranjeros,Mujeres,2021,553.0
+910,14,65 y más,Extranjeros,Mujeres,2020,533.0
+911,14,65 y más,Extranjeros,Mujeres,2019,469.0
+912,14,65 y más,% Extranjeros,Hombres,2021,0.73
+913,14,65 y más,% Extranjeros,Hombres,2020,0.69
+914,14,65 y más,% Extranjeros,Hombres,2019,0.61
+915,14,65 y más,% Extranjeros,Mujeres,2021,0.63
+916,14,65 y más,% Extranjeros,Mujeres,2020,0.61
+917,14,65 y más,% Extranjeros,Mujeres,2019,0.54
+918,15,0-15 años,Españoles,Hombres,2021,69937.0
+919,15,0-15 años,Españoles,Hombres,2020,71188.0
+920,15,0-15 años,Españoles,Hombres,2019,72128.0
+921,15,0-15 años,Españoles,Mujeres,2021,65916.0
+922,15,0-15 años,Españoles,Mujeres,2020,66983.0
+923,15,0-15 años,Españoles,Mujeres,2019,67916.0
+924,15,0-15 años,Extranjeros,Hombres,2021,2926.0
+925,15,0-15 años,Extranjeros,Hombres,2020,2874.0
+926,15,0-15 años,Extranjeros,Hombres,2019,2502.0
+927,15,0-15 años,Extranjeros,Mujeres,2021,2738.0
+928,15,0-15 años,Extranjeros,Mujeres,2020,2683.0
+929,15,0-15 años,Extranjeros,Mujeres,2019,2349.0
+930,15,0-15 años,% Extranjeros,Hombres,2021,4.02
+931,15,0-15 años,% Extranjeros,Hombres,2020,3.88
+932,15,0-15 años,% Extranjeros,Hombres,2019,3.35
+933,15,0-15 años,% Extranjeros,Mujeres,2021,3.99
+934,15,0-15 años,% Extranjeros,Mujeres,2020,3.85
+935,15,0-15 años,% Extranjeros,Mujeres,2019,3.34
+936,15,16-64 años,Españoles,Hombres,2021,327408.0
+937,15,16-64 años,Españoles,Hombres,2020,328955.0
+938,15,16-64 años,Españoles,Hombres,2019,330911.0
+939,15,16-64 años,Españoles,Mujeres,2021,333264.0
+940,15,16-64 años,Españoles,Mujeres,2020,335013.0
+941,15,16-64 años,Españoles,Mujeres,2019,337395.0
+942,15,16-64 años,Extranjeros,Hombres,2021,16739.0
+943,15,16-64 años,Extranjeros,Hombres,2020,16426.0
+944,15,16-64 años,Extranjeros,Hombres,2019,14500.0
+945,15,16-64 años,Extranjeros,Mujeres,2021,18857.0
+946,15,16-64 años,Extranjeros,Mujeres,2020,18461.0
+947,15,16-64 años,Extranjeros,Mujeres,2019,16531.0
+948,15,16-64 años,% Extranjeros,Hombres,2021,4.86
+949,15,16-64 años,% Extranjeros,Hombres,2020,4.76
+950,15,16-64 años,% Extranjeros,Hombres,2019,4.2
+951,15,16-64 años,% Extranjeros,Mujeres,2021,5.36
+952,15,16-64 años,% Extranjeros,Mujeres,2020,5.22
+953,15,16-64 años,% Extranjeros,Mujeres,2019,4.67
+954,15,65 y más,Españoles,Hombres,2021,118885.0
+955,15,65 y más,Españoles,Hombres,2020,117260.0
+956,15,65 y más,Españoles,Hombres,2019,115501.0
+957,15,65 y más,Españoles,Mujeres,2021,160778.0
+958,15,65 y más,Españoles,Mujeres,2020,159364.0
+959,15,65 y más,Españoles,Mujeres,2019,157638.0
+960,15,65 y más,Extranjeros,Hombres,2021,1109.0
+961,15,65 y más,Extranjeros,Hombres,2020,1078.0
+962,15,65 y más,Extranjeros,Hombres,2019,928.0
+963,15,65 y más,Extranjeros,Mujeres,2021,1577.0
+964,15,65 y más,Extranjeros,Mujeres,2020,1530.0
+965,15,65 y más,Extranjeros,Mujeres,2019,1297.0
+966,15,65 y más,% Extranjeros,Hombres,2021,0.92
+967,15,65 y más,% Extranjeros,Hombres,2020,0.91
+968,15,65 y más,% Extranjeros,Hombres,2019,0.8
+969,15,65 y más,% Extranjeros,Mujeres,2021,0.97
+970,15,65 y más,% Extranjeros,Mujeres,2020,0.95
+971,15,65 y más,% Extranjeros,Mujeres,2019,0.82
+972,16,0-15 años,Españoles,Hombres,2021,10857.0
+973,16,0-15 años,Españoles,Hombres,2020,10996.0
+974,16,0-15 años,Españoles,Hombres,2019,11236.0
+975,16,0-15 años,Españoles,Mujeres,2021,10481.0
+976,16,0-15 años,Españoles,Mujeres,2020,10658.0
+977,16,0-15 años,Españoles,Mujeres,2019,10956.0
+978,16,0-15 años,Extranjeros,Hombres,2021,2156.0
+979,16,0-15 años,Extranjeros,Hombres,2020,2140.0
+980,16,0-15 años,Extranjeros,Hombres,2019,2058.0
+981,16,0-15 años,Extranjeros,Mujeres,2021,2119.0
+982,16,0-15 años,Extranjeros,Mujeres,2020,2071.0
+983,16,0-15 años,Extranjeros,Mujeres,2019,1981.0
+984,16,0-15 años,% Extranjeros,Hombres,2021,16.57
+985,16,0-15 años,% Extranjeros,Hombres,2020,16.29
+986,16,0-15 años,% Extranjeros,Hombres,2019,15.48
+987,16,0-15 años,% Extranjeros,Mujeres,2021,16.82
+988,16,0-15 años,% Extranjeros,Mujeres,2020,16.27
+989,16,0-15 años,% Extranjeros,Mujeres,2019,15.31
+990,16,16-64 años,Españoles,Hombres,2021,55942.0
+991,16,16-64 años,Españoles,Hombres,2020,55917.0
+992,16,16-64 años,Españoles,Hombres,2019,56430.0
+993,16,16-64 años,Españoles,Mujeres,2021,51596.0
+994,16,16-64 años,Españoles,Mujeres,2020,51410.0
+995,16,16-64 años,Españoles,Mujeres,2019,51754.0
+996,16,16-64 años,Extranjeros,Hombres,2021,8935.0
+997,16,16-64 años,Extranjeros,Hombres,2020,8867.0
+998,16,16-64 años,Extranjeros,Hombres,2019,8203.0
+999,16,16-64 años,Extranjeros,Mujeres,2021,8532.0
+1000,16,16-64 años,Extranjeros,Mujeres,2020,8511.0
+1001,16,16-64 años,Extranjeros,Mujeres,2019,7872.0
+1002,16,16-64 años,% Extranjeros,Hombres,2021,13.77
+1003,16,16-64 años,% Extranjeros,Hombres,2020,13.69
+1004,16,16-64 años,% Extranjeros,Hombres,2019,12.69
+1005,16,16-64 años,% Extranjeros,Mujeres,2021,14.19
+1006,16,16-64 años,% Extranjeros,Mujeres,2020,14.2
+1007,16,16-64 años,% Extranjeros,Mujeres,2019,13.2
+1008,16,65 y más,Españoles,Hombres,2021,19987.0
+1009,16,65 y más,Españoles,Hombres,2020,20286.0
+1010,16,65 y más,Españoles,Hombres,2019,20433.0
+1011,16,65 y más,Españoles,Mujeres,2021,24326.0
+1012,16,65 y más,Españoles,Mujeres,2020,24741.0
+1013,16,65 y más,Españoles,Mujeres,2019,24949.0
+1014,16,65 y más,Extranjeros,Hombres,2021,241.0
+1015,16,65 y más,Extranjeros,Hombres,2020,224.0
+1016,16,65 y más,Extranjeros,Hombres,2019,182.0
+1017,16,65 y más,Extranjeros,Mujeres,2021,344.0
+1018,16,65 y más,Extranjeros,Mujeres,2020,318.0
+1019,16,65 y más,Extranjeros,Mujeres,2019,275.0
+1020,16,65 y más,% Extranjeros,Hombres,2021,1.19
+1021,16,65 y más,% Extranjeros,Hombres,2020,1.09
+1022,16,65 y más,% Extranjeros,Hombres,2019,0.88
+1023,16,65 y más,% Extranjeros,Mujeres,2021,1.39
+1024,16,65 y más,% Extranjeros,Mujeres,2020,1.27
+1025,16,65 y más,% Extranjeros,Mujeres,2019,1.09
+1026,20,0-15 años,Españoles,Hombres,2021,50212.0
+1027,20,0-15 años,Españoles,Hombres,2020,51302.0
+1028,20,0-15 años,Españoles,Hombres,2019,52413.0
+1029,20,0-15 años,Españoles,Mujeres,2021,47546.0
+1030,20,0-15 años,Españoles,Mujeres,2020,48607.0
+1031,20,0-15 años,Españoles,Mujeres,2019,49541.0
+1032,20,0-15 años,Extranjeros,Hombres,2021,5062.0
+1033,20,0-15 años,Extranjeros,Hombres,2020,5127.0
+1034,20,0-15 años,Extranjeros,Hombres,2019,4822.0
+1035,20,0-15 años,Extranjeros,Mujeres,2021,4690.0
+1036,20,0-15 años,Extranjeros,Mujeres,2020,4726.0
+1037,20,0-15 años,Extranjeros,Mujeres,2019,4390.0
+1038,20,0-15 años,% Extranjeros,Hombres,2021,9.16
+1039,20,0-15 años,% Extranjeros,Hombres,2020,9.09
+1040,20,0-15 años,% Extranjeros,Hombres,2019,8.42
+1041,20,0-15 años,% Extranjeros,Mujeres,2021,8.98
+1042,20,0-15 años,% Extranjeros,Mujeres,2020,8.86
+1043,20,0-15 años,% Extranjeros,Mujeres,2019,8.14
+1044,20,16-64 años,Españoles,Hombres,2021,203882.0
+1045,20,16-64 años,Españoles,Hombres,2020,204684.0
+1046,20,16-64 años,Españoles,Hombres,2019,205401.0
+1047,20,16-64 años,Españoles,Mujeres,2021,200437.0
+1048,20,16-64 años,Españoles,Mujeres,2020,200937.0
+1049,20,16-64 años,Españoles,Mujeres,2019,201907.0
+1050,20,16-64 años,Extranjeros,Hombres,2021,24570.0
+1051,20,16-64 años,Extranjeros,Hombres,2020,24000.0
+1052,20,16-64 años,Extranjeros,Hombres,2019,21967.0
+1053,20,16-64 años,Extranjeros,Mujeres,2021,24617.0
+1054,20,16-64 años,Extranjeros,Mujeres,2020,24520.0
+1055,20,16-64 años,Extranjeros,Mujeres,2019,22471.0
+1056,20,16-64 años,% Extranjeros,Hombres,2021,10.75
+1057,20,16-64 años,% Extranjeros,Hombres,2020,10.49
+1058,20,16-64 años,% Extranjeros,Hombres,2019,9.66
+1059,20,16-64 años,% Extranjeros,Mujeres,2021,10.94
+1060,20,16-64 años,% Extranjeros,Mujeres,2020,10.88
+1061,20,16-64 años,% Extranjeros,Mujeres,2019,10.01
+1062,20,65 y más,Españoles,Hombres,2021,70110.0
+1063,20,65 y más,Españoles,Hombres,2020,69219.0
+1064,20,65 y más,Españoles,Hombres,2019,68054.0
+1065,20,65 y más,Españoles,Mujeres,2021,92868.0
+1066,20,65 y más,Españoles,Mujeres,2020,92087.0
+1067,20,65 y más,Españoles,Mujeres,2019,90965.0
+1068,20,65 y más,Extranjeros,Hombres,2021,881.0
+1069,20,65 y más,Extranjeros,Hombres,2020,798.0
+1070,20,65 y más,Extranjeros,Hombres,2019,706.0
+1071,20,65 y más,Extranjeros,Mujeres,2021,1158.0
+1072,20,65 y más,Extranjeros,Mujeres,2020,1114.0
+1073,20,65 y más,Extranjeros,Mujeres,2019,939.0
+1074,20,65 y más,% Extranjeros,Hombres,2021,1.24
+1075,20,65 y más,% Extranjeros,Hombres,2020,1.14
+1076,20,65 y más,% Extranjeros,Hombres,2019,1.03
+1077,20,65 y más,% Extranjeros,Mujeres,2021,1.23
+1078,20,65 y más,% Extranjeros,Mujeres,2020,1.2
+1079,20,65 y más,% Extranjeros,Mujeres,2019,1.02
+1080,17,0-15 años,Españoles,Hombres,2021,53471.0
+1081,17,0-15 años,Españoles,Hombres,2020,53828.0
+1082,17,0-15 años,Españoles,Hombres,2019,54248.0
+1083,17,0-15 años,Españoles,Mujeres,2021,50482.0
+1084,17,0-15 años,Españoles,Mujeres,2020,50953.0
+1085,17,0-15 años,Españoles,Mujeres,2019,51376.0
+1086,17,0-15 años,Extranjeros,Hombres,2021,13802.0
+1087,17,0-15 años,Extranjeros,Hombres,2020,14334.0
+1088,17,0-15 años,Extranjeros,Hombres,2019,13971.0
+1089,17,0-15 años,Extranjeros,Mujeres,2021,13105.0
+1090,17,0-15 años,Extranjeros,Mujeres,2020,13514.0
+1091,17,0-15 años,Extranjeros,Mujeres,2019,13168.0
+1092,17,0-15 años,% Extranjeros,Hombres,2021,20.52
+1093,17,0-15 años,% Extranjeros,Hombres,2020,21.03
+1094,17,0-15 años,% Extranjeros,Hombres,2019,20.48
+1095,17,0-15 años,% Extranjeros,Mujeres,2021,20.61
+1096,17,0-15 años,% Extranjeros,Mujeres,2020,20.96
+1097,17,0-15 años,% Extranjeros,Mujeres,2019,20.4
+1098,17,16-64 años,Españoles,Hombres,2021,197933.0
+1099,17,16-64 años,Españoles,Hombres,2020,196297.0
+1100,17,16-64 años,Españoles,Hombres,2019,195944.0
+1101,17,16-64 años,Españoles,Mujeres,2021,192809.0
+1102,17,16-64 años,Españoles,Mujeres,2020,190821.0
+1103,17,16-64 años,Españoles,Mujeres,2019,190175.0
+1104,17,16-64 años,Extranjeros,Hombres,2021,64181.0
+1105,17,16-64 años,Extranjeros,Hombres,2020,63955.0
+1106,17,16-64 años,Extranjeros,Hombres,2019,59832.0
+1107,17,16-64 años,Extranjeros,Mujeres,2021,57456.0
+1108,17,16-64 años,Extranjeros,Mujeres,2020,57646.0
+1109,17,16-64 años,Extranjeros,Mujeres,2019,54906.0
+1110,17,16-64 años,% Extranjeros,Hombres,2021,24.49
+1111,17,16-64 años,% Extranjeros,Hombres,2020,24.57
+1112,17,16-64 años,% Extranjeros,Hombres,2019,23.39
+1113,17,16-64 años,% Extranjeros,Mujeres,2021,22.96
+1114,17,16-64 años,% Extranjeros,Mujeres,2020,23.2
+1115,17,16-64 años,% Extranjeros,Mujeres,2019,22.4
+1116,17,65 y más,Españoles,Hombres,2021,58981.0
+1117,17,65 y más,Españoles,Hombres,2020,57653.0
+1118,17,65 y más,Españoles,Hombres,2019,56410.0
+1119,17,65 y más,Españoles,Mujeres,2021,72890.0
+1120,17,65 y más,Españoles,Mujeres,2020,71801.0
+1121,17,65 y más,Españoles,Mujeres,2019,70583.0
+1122,17,65 y más,Extranjeros,Hombres,2021,5401.0
+1123,17,65 y más,Extranjeros,Hombres,2020,5116.0
+1124,17,65 y más,Extranjeros,Hombres,2019,4893.0
+1125,17,65 y más,Extranjeros,Mujeres,2021,6085.0
+1126,17,65 y más,Extranjeros,Mujeres,2020,5870.0
+1127,17,65 y más,Extranjeros,Mujeres,2019,5538.0
+1128,17,65 y más,% Extranjeros,Hombres,2021,8.39
+1129,17,65 y más,% Extranjeros,Hombres,2020,8.15
+1130,17,65 y más,% Extranjeros,Hombres,2019,7.98
+1131,17,65 y más,% Extranjeros,Mujeres,2021,7.7
+1132,17,65 y más,% Extranjeros,Mujeres,2020,7.56
+1133,17,65 y más,% Extranjeros,Mujeres,2019,7.28
+1134,18,0-15 años,Españoles,Hombres,2021,68986.0
+1135,18,0-15 años,Españoles,Hombres,2020,70402.0
+1136,18,0-15 años,Españoles,Hombres,2019,71218.0
+1137,18,0-15 años,Españoles,Mujeres,2021,65314.0
+1138,18,0-15 años,Españoles,Mujeres,2020,66405.0
+1139,18,0-15 años,Españoles,Mujeres,2019,67243.0
+1140,18,0-15 años,Extranjeros,Hombres,2021,4705.0
+1141,18,0-15 años,Extranjeros,Hombres,2020,4640.0
+1142,18,0-15 años,Extranjeros,Hombres,2019,4280.0
+1143,18,0-15 años,Extranjeros,Mujeres,2021,4524.0
+1144,18,0-15 años,Extranjeros,Mujeres,2020,4383.0
+1145,18,0-15 años,Extranjeros,Mujeres,2019,4016.0
+1146,18,0-15 años,% Extranjeros,Hombres,2021,6.38
+1147,18,0-15 años,% Extranjeros,Hombres,2020,6.18
+1148,18,0-15 años,% Extranjeros,Hombres,2019,5.67
+1149,18,0-15 años,% Extranjeros,Mujeres,2021,6.48
+1150,18,0-15 años,% Extranjeros,Mujeres,2020,6.19
+1151,18,0-15 años,% Extranjeros,Mujeres,2019,5.64
+1152,18,16-64 años,Españoles,Hombres,2021,279104.0
+1153,18,16-64 años,Españoles,Hombres,2020,278728.0
+1154,18,16-64 años,Españoles,Hombres,2019,279046.0
+1155,18,16-64 años,Españoles,Mujeres,2021,277717.0
+1156,18,16-64 años,Españoles,Mujeres,2020,277335.0
+1157,18,16-64 años,Españoles,Mujeres,2019,277519.0
+1158,18,16-64 años,Extranjeros,Hombres,2021,27404.0
+1159,18,16-64 años,Extranjeros,Hombres,2020,26360.0
+1160,18,16-64 años,Extranjeros,Hombres,2019,24732.0
+1161,18,16-64 años,Extranjeros,Mujeres,2021,25281.0
+1162,18,16-64 años,Extranjeros,Mujeres,2020,24384.0
+1163,18,16-64 años,Extranjeros,Mujeres,2019,22594.0
+1164,18,16-64 años,% Extranjeros,Hombres,2021,8.94
+1165,18,16-64 años,% Extranjeros,Hombres,2020,8.64
+1166,18,16-64 años,% Extranjeros,Hombres,2019,8.14
+1167,18,16-64 años,% Extranjeros,Mujeres,2021,8.34
+1168,18,16-64 años,% Extranjeros,Mujeres,2020,8.08
+1169,18,16-64 años,% Extranjeros,Mujeres,2019,7.53
+1170,18,65 y más,Españoles,Hombres,2021,70787.0
+1171,18,65 y más,Españoles,Hombres,2020,69771.0
+1172,18,65 y más,Españoles,Hombres,2019,68599.0
+1173,18,65 y más,Españoles,Mujeres,2021,92056.0
+1174,18,65 y más,Españoles,Mujeres,2020,91372.0
+1175,18,65 y más,Españoles,Mujeres,2019,90084.0
+1176,18,65 y más,Extranjeros,Hombres,2021,2697.0
+1177,18,65 y más,Extranjeros,Hombres,2020,2694.0
+1178,18,65 y más,Extranjeros,Hombres,2019,2680.0
+1179,18,65 y más,Extranjeros,Mujeres,2021,2763.0
+1180,18,65 y más,Extranjeros,Mujeres,2020,2694.0
+1181,18,65 y más,Extranjeros,Mujeres,2019,2667.0
+1182,18,65 y más,% Extranjeros,Hombres,2021,3.67
+1183,18,65 y más,% Extranjeros,Hombres,2020,3.72
+1184,18,65 y más,% Extranjeros,Hombres,2019,3.76
+1185,18,65 y más,% Extranjeros,Mujeres,2021,2.91
+1186,18,65 y más,% Extranjeros,Mujeres,2020,2.86
+1187,18,65 y más,% Extranjeros,Mujeres,2019,2.88
+1188,19,0-15 años,Españoles,Hombres,2021,19872.0
+1189,19,0-15 años,Españoles,Hombres,2020,19939.0
+1190,19,0-15 años,Españoles,Hombres,2019,20148.0
+1191,19,0-15 años,Españoles,Mujeres,2021,18879.0
+1192,19,0-15 años,Españoles,Mujeres,2020,19001.0
+1193,19,0-15 años,Españoles,Mujeres,2019,19231.0
+1194,19,0-15 años,Extranjeros,Hombres,2021,3443.0
+1195,19,0-15 años,Extranjeros,Hombres,2020,3398.0
+1196,19,0-15 años,Extranjeros,Hombres,2019,3151.0
+1197,19,0-15 años,Extranjeros,Mujeres,2021,3148.0
+1198,19,0-15 años,Extranjeros,Mujeres,2020,3092.0
+1199,19,0-15 años,Extranjeros,Mujeres,2019,2909.0
+1200,19,0-15 años,% Extranjeros,Hombres,2021,14.77
+1201,19,0-15 años,% Extranjeros,Hombres,2020,14.56
+1202,19,0-15 años,% Extranjeros,Hombres,2019,13.52
+1203,19,0-15 años,% Extranjeros,Mujeres,2021,14.29
+1204,19,0-15 años,% Extranjeros,Mujeres,2020,14.0
+1205,19,0-15 años,% Extranjeros,Mujeres,2019,13.14
+1206,19,16-64 años,Españoles,Hombres,2021,77272.0
+1207,19,16-64 años,Españoles,Hombres,2020,75941.0
+1208,19,16-64 años,Españoles,Hombres,2019,75205.0
+1209,19,16-64 años,Españoles,Mujeres,2021,71877.0
+1210,19,16-64 años,Españoles,Mujeres,2020,70600.0
+1211,19,16-64 años,Españoles,Mujeres,2019,70015.0
+1212,19,16-64 años,Extranjeros,Hombres,2021,14326.0
+1213,19,16-64 años,Extranjeros,Hombres,2020,14086.0
+1214,19,16-64 años,Extranjeros,Hombres,2019,12995.0
+1215,19,16-64 años,Extranjeros,Mujeres,2021,13974.0
+1216,19,16-64 años,Extranjeros,Mujeres,2020,13698.0
+1217,19,16-64 años,Extranjeros,Mujeres,2019,12739.0
+1218,19,16-64 años,% Extranjeros,Hombres,2021,15.64
+1219,19,16-64 años,% Extranjeros,Hombres,2020,15.65
+1220,19,16-64 años,% Extranjeros,Hombres,2019,14.73
+1221,19,16-64 años,% Extranjeros,Mujeres,2021,16.28
+1222,19,16-64 años,% Extranjeros,Mujeres,2020,16.25
+1223,19,16-64 años,% Extranjeros,Mujeres,2019,15.39
+1224,19,65 y más,Españoles,Hombres,2021,19183.0
+1225,19,65 y más,Españoles,Hombres,2020,19006.0
+1226,19,65 y más,Españoles,Hombres,2019,18616.0
+1227,19,65 y más,Españoles,Mujeres,2021,22259.0
+1228,19,65 y más,Españoles,Mujeres,2020,21999.0
+1229,19,65 y más,Españoles,Mujeres,2019,21681.0
+1230,19,65 y más,Extranjeros,Hombres,2021,528.0
+1231,19,65 y más,Extranjeros,Hombres,2020,469.0
+1232,19,65 y más,Extranjeros,Hombres,2019,419.0
+1233,19,65 y más,Extranjeros,Mujeres,2021,827.0
+1234,19,65 y más,Extranjeros,Mujeres,2020,766.0
+1235,19,65 y más,Extranjeros,Mujeres,2019,653.0
+1236,19,65 y más,% Extranjeros,Hombres,2021,2.68
+1237,19,65 y más,% Extranjeros,Hombres,2020,2.41
+1238,19,65 y más,% Extranjeros,Hombres,2019,2.2
+1239,19,65 y más,% Extranjeros,Mujeres,2021,3.58
+1240,19,65 y más,% Extranjeros,Mujeres,2020,3.36
+1241,19,65 y más,% Extranjeros,Mujeres,2019,2.92
+1242,21,0-15 años,Españoles,Hombres,2021,40100.0
+1243,21,0-15 años,Españoles,Hombres,2020,40738.0
+1244,21,0-15 años,Españoles,Hombres,2019,41364.0
+1245,21,0-15 años,Españoles,Mujeres,2021,37778.0
+1246,21,0-15 años,Españoles,Mujeres,2020,38263.0
+1247,21,0-15 años,Españoles,Mujeres,2019,38791.0
+1248,21,0-15 años,Extranjeros,Hombres,2021,3376.0
+1249,21,0-15 años,Extranjeros,Hombres,2020,3348.0
+1250,21,0-15 años,Extranjeros,Hombres,2019,3145.0
+1251,21,0-15 años,Extranjeros,Mujeres,2021,3036.0
+1252,21,0-15 años,Extranjeros,Mujeres,2020,3061.0
+1253,21,0-15 años,Extranjeros,Mujeres,2019,2876.0
+1254,21,0-15 años,% Extranjeros,Hombres,2021,7.77
+1255,21,0-15 años,% Extranjeros,Hombres,2020,7.59
+1256,21,0-15 años,% Extranjeros,Hombres,2019,7.07
+1257,21,0-15 años,% Extranjeros,Mujeres,2021,7.44
+1258,21,0-15 años,% Extranjeros,Mujeres,2020,7.41
+1259,21,0-15 años,% Extranjeros,Mujeres,2019,6.9
+1260,21,16-64 años,Españoles,Hombres,2021,157874.0
+1261,21,16-64 años,Españoles,Hombres,2020,157764.0
+1262,21,16-64 años,Españoles,Hombres,2019,158091.0
+1263,21,16-64 años,Españoles,Mujeres,2021,153436.0
+1264,21,16-64 años,Españoles,Mujeres,2020,153541.0
+1265,21,16-64 años,Españoles,Mujeres,2019,153620.0
+1266,21,16-64 años,Extranjeros,Hombres,2021,19197.0
+1267,21,16-64 años,Extranjeros,Hombres,2020,18557.0
+1268,21,16-64 años,Extranjeros,Hombres,2019,17489.0
+1269,21,16-64 años,Extranjeros,Mujeres,2021,20809.0
+1270,21,16-64 años,Extranjeros,Mujeres,2020,20653.0
+1271,21,16-64 años,Extranjeros,Mujeres,2019,19664.0
+1272,21,16-64 años,% Extranjeros,Hombres,2021,10.84
+1273,21,16-64 años,% Extranjeros,Hombres,2020,10.52
+1274,21,16-64 años,% Extranjeros,Hombres,2019,9.96
+1275,21,16-64 años,% Extranjeros,Mujeres,2021,11.94
+1276,21,16-64 años,% Extranjeros,Mujeres,2020,11.86
+1277,21,16-64 años,% Extranjeros,Mujeres,2019,11.35
+1278,21,65 y más,Españoles,Hombres,2021,39046.0
+1279,21,65 y más,Españoles,Hombres,2020,38161.0
+1280,21,65 y más,Españoles,Hombres,2019,37463.0
+1281,21,65 y más,Españoles,Mujeres,2021,49297.0
+1282,21,65 y más,Españoles,Mujeres,2020,48431.0
+1283,21,65 y más,Españoles,Mujeres,2019,47703.0
+1284,21,65 y más,Extranjeros,Hombres,2021,988.0
+1285,21,65 y más,Extranjeros,Hombres,2020,928.0
+1286,21,65 y más,Extranjeros,Hombres,2019,861.0
+1287,21,65 y más,Extranjeros,Mujeres,2021,898.0
+1288,21,65 y más,Extranjeros,Mujeres,2020,833.0
+1289,21,65 y más,Extranjeros,Mujeres,2019,803.0
+1290,21,65 y más,% Extranjeros,Hombres,2021,2.47
+1291,21,65 y más,% Extranjeros,Hombres,2020,2.37
+1292,21,65 y más,% Extranjeros,Hombres,2019,2.25
+1293,21,65 y más,% Extranjeros,Mujeres,2021,1.79
+1294,21,65 y más,% Extranjeros,Mujeres,2020,1.69
+1295,21,65 y más,% Extranjeros,Mujeres,2019,1.66
+1296,22,0-15 años,Españoles,Hombres,2021,13906.0
+1297,22,0-15 años,Españoles,Hombres,2020,14036.0
+1298,22,0-15 años,Españoles,Hombres,2019,14118.0
+1299,22,0-15 años,Españoles,Mujeres,2021,13365.0
+1300,22,0-15 años,Españoles,Mujeres,2020,13550.0
+1301,22,0-15 años,Españoles,Mujeres,2019,13659.0
+1302,22,0-15 años,Extranjeros,Hombres,2021,2527.0
+1303,22,0-15 años,Extranjeros,Hombres,2020,2475.0
+1304,22,0-15 años,Extranjeros,Hombres,2019,2214.0
+1305,22,0-15 años,Extranjeros,Mujeres,2021,2187.0
+1306,22,0-15 años,Extranjeros,Mujeres,2020,2111.0
+1307,22,0-15 años,Extranjeros,Mujeres,2019,1947.0
+1308,22,0-15 años,% Extranjeros,Hombres,2021,15.38
+1309,22,0-15 años,% Extranjeros,Hombres,2020,14.99
+1310,22,0-15 años,% Extranjeros,Hombres,2019,13.56
+1311,22,0-15 años,% Extranjeros,Mujeres,2021,14.06
+1312,22,0-15 años,% Extranjeros,Mujeres,2020,13.48
+1313,22,0-15 años,% Extranjeros,Mujeres,2019,12.48
+1314,22,16-64 años,Españoles,Hombres,2021,61843.0
+1315,22,16-64 años,Españoles,Hombres,2020,61476.0
+1316,22,16-64 años,Españoles,Hombres,2019,61867.0
+1317,22,16-64 años,Españoles,Mujeres,2021,56913.0
+1318,22,16-64 años,Españoles,Mujeres,2020,56638.0
+1319,22,16-64 años,Españoles,Mujeres,2019,56932.0
+1320,22,16-64 años,Extranjeros,Hombres,2021,12502.0
+1321,22,16-64 años,Extranjeros,Hombres,2020,11895.0
+1322,22,16-64 años,Extranjeros,Hombres,2019,10611.0
+1323,22,16-64 años,Extranjeros,Mujeres,2021,10725.0
+1324,22,16-64 años,Extranjeros,Mujeres,2020,10550.0
+1325,22,16-64 años,Extranjeros,Mujeres,2019,9615.0
+1326,22,16-64 años,% Extranjeros,Hombres,2021,16.82
+1327,22,16-64 años,% Extranjeros,Hombres,2020,16.21
+1328,22,16-64 años,% Extranjeros,Hombres,2019,14.64
+1329,22,16-64 años,% Extranjeros,Mujeres,2021,15.86
+1330,22,16-64 años,% Extranjeros,Mujeres,2020,15.7
+1331,22,16-64 años,% Extranjeros,Mujeres,2019,14.45
+1332,22,65 y más,Españoles,Hombres,2021,22436.0
+1333,22,65 y más,Españoles,Hombres,2020,22248.0
+1334,22,65 y más,Españoles,Hombres,2019,22098.0
+1335,22,65 y más,Españoles,Mujeres,2021,26977.0
+1336,22,65 y más,Españoles,Mujeres,2020,26914.0
+1337,22,65 y más,Españoles,Mujeres,2019,26711.0
+1338,22,65 y más,Extranjeros,Hombres,2021,393.0
+1339,22,65 y más,Extranjeros,Hombres,2020,349.0
+1340,22,65 y más,Extranjeros,Hombres,2019,320.0
+1341,22,65 y más,Extranjeros,Mujeres,2021,490.0
+1342,22,65 y más,Extranjeros,Mujeres,2020,445.0
+1343,22,65 y más,Extranjeros,Mujeres,2019,369.0
+1344,22,65 y más,% Extranjeros,Hombres,2021,1.72
+1345,22,65 y más,% Extranjeros,Hombres,2020,1.54
+1346,22,65 y más,% Extranjeros,Hombres,2019,1.43
+1347,22,65 y más,% Extranjeros,Mujeres,2021,1.78
+1348,22,65 y más,% Extranjeros,Mujeres,2020,1.63
+1349,22,65 y más,% Extranjeros,Mujeres,2019,1.36
+1350,23,0-15 años,Españoles,Hombres,2021,45957.0
+1351,23,0-15 años,Españoles,Hombres,2020,46775.0
+1352,23,0-15 años,Españoles,Hombres,2019,48148.0
+1353,23,0-15 años,Españoles,Mujeres,2021,43570.0
+1354,23,0-15 años,Españoles,Mujeres,2020,44371.0
+1355,23,0-15 años,Españoles,Mujeres,2019,45724.0
+1356,23,0-15 años,Extranjeros,Hombres,2021,1246.0
+1357,23,0-15 años,Extranjeros,Hombres,2020,1187.0
+1358,23,0-15 años,Extranjeros,Hombres,2019,1105.0
+1359,23,0-15 años,Extranjeros,Mujeres,2021,1144.0
+1360,23,0-15 años,Extranjeros,Mujeres,2020,1109.0
+1361,23,0-15 años,Extranjeros,Mujeres,2019,1080.0
+1362,23,0-15 años,% Extranjeros,Hombres,2021,2.64
+1363,23,0-15 años,% Extranjeros,Hombres,2020,2.47
+1364,23,0-15 años,% Extranjeros,Hombres,2019,2.24
+1365,23,0-15 años,% Extranjeros,Mujeres,2021,2.56
+1366,23,0-15 años,% Extranjeros,Mujeres,2020,2.44
+1367,23,0-15 años,% Extranjeros,Mujeres,2019,2.31
+1368,23,16-64 años,Españoles,Hombres,2021,202720.0
+1369,23,16-64 años,Españoles,Hombres,2020,203969.0
+1370,23,16-64 años,Españoles,Hombres,2019,205221.0
+1371,23,16-64 años,Españoles,Mujeres,2021,195671.0
+1372,23,16-64 años,Españoles,Mujeres,2020,196708.0
+1373,23,16-64 años,Españoles,Mujeres,2019,198108.0
+1374,23,16-64 años,Extranjeros,Hombres,2021,7305.0
+1375,23,16-64 años,Extranjeros,Hombres,2020,7188.0
+1376,23,16-64 años,Extranjeros,Hombres,2019,6811.0
+1377,23,16-64 años,Extranjeros,Mujeres,2021,6362.0
+1378,23,16-64 años,Extranjeros,Mujeres,2020,6178.0
+1379,23,16-64 años,Extranjeros,Mujeres,2019,5695.0
+1380,23,16-64 años,% Extranjeros,Hombres,2021,3.48
+1381,23,16-64 años,% Extranjeros,Hombres,2020,3.4
+1382,23,16-64 años,% Extranjeros,Hombres,2019,3.21
+1383,23,16-64 años,% Extranjeros,Mujeres,2021,3.15
+1384,23,16-64 años,% Extranjeros,Mujeres,2020,3.05
+1385,23,16-64 años,% Extranjeros,Mujeres,2019,2.79
+1386,23,65 y más,Españoles,Hombres,2021,52681.0
+1387,23,65 y más,Españoles,Hombres,2020,52876.0
+1388,23,65 y más,Españoles,Hombres,2019,51736.0
+1389,23,65 y más,Españoles,Mujeres,2021,69691.0
+1390,23,65 y más,Españoles,Mujeres,2020,70269.0
+1391,23,65 y más,Españoles,Mujeres,2019,69255.0
+1392,23,65 y más,Extranjeros,Hombres,2021,414.0
+1393,23,65 y más,Extranjeros,Hombres,2020,369.0
+1394,23,65 y más,Extranjeros,Hombres,2019,335.0
+1395,23,65 y más,Extranjeros,Mujeres,2021,429.0
+1396,23,65 y más,Extranjeros,Mujeres,2020,382.0
+1397,23,65 y más,Extranjeros,Mujeres,2019,346.0
+1398,23,65 y más,% Extranjeros,Hombres,2021,0.78
+1399,23,65 y más,% Extranjeros,Hombres,2020,0.69
+1400,23,65 y más,% Extranjeros,Hombres,2019,0.64
+1401,23,65 y más,% Extranjeros,Mujeres,2021,0.61
+1402,23,65 y más,% Extranjeros,Mujeres,2020,0.54
+1403,23,65 y más,% Extranjeros,Mujeres,2019,0.5
+1404,24,0-15 años,Españoles,Hombres,2021,24361.0
+1405,24,0-15 años,Españoles,Hombres,2020,24920.0
+1406,24,0-15 años,Españoles,Hombres,2019,25452.0
+1407,24,0-15 años,Españoles,Mujeres,2021,23011.0
+1408,24,0-15 años,Españoles,Mujeres,2020,23546.0
+1409,24,0-15 años,Españoles,Mujeres,2019,24195.0
+1410,24,0-15 años,Extranjeros,Hombres,2021,1472.0
+1411,24,0-15 años,Extranjeros,Hombres,2020,1540.0
+1412,24,0-15 años,Extranjeros,Hombres,2019,1426.0
+1413,24,0-15 años,Extranjeros,Mujeres,2021,1350.0
+1414,24,0-15 años,Extranjeros,Mujeres,2020,1388.0
+1415,24,0-15 años,Extranjeros,Mujeres,2019,1310.0
+1416,24,0-15 años,% Extranjeros,Hombres,2021,5.7
+1417,24,0-15 años,% Extranjeros,Hombres,2020,5.82
+1418,24,0-15 años,% Extranjeros,Hombres,2019,5.31
+1419,24,0-15 años,% Extranjeros,Mujeres,2021,5.54
+1420,24,0-15 años,% Extranjeros,Mujeres,2020,5.57
+1421,24,0-15 años,% Extranjeros,Mujeres,2019,5.14
+1422,24,16-64 años,Españoles,Hombres,2021,131790.0
+1423,24,16-64 años,Españoles,Hombres,2020,133505.0
+1424,24,16-64 años,Españoles,Hombres,2019,135742.0
+1425,24,16-64 años,Españoles,Mujeres,2021,128735.0
+1426,24,16-64 años,Españoles,Mujeres,2020,130098.0
+1427,24,16-64 años,Españoles,Mujeres,2019,132010.0
+1428,24,16-64 años,Extranjeros,Hombres,2021,7783.0
+1429,24,16-64 años,Extranjeros,Hombres,2020,7831.0
+1430,24,16-64 años,Extranjeros,Hombres,2019,7469.0
+1431,24,16-64 años,Extranjeros,Mujeres,2021,8479.0
+1432,24,16-64 años,Extranjeros,Mujeres,2020,8503.0
+1433,24,16-64 años,Extranjeros,Mujeres,2019,8010.0
+1434,24,16-64 años,% Extranjeros,Hombres,2021,5.58
+1435,24,16-64 años,% Extranjeros,Hombres,2020,5.54
+1436,24,16-64 años,% Extranjeros,Hombres,2019,5.22
+1437,24,16-64 años,% Extranjeros,Mujeres,2021,6.18
+1438,24,16-64 años,% Extranjeros,Mujeres,2020,6.13
+1439,24,16-64 años,% Extranjeros,Mujeres,2019,5.72
+1440,24,65 y más,Españoles,Hombres,2021,53623.0
+1441,24,65 y más,Españoles,Hombres,2020,53632.0
+1442,24,65 y más,Españoles,Hombres,2019,53261.0
+1443,24,65 y más,Españoles,Mujeres,2021,69955.0
+1444,24,65 y más,Españoles,Mujeres,2020,70393.0
+1445,24,65 y más,Españoles,Mujeres,2019,70232.0
+1446,24,65 y más,Extranjeros,Hombres,2021,503.0
+1447,24,65 y más,Extranjeros,Hombres,2020,476.0
+1448,24,65 y más,Extranjeros,Hombres,2019,394.0
+1449,24,65 y más,Extranjeros,Mujeres,2021,644.0
+1450,24,65 y más,Extranjeros,Mujeres,2020,607.0
+1451,24,65 y más,Extranjeros,Mujeres,2019,500.0
+1452,24,65 y más,% Extranjeros,Hombres,2021,0.93
+1453,24,65 y más,% Extranjeros,Hombres,2020,0.88
+1454,24,65 y más,% Extranjeros,Hombres,2019,0.73
+1455,24,65 y más,% Extranjeros,Mujeres,2021,0.91
+1456,24,65 y más,% Extranjeros,Mujeres,2020,0.85
+1457,24,65 y más,% Extranjeros,Mujeres,2019,0.71
+1458,25,0-15 años,Españoles,Hombres,2021,28030.0
+1459,25,0-15 años,Españoles,Hombres,2020,28437.0
+1460,25,0-15 años,Españoles,Hombres,2019,28783.0
+1461,25,0-15 años,Españoles,Mujeres,2021,26824.0
+1462,25,0-15 años,Españoles,Mujeres,2020,27246.0
+1463,25,0-15 años,Españoles,Mujeres,2019,27569.0
+1464,25,0-15 años,Extranjeros,Hombres,2021,7536.0
+1465,25,0-15 años,Extranjeros,Hombres,2020,7428.0
+1466,25,0-15 años,Extranjeros,Hombres,2019,7067.0
+1467,25,0-15 años,Extranjeros,Mujeres,2021,6948.0
+1468,25,0-15 años,Extranjeros,Mujeres,2020,6810.0
+1469,25,0-15 años,Extranjeros,Mujeres,2019,6464.0
+1470,25,0-15 años,% Extranjeros,Hombres,2021,21.19
+1471,25,0-15 años,% Extranjeros,Hombres,2020,20.71
+1472,25,0-15 años,% Extranjeros,Hombres,2019,19.71
+1473,25,0-15 años,% Extranjeros,Mujeres,2021,20.57
+1474,25,0-15 años,% Extranjeros,Mujeres,2020,20.0
+1475,25,0-15 años,% Extranjeros,Mujeres,2019,18.99
+1476,25,16-64 años,Españoles,Hombres,2021,112903.0
+1477,25,16-64 años,Españoles,Hombres,2020,112990.0
+1478,25,16-64 años,Españoles,Hombres,2019,113309.0
+1479,25,16-64 años,Españoles,Mujeres,2021,106731.0
+1480,25,16-64 años,Españoles,Mujeres,2020,106669.0
+1481,25,16-64 años,Españoles,Mujeres,2019,107028.0
+1482,25,16-64 años,Extranjeros,Hombres,2021,37523.0
+1483,25,16-64 años,Extranjeros,Hombres,2020,36665.0
+1484,25,16-64 años,Extranjeros,Hombres,2019,34510.0
+1485,25,16-64 años,Extranjeros,Mujeres,2021,27396.0
+1486,25,16-64 años,Extranjeros,Mujeres,2020,27110.0
+1487,25,16-64 años,Extranjeros,Mujeres,2019,26048.0
+1488,25,16-64 años,% Extranjeros,Hombres,2021,24.94
+1489,25,16-64 años,% Extranjeros,Hombres,2020,24.5
+1490,25,16-64 años,% Extranjeros,Hombres,2019,23.35
+1491,25,16-64 años,% Extranjeros,Mujeres,2021,20.43
+1492,25,16-64 años,% Extranjeros,Mujeres,2020,20.26
+1493,25,16-64 años,% Extranjeros,Mujeres,2019,19.57
+1494,25,65 y más,Españoles,Hombres,2021,37246.0
+1495,25,65 y más,Españoles,Hombres,2020,36992.0
+1496,25,65 y más,Españoles,Hombres,2019,36525.0
+1497,25,65 y más,Españoles,Mujeres,2021,46601.0
+1498,25,65 y más,Españoles,Mujeres,2020,46350.0
+1499,25,65 y más,Españoles,Mujeres,2019,46074.0
+1500,25,65 y más,Extranjeros,Hombres,2021,918.0
+1501,25,65 y más,Extranjeros,Hombres,2020,811.0
+1502,25,65 y más,Extranjeros,Hombres,2019,684.0
+1503,25,65 y más,Extranjeros,Mujeres,2021,1071.0
+1504,25,65 y más,Extranjeros,Mujeres,2020,1009.0
+1505,25,65 y más,Extranjeros,Mujeres,2019,869.0
+1506,25,65 y más,% Extranjeros,Hombres,2021,2.41
+1507,25,65 y más,% Extranjeros,Hombres,2020,2.15
+1508,25,65 y más,% Extranjeros,Hombres,2019,1.84
+1509,25,65 y más,% Extranjeros,Mujeres,2021,2.25
+1510,25,65 y más,% Extranjeros,Mujeres,2020,2.13
+1511,25,65 y más,% Extranjeros,Mujeres,2019,1.85
+1512,27,0-15 años,Españoles,Hombres,2021,16550.0
+1513,27,0-15 años,Españoles,Hombres,2020,16811.0
+1514,27,0-15 años,Españoles,Hombres,2019,17022.0
+1515,27,0-15 años,Españoles,Mujeres,2021,15987.0
+1516,27,0-15 años,Españoles,Mujeres,2020,16158.0
+1517,27,0-15 años,Españoles,Mujeres,2019,16504.0
+1518,27,0-15 años,Extranjeros,Hombres,2021,1188.0
+1519,27,0-15 años,Extranjeros,Hombres,2020,1188.0
+1520,27,0-15 años,Extranjeros,Hombres,2019,1046.0
+1521,27,0-15 años,Extranjeros,Mujeres,2021,1187.0
+1522,27,0-15 años,Extranjeros,Mujeres,2020,1183.0
+1523,27,0-15 años,Extranjeros,Mujeres,2019,1095.0
+1524,27,0-15 años,% Extranjeros,Hombres,2021,6.7
+1525,27,0-15 años,% Extranjeros,Hombres,2020,6.6
+1526,27,0-15 años,% Extranjeros,Hombres,2019,5.79
+1527,27,0-15 años,% Extranjeros,Mujeres,2021,6.91
+1528,27,0-15 años,% Extranjeros,Mujeres,2020,6.82
+1529,27,0-15 años,% Extranjeros,Mujeres,2019,6.22
+1530,27,16-64 años,Españoles,Hombres,2021,90821.0
+1531,27,16-64 años,Españoles,Hombres,2020,91988.0
+1532,27,16-64 años,Españoles,Hombres,2019,93522.0
+1533,27,16-64 años,Españoles,Mujeres,2021,90412.0
+1534,27,16-64 años,Españoles,Mujeres,2020,91331.0
+1535,27,16-64 años,Españoles,Mujeres,2019,92561.0
+1536,27,16-64 años,Extranjeros,Hombres,2021,6740.0
+1537,27,16-64 años,Extranjeros,Hombres,2020,6600.0
+1538,27,16-64 años,Extranjeros,Hombres,2019,6073.0
+1539,27,16-64 años,Extranjeros,Mujeres,2021,6629.0
+1540,27,16-64 años,Extranjeros,Mujeres,2020,6468.0
+1541,27,16-64 años,Extranjeros,Mujeres,2019,5760.0
+1542,27,16-64 años,% Extranjeros,Hombres,2021,6.91
+1543,27,16-64 años,% Extranjeros,Hombres,2020,6.69
+1544,27,16-64 años,% Extranjeros,Hombres,2019,6.1
+1545,27,16-64 años,% Extranjeros,Mujeres,2021,6.83
+1546,27,16-64 años,% Extranjeros,Mujeres,2020,6.61
+1547,27,16-64 años,% Extranjeros,Mujeres,2019,5.86
+1548,27,65 y más,Españoles,Hombres,2021,42259.0
+1549,27,65 y más,Españoles,Hombres,2020,41937.0
+1550,27,65 y más,Españoles,Hombres,2019,41749.0
+1551,27,65 y más,Españoles,Mujeres,2021,53471.0
+1552,27,65 y más,Españoles,Mujeres,2020,53568.0
+1553,27,65 y más,Españoles,Mujeres,2019,53645.0
+1554,27,65 y más,Extranjeros,Hombres,2021,334.0
+1555,27,65 y más,Extranjeros,Hombres,2020,318.0
+1556,27,65 y más,Extranjeros,Hombres,2019,274.0
+1557,27,65 y más,Extranjeros,Mujeres,2021,435.0
+1558,27,65 y más,Extranjeros,Mujeres,2020,396.0
+1559,27,65 y más,Extranjeros,Mujeres,2019,336.0
+1560,27,65 y más,% Extranjeros,Hombres,2021,0.78
+1561,27,65 y más,% Extranjeros,Hombres,2020,0.75
+1562,27,65 y más,% Extranjeros,Hombres,2019,0.65
+1563,27,65 y más,% Extranjeros,Mujeres,2021,0.81
+1564,27,65 y más,% Extranjeros,Mujeres,2020,0.73
+1565,27,65 y más,% Extranjeros,Mujeres,2019,0.62
+1566,28,0-15 años,Españoles,Hombres,2021,474314.0
+1567,28,0-15 años,Españoles,Hombres,2020,486075.0
+1568,28,0-15 años,Españoles,Hombres,2019,490790.0
+1569,28,0-15 años,Españoles,Mujeres,2021,450470.0
+1570,28,0-15 años,Españoles,Mujeres,2020,460860.0
+1571,28,0-15 años,Españoles,Mujeres,2019,465776.0
+1572,28,0-15 años,Extranjeros,Hombres,2021,69960.0
+1573,28,0-15 años,Extranjeros,Hombres,2020,70360.0
+1574,28,0-15 años,Extranjeros,Hombres,2019,66003.0
+1575,28,0-15 años,Extranjeros,Mujeres,2021,66546.0
+1576,28,0-15 años,Extranjeros,Mujeres,2020,66970.0
+1577,28,0-15 años,Extranjeros,Mujeres,2019,62715.0
+1578,28,0-15 años,% Extranjeros,Hombres,2021,12.85
+1579,28,0-15 años,% Extranjeros,Hombres,2020,12.64
+1580,28,0-15 años,% Extranjeros,Hombres,2019,11.85
+1581,28,0-15 años,% Extranjeros,Mujeres,2021,12.87
+1582,28,0-15 años,% Extranjeros,Mujeres,2020,12.69
+1583,28,0-15 años,% Extranjeros,Mujeres,2019,11.87
+1584,28,16-64 años,Españoles,Hombres,2021,1816835.0
+1585,28,16-64 años,Españoles,Hombres,2020,1819532.0
+1586,28,16-64 años,Españoles,Hombres,2019,1802900.0
+1587,28,16-64 años,Españoles,Mujeres,2021,1882170.0
+1588,28,16-64 años,Españoles,Mujeres,2020,1887871.0
+1589,28,16-64 años,Españoles,Mujeres,2019,1874951.0
+1590,28,16-64 años,Extranjeros,Hombres,2021,365625.0
+1591,28,16-64 años,Extranjeros,Hombres,2020,365376.0
+1592,28,16-64 años,Extranjeros,Hombres,2019,337049.0
+1593,28,16-64 años,Extranjeros,Mujeres,2021,412235.0
+1594,28,16-64 años,Extranjeros,Mujeres,2020,414106.0
+1595,28,16-64 años,Extranjeros,Mujeres,2019,382171.0
+1596,28,16-64 años,% Extranjeros,Hombres,2021,16.75
+1597,28,16-64 años,% Extranjeros,Hombres,2020,16.72
+1598,28,16-64 años,% Extranjeros,Hombres,2019,15.75
+1599,28,16-64 años,% Extranjeros,Mujeres,2021,17.97
+1600,28,16-64 años,% Extranjeros,Mujeres,2020,17.99
+1601,28,16-64 años,% Extranjeros,Mujeres,2019,16.93
+1602,28,65 y más,Españoles,Hombres,2021,487169.0
+1603,28,65 y más,Españoles,Hombres,2020,487396.0
+1604,28,65 y más,Españoles,Hombres,2019,477538.0
+1605,28,65 y más,Españoles,Mujeres,2021,685171.0
+1606,28,65 y más,Españoles,Mujeres,2020,682440.0
+1607,28,65 y más,Españoles,Mujeres,2019,669620.0
+1608,28,65 y más,Extranjeros,Hombres,2021,15797.0
+1609,28,65 y más,Extranjeros,Hombres,2020,15054.0
+1610,28,65 y más,Extranjeros,Hombres,2019,13032.0
+1611,28,65 y más,Extranjeros,Mujeres,2021,24959.0
+1612,28,65 y más,Extranjeros,Mujeres,2020,23848.0
+1613,28,65 y más,Extranjeros,Mujeres,2019,20849.0
+1614,28,65 y más,% Extranjeros,Hombres,2021,3.14
+1615,28,65 y más,% Extranjeros,Hombres,2020,3.0
+1616,28,65 y más,% Extranjeros,Hombres,2019,2.66
+1617,28,65 y más,% Extranjeros,Mujeres,2021,3.51
+1618,28,65 y más,% Extranjeros,Mujeres,2020,3.38
+1619,28,65 y más,% Extranjeros,Mujeres,2019,3.02
+1620,29,0-15 años,Españoles,Hombres,2021,123113.0
+1621,29,0-15 años,Españoles,Hombres,2020,125153.0
+1622,29,0-15 años,Españoles,Hombres,2019,126511.0
+1623,29,0-15 años,Españoles,Mujeres,2021,116610.0
+1624,29,0-15 años,Españoles,Mujeres,2020,118457.0
+1625,29,0-15 años,Españoles,Mujeres,2019,120099.0
+1626,29,0-15 años,Extranjeros,Hombres,2021,17393.0
+1627,29,0-15 años,Extranjeros,Hombres,2020,17817.0
+1628,29,0-15 años,Extranjeros,Hombres,2019,16675.0
+1629,29,0-15 años,Extranjeros,Mujeres,2021,16519.0
+1630,29,0-15 años,Extranjeros,Mujeres,2020,16807.0
+1631,29,0-15 años,Extranjeros,Mujeres,2019,15696.0
+1632,29,0-15 años,% Extranjeros,Hombres,2021,12.38
+1633,29,0-15 años,% Extranjeros,Hombres,2020,12.46
+1634,29,0-15 años,% Extranjeros,Hombres,2019,11.65
+1635,29,0-15 años,% Extranjeros,Mujeres,2021,12.41
+1636,29,0-15 años,% Extranjeros,Mujeres,2020,12.43
+1637,29,0-15 años,% Extranjeros,Mujeres,2019,11.56
+1638,29,16-64 años,Españoles,Hombres,2021,463676.0
+1639,29,16-64 años,Españoles,Hombres,2020,461337.0
+1640,29,16-64 años,Españoles,Hombres,2019,459456.0
+1641,29,16-64 años,Españoles,Mujeres,2021,466559.0
+1642,29,16-64 años,Españoles,Mujeres,2020,464026.0
+1643,29,16-64 años,Españoles,Mujeres,2019,461876.0
+1644,29,16-64 años,Extranjeros,Hombres,2021,90555.0
+1645,29,16-64 años,Extranjeros,Hombres,2020,89334.0
+1646,29,16-64 años,Extranjeros,Hombres,2019,83671.0
+1647,29,16-64 años,Extranjeros,Mujeres,2021,99045.0
+1648,29,16-64 años,Extranjeros,Mujeres,2020,98001.0
+1649,29,16-64 años,Extranjeros,Mujeres,2019,91250.0
+1650,29,16-64 años,% Extranjeros,Hombres,2021,16.34
+1651,29,16-64 años,% Extranjeros,Hombres,2020,16.22
+1652,29,16-64 años,% Extranjeros,Hombres,2019,15.41
+1653,29,16-64 años,% Extranjeros,Mujeres,2021,17.51
+1654,29,16-64 años,% Extranjeros,Mujeres,2020,17.44
+1655,29,16-64 años,% Extranjeros,Mujeres,2019,16.5
+1656,29,65 y más,Españoles,Hombres,2021,110561.0
+1657,29,65 y más,Españoles,Hombres,2020,107671.0
+1658,29,65 y más,Españoles,Hombres,2019,104967.0
+1659,29,65 y más,Españoles,Mujeres,2021,142131.0
+1660,29,65 y más,Españoles,Mujeres,2020,139070.0
+1661,29,65 y más,Españoles,Mujeres,2019,135723.0
+1662,29,65 y más,Extranjeros,Hombres,2021,24678.0
+1663,29,65 y más,Extranjeros,Hombres,2020,24138.0
+1664,29,65 y más,Extranjeros,Hombres,2019,23069.0
+1665,29,65 y más,Extranjeros,Mujeres,2021,24811.0
+1666,29,65 y más,Extranjeros,Mujeres,2020,24109.0
+1667,29,65 y más,Extranjeros,Mujeres,2019,22792.0
+1668,29,65 y más,% Extranjeros,Hombres,2021,18.25
+1669,29,65 y más,% Extranjeros,Hombres,2020,18.31
+1670,29,65 y más,% Extranjeros,Hombres,2019,18.02
+1671,29,65 y más,% Extranjeros,Mujeres,2021,14.86
+1672,29,65 y más,% Extranjeros,Mujeres,2020,14.77
+1673,29,65 y más,% Extranjeros,Mujeres,2019,14.38
+1674,30,0-15 años,Españoles,Hombres,2021,118916.0
+1675,30,0-15 años,Españoles,Hombres,2020,119696.0
+1676,30,0-15 años,Españoles,Hombres,2019,120792.0
+1677,30,0-15 años,Españoles,Mujeres,2021,112152.0
+1678,30,0-15 años,Españoles,Mujeres,2020,113104.0
+1679,30,0-15 años,Españoles,Mujeres,2019,113863.0
+1680,30,0-15 años,Extranjeros,Hombres,2021,20462.0
+1681,30,0-15 años,Extranjeros,Hombres,2020,21183.0
+1682,30,0-15 años,Extranjeros,Hombres,2019,20754.0
+1683,30,0-15 años,Extranjeros,Mujeres,2021,19106.0
+1684,30,0-15 años,Extranjeros,Mujeres,2020,19789.0
+1685,30,0-15 años,Extranjeros,Mujeres,2019,19343.0
+1686,30,0-15 años,% Extranjeros,Hombres,2021,14.68
+1687,30,0-15 años,% Extranjeros,Hombres,2020,15.04
+1688,30,0-15 años,% Extranjeros,Hombres,2019,14.66
+1689,30,0-15 años,% Extranjeros,Mujeres,2021,14.56
+1690,30,0-15 años,% Extranjeros,Mujeres,2020,14.89
+1691,30,0-15 años,% Extranjeros,Mujeres,2019,14.52
+1692,30,16-64 años,Españoles,Hombres,2021,422552.0
+1693,30,16-64 años,Españoles,Hombres,2020,419811.0
+1694,30,16-64 años,Españoles,Hombres,2019,417277.0
+1695,30,16-64 años,Españoles,Mujeres,2021,416001.0
+1696,30,16-64 años,Españoles,Mujeres,2020,413394.0
+1697,30,16-64 años,Españoles,Mujeres,2019,411070.0
+1698,30,16-64 años,Extranjeros,Hombres,2021,91635.0
+1699,30,16-64 años,Extranjeros,Hombres,2020,91323.0
+1700,30,16-64 años,Extranjeros,Hombres,2019,86403.0
+1701,30,16-64 años,Extranjeros,Mujeres,2021,75351.0
+1702,30,16-64 años,Extranjeros,Mujeres,2020,74984.0
+1703,30,16-64 años,Extranjeros,Mujeres,2019,70993.0
+1704,30,16-64 años,% Extranjeros,Hombres,2021,17.82
+1705,30,16-64 años,% Extranjeros,Hombres,2020,17.87
+1706,30,16-64 años,% Extranjeros,Hombres,2019,17.15
+1707,30,16-64 años,% Extranjeros,Mujeres,2021,15.34
+1708,30,16-64 años,% Extranjeros,Mujeres,2020,15.35
+1709,30,16-64 años,% Extranjeros,Mujeres,2019,14.73
+1710,30,65 y más,Españoles,Hombres,2021,98785.0
+1711,30,65 y más,Españoles,Hombres,2020,97138.0
+1712,30,65 y más,Españoles,Hombres,2019,95419.0
+1713,30,65 y más,Españoles,Mujeres,2021,127756.0
+1714,30,65 y más,Españoles,Mujeres,2020,125891.0
+1715,30,65 y más,Españoles,Mujeres,2019,124238.0
+1716,30,65 y más,Extranjeros,Hombres,2021,8012.0
+1717,30,65 y más,Extranjeros,Hombres,2020,7548.0
+1718,30,65 y más,Extranjeros,Hombres,2019,6970.0
+1719,30,65 y más,Extranjeros,Mujeres,2021,7758.0
+1720,30,65 y más,Extranjeros,Mujeres,2020,7390.0
+1721,30,65 y más,Extranjeros,Mujeres,2019,6776.0
+1722,30,65 y más,% Extranjeros,Hombres,2021,7.5
+1723,30,65 y más,% Extranjeros,Hombres,2020,7.21
+1724,30,65 y más,% Extranjeros,Hombres,2019,6.81
+1725,30,65 y más,% Extranjeros,Mujeres,2021,5.72
+1726,30,65 y más,% Extranjeros,Mujeres,2020,5.54
+1727,30,65 y más,% Extranjeros,Mujeres,2019,5.17
+1728,31,0-15 años,Españoles,Hombres,2021,48073.0
+1729,31,0-15 años,Españoles,Hombres,2020,49000.0
+1730,31,0-15 años,Españoles,Hombres,2019,49598.0
+1731,31,0-15 años,Españoles,Mujeres,2021,45784.0
+1732,31,0-15 años,Españoles,Mujeres,2020,46557.0
+1733,31,0-15 años,Españoles,Mujeres,2019,47212.0
+1734,31,0-15 años,Extranjeros,Hombres,2021,6609.0
+1735,31,0-15 años,Extranjeros,Hombres,2020,6530.0
+1736,31,0-15 años,Extranjeros,Hombres,2019,5860.0
+1737,31,0-15 años,Extranjeros,Mujeres,2021,6326.0
+1738,31,0-15 años,Extranjeros,Mujeres,2020,6175.0
+1739,31,0-15 años,Extranjeros,Mujeres,2019,5596.0
+1740,31,0-15 años,% Extranjeros,Hombres,2021,12.09
+1741,31,0-15 años,% Extranjeros,Hombres,2020,11.76
+1742,31,0-15 años,% Extranjeros,Hombres,2019,10.57
+1743,31,0-15 años,% Extranjeros,Mujeres,2021,12.14
+1744,31,0-15 años,% Extranjeros,Mujeres,2020,11.71
+1745,31,0-15 años,% Extranjeros,Mujeres,2019,10.6
+1746,31,16-64 años,Españoles,Hombres,2021,185854.0
+1747,31,16-64 años,Españoles,Hombres,2020,185754.0
+1748,31,16-64 años,Españoles,Hombres,2019,185837.0
+1749,31,16-64 años,Españoles,Mujeres,2021,180944.0
+1750,31,16-64 años,Españoles,Mujeres,2020,180976.0
+1751,31,16-64 años,Españoles,Mujeres,2019,181003.0
+1752,31,16-64 años,Extranjeros,Hombres,2021,28431.0
+1753,31,16-64 años,Extranjeros,Hombres,2020,28174.0
+1754,31,16-64 años,Extranjeros,Hombres,2019,25721.0
+1755,31,16-64 años,Extranjeros,Mujeres,2021,27575.0
+1756,31,16-64 años,Extranjeros,Mujeres,2020,27384.0
+1757,31,16-64 años,Extranjeros,Mujeres,2019,24996.0
+1758,31,16-64 años,% Extranjeros,Hombres,2021,13.27
+1759,31,16-64 años,% Extranjeros,Hombres,2020,13.17
+1760,31,16-64 años,% Extranjeros,Hombres,2019,12.16
+1761,31,16-64 años,% Extranjeros,Mujeres,2021,13.22
+1762,31,16-64 años,% Extranjeros,Mujeres,2020,13.14
+1763,31,16-64 años,% Extranjeros,Mujeres,2019,12.13
+1764,31,65 y más,Españoles,Hombres,2021,57493.0
+1765,31,65 y más,Españoles,Hombres,2020,56823.0
+1766,31,65 y más,Españoles,Hombres,2019,55790.0
+1767,31,65 y más,Españoles,Mujeres,2021,71948.0
+1768,31,65 y más,Españoles,Mujeres,2020,71421.0
+1769,31,65 y más,Españoles,Mujeres,2019,70555.0
+1770,31,65 y más,Extranjeros,Hombres,2021,1005.0
+1771,31,65 y más,Extranjeros,Hombres,2020,945.0
+1772,31,65 y más,Extranjeros,Hombres,2019,825.0
+1773,31,65 y más,Extranjeros,Mujeres,2021,1495.0
+1774,31,65 y más,Extranjeros,Mujeres,2020,1458.0
+1775,31,65 y más,Extranjeros,Mujeres,2019,1221.0
+1776,31,65 y más,% Extranjeros,Hombres,2021,1.72
+1777,31,65 y más,% Extranjeros,Hombres,2020,1.64
+1778,31,65 y más,% Extranjeros,Hombres,2019,1.46
+1779,31,65 y más,% Extranjeros,Mujeres,2021,2.04
+1780,31,65 y más,% Extranjeros,Mujeres,2020,2.0
+1781,31,65 y más,% Extranjeros,Mujeres,2019,1.7
+1782,32,0-15 años,Españoles,Hombres,2021,15483.0
+1783,32,0-15 años,Españoles,Hombres,2020,15616.0
+1784,32,0-15 años,Españoles,Hombres,2019,15912.0
+1785,32,0-15 años,Españoles,Mujeres,2021,14520.0
+1786,32,0-15 años,Españoles,Mujeres,2020,14728.0
+1787,32,0-15 años,Españoles,Mujeres,2019,15031.0
+1788,32,0-15 años,Extranjeros,Hombres,2021,893.0
+1789,32,0-15 años,Extranjeros,Hombres,2020,915.0
+1790,32,0-15 años,Extranjeros,Hombres,2019,808.0
+1791,32,0-15 años,Extranjeros,Mujeres,2021,909.0
+1792,32,0-15 años,Extranjeros,Mujeres,2020,926.0
+1793,32,0-15 años,Extranjeros,Mujeres,2019,806.0
+1794,32,0-15 años,% Extranjeros,Hombres,2021,5.45
+1795,32,0-15 años,% Extranjeros,Hombres,2020,5.54
+1796,32,0-15 años,% Extranjeros,Hombres,2019,4.83
+1797,32,0-15 años,% Extranjeros,Mujeres,2021,5.89
+1798,32,0-15 años,% Extranjeros,Mujeres,2020,5.92
+1799,32,0-15 años,% Extranjeros,Mujeres,2019,5.09
+1800,32,16-64 años,Españoles,Hombres,2021,82085.0
+1801,32,16-64 años,Españoles,Hombres,2020,82742.0
+1802,32,16-64 años,Españoles,Hombres,2019,83723.0
+1803,32,16-64 años,Españoles,Mujeres,2021,82030.0
+1804,32,16-64 años,Españoles,Mujeres,2020,82578.0
+1805,32,16-64 años,Españoles,Mujeres,2019,83439.0
+1806,32,16-64 años,Extranjeros,Hombres,2021,6056.0
+1807,32,16-64 años,Extranjeros,Hombres,2020,5899.0
+1808,32,16-64 años,Extranjeros,Hombres,2019,5431.0
+1809,32,16-64 años,Extranjeros,Mujeres,2021,6780.0
+1810,32,16-64 años,Extranjeros,Mujeres,2020,6565.0
+1811,32,16-64 años,Extranjeros,Mujeres,2019,5957.0
+1812,32,16-64 años,% Extranjeros,Hombres,2021,6.87
+1813,32,16-64 años,% Extranjeros,Hombres,2020,6.65
+1814,32,16-64 años,% Extranjeros,Hombres,2019,6.09
+1815,32,16-64 años,% Extranjeros,Mujeres,2021,7.63
+1816,32,16-64 años,% Extranjeros,Mujeres,2020,7.36
+1817,32,16-64 años,% Extranjeros,Mujeres,2019,6.66
+1818,32,65 y más,Españoles,Hombres,2021,41321.0
+1819,32,65 y más,Españoles,Hombres,2020,41292.0
+1820,32,65 y más,Españoles,Hombres,2019,41100.0
+1821,32,65 y más,Españoles,Mujeres,2021,53727.0
+1822,32,65 y más,Españoles,Mujeres,2020,54061.0
+1823,32,65 y más,Españoles,Mujeres,2019,54275.0
+1824,32,65 y más,Extranjeros,Hombres,2021,657.0
+1825,32,65 y más,Extranjeros,Hombres,2020,614.0
+1826,32,65 y más,Extranjeros,Hombres,2019,548.0
+1827,32,65 y más,Extranjeros,Mujeres,2021,762.0
+1828,32,65 y más,Extranjeros,Mujeres,2020,714.0
+1829,32,65 y más,Extranjeros,Mujeres,2019,621.0
+1830,32,65 y más,% Extranjeros,Hombres,2021,1.57
+1831,32,65 y más,% Extranjeros,Hombres,2020,1.47
+1832,32,65 y más,% Extranjeros,Hombres,2019,1.32
+1833,32,65 y más,% Extranjeros,Mujeres,2021,1.4
+1834,32,65 y más,% Extranjeros,Mujeres,2020,1.3
+1835,32,65 y más,% Extranjeros,Mujeres,2019,1.13
+1836,34,0-15 años,Españoles,Hombres,2021,9054.0
+1837,34,0-15 años,Españoles,Hombres,2020,9190.0
+1838,34,0-15 años,Españoles,Hombres,2019,9313.0
+1839,34,0-15 años,Españoles,Mujeres,2021,8565.0
+1840,34,0-15 años,Españoles,Mujeres,2020,8691.0
+1841,34,0-15 años,Españoles,Mujeres,2019,8824.0
+1842,34,0-15 años,Extranjeros,Hombres,2021,684.0
+1843,34,0-15 años,Extranjeros,Hombres,2020,668.0
+1844,34,0-15 años,Extranjeros,Hombres,2019,637.0
+1845,34,0-15 años,Extranjeros,Mujeres,2021,582.0
+1846,34,0-15 años,Extranjeros,Mujeres,2020,576.0
+1847,34,0-15 años,Extranjeros,Mujeres,2019,544.0
+1848,34,0-15 años,% Extranjeros,Hombres,2021,7.02
+1849,34,0-15 años,% Extranjeros,Hombres,2020,6.78
+1850,34,0-15 años,% Extranjeros,Hombres,2019,6.4
+1851,34,0-15 años,% Extranjeros,Mujeres,2021,6.36
+1852,34,0-15 años,% Extranjeros,Mujeres,2020,6.22
+1853,34,0-15 años,% Extranjeros,Mujeres,2019,5.81
+1854,34,16-64 años,Españoles,Hombres,2021,47648.0
+1855,34,16-64 años,Españoles,Hombres,2020,48424.0
+1856,34,16-64 años,Españoles,Hombres,2019,49271.0
+1857,34,16-64 años,Españoles,Mujeres,2021,45232.0
+1858,34,16-64 años,Españoles,Mujeres,2020,45775.0
+1859,34,16-64 años,Españoles,Mujeres,2019,46324.0
+1860,34,16-64 años,Extranjeros,Hombres,2021,2798.0
+1861,34,16-64 años,Extranjeros,Hombres,2020,2742.0
+1862,34,16-64 años,Extranjeros,Hombres,2019,2497.0
+1863,34,16-64 años,Extranjeros,Mujeres,2021,3008.0
+1864,34,16-64 años,Extranjeros,Mujeres,2020,2947.0
+1865,34,16-64 años,Extranjeros,Mujeres,2019,2736.0
+1866,34,16-64 años,% Extranjeros,Hombres,2021,5.55
+1867,34,16-64 años,% Extranjeros,Hombres,2020,5.36
+1868,34,16-64 años,% Extranjeros,Hombres,2019,4.82
+1869,34,16-64 años,% Extranjeros,Mujeres,2021,6.24
+1870,34,16-64 años,% Extranjeros,Mujeres,2020,6.05
+1871,34,16-64 años,% Extranjeros,Mujeres,2019,5.58
+1872,34,65 y más,Españoles,Hombres,2021,18547.0
+1873,34,65 y más,Españoles,Hombres,2020,18328.0
+1874,34,65 y más,Españoles,Hombres,2019,18001.0
+1875,34,65 y más,Españoles,Mujeres,2021,22750.0
+1876,34,65 y más,Españoles,Mujeres,2020,22747.0
+1877,34,65 y más,Españoles,Mujeres,2019,22635.0
+1878,34,65 y más,Extranjeros,Hombres,2021,110.0
+1879,34,65 y más,Extranjeros,Hombres,2020,105.0
+1880,34,65 y más,Extranjeros,Hombres,2019,89.0
+1881,34,65 y más,Extranjeros,Mujeres,2021,145.0
+1882,34,65 y más,Extranjeros,Mujeres,2020,128.0
+1883,34,65 y más,Extranjeros,Mujeres,2019,109.0
+1884,34,65 y más,% Extranjeros,Hombres,2021,0.59
+1885,34,65 y más,% Extranjeros,Hombres,2020,0.57
+1886,34,65 y más,% Extranjeros,Hombres,2019,0.49
+1887,34,65 y más,% Extranjeros,Mujeres,2021,0.63
+1888,34,65 y más,% Extranjeros,Mujeres,2020,0.56
+1889,34,65 y más,% Extranjeros,Mujeres,2019,0.48
+1890,35,0-15 años,Españoles,Hombres,2021,70933.0
+1891,35,0-15 años,Españoles,Hombres,2020,73519.0
+1892,35,0-15 años,Españoles,Hombres,2019,75372.0
+1893,35,0-15 años,Españoles,Mujeres,2021,67356.0
+1894,35,0-15 años,Españoles,Mujeres,2020,69908.0
+1895,35,0-15 años,Españoles,Mujeres,2019,71684.0
+1896,35,0-15 años,Extranjeros,Hombres,2021,8373.0
+1897,35,0-15 años,Extranjeros,Hombres,2020,8631.0
+1898,35,0-15 años,Extranjeros,Hombres,2019,8237.0
+1899,35,0-15 años,Extranjeros,Mujeres,2021,7850.0
+1900,35,0-15 años,Extranjeros,Mujeres,2020,8107.0
+1901,35,0-15 años,Extranjeros,Mujeres,2019,7596.0
+1902,35,0-15 años,% Extranjeros,Hombres,2021,10.56
+1903,35,0-15 años,% Extranjeros,Hombres,2020,10.51
+1904,35,0-15 años,% Extranjeros,Hombres,2019,9.85
+1905,35,0-15 años,% Extranjeros,Mujeres,2021,10.44
+1906,35,0-15 años,% Extranjeros,Mujeres,2020,10.39
+1907,35,0-15 años,% Extranjeros,Mujeres,2019,9.58
+1908,35,16-64 años,Españoles,Hombres,2021,346141.0
+1909,35,16-64 años,Españoles,Hombres,2020,345855.0
+1910,35,16-64 años,Españoles,Hombres,2019,345185.0
+1911,35,16-64 años,Españoles,Mujeres,2021,338691.0
+1912,35,16-64 años,Españoles,Mujeres,2020,338171.0
+1913,35,16-64 años,Españoles,Mujeres,2019,337078.0
+1914,35,16-64 años,Extranjeros,Hombres,2021,55196.0
+1915,35,16-64 años,Extranjeros,Hombres,2020,56518.0
+1916,35,16-64 años,Extranjeros,Hombres,2019,53292.0
+1917,35,16-64 años,Extranjeros,Mujeres,2021,55903.0
+1918,35,16-64 años,Extranjeros,Mujeres,2020,57378.0
+1919,35,16-64 años,Extranjeros,Mujeres,2019,54195.0
+1920,35,16-64 años,% Extranjeros,Hombres,2021,13.75
+1921,35,16-64 años,% Extranjeros,Hombres,2020,14.05
+1922,35,16-64 años,% Extranjeros,Hombres,2019,13.37
+1923,35,16-64 años,% Extranjeros,Mujeres,2021,14.17
+1924,35,16-64 años,% Extranjeros,Mujeres,2020,14.51
+1925,35,16-64 años,% Extranjeros,Mujeres,2019,13.85
+1926,35,65 y más,Españoles,Hombres,2021,72359.0
+1927,35,65 y más,Españoles,Hombres,2020,70125.0
+1928,35,65 y más,Españoles,Hombres,2019,68092.0
+1929,35,65 y más,Españoles,Mujeres,2021,89161.0
+1930,35,65 y más,Españoles,Mujeres,2020,86766.0
+1931,35,65 y más,Españoles,Mujeres,2019,84435.0
+1932,35,65 y más,Extranjeros,Hombres,2021,8279.0
+1933,35,65 y más,Extranjeros,Hombres,2020,8046.0
+1934,35,65 y más,Extranjeros,Hombres,2019,7596.0
+1935,35,65 y más,Extranjeros,Mujeres,2021,8297.0
+1936,35,65 y más,Extranjeros,Mujeres,2020,8041.0
+1937,35,65 y más,Extranjeros,Mujeres,2019,7644.0
+1938,35,65 y más,% Extranjeros,Hombres,2021,10.27
+1939,35,65 y más,% Extranjeros,Hombres,2020,10.29
+1940,35,65 y más,% Extranjeros,Hombres,2019,10.04
+1941,35,65 y más,% Extranjeros,Mujeres,2021,8.51
+1942,35,65 y más,% Extranjeros,Mujeres,2020,8.48
+1943,35,65 y más,% Extranjeros,Mujeres,2019,8.3
+1944,36,0-15 años,Españoles,Hombres,2021,62554.0
+1945,36,0-15 años,Españoles,Hombres,2020,63861.0
+1946,36,0-15 años,Españoles,Hombres,2019,64843.0
+1947,36,0-15 años,Españoles,Mujeres,2021,58437.0
+1948,36,0-15 años,Españoles,Mujeres,2020,59559.0
+1949,36,0-15 años,Españoles,Mujeres,2019,60598.0
+1950,36,0-15 años,Extranjeros,Hombres,2021,2239.0
+1951,36,0-15 años,Extranjeros,Hombres,2020,2254.0
+1952,36,0-15 años,Extranjeros,Hombres,2019,1983.0
+1953,36,0-15 años,Extranjeros,Mujeres,2021,2214.0
+1954,36,0-15 años,Extranjeros,Mujeres,2020,2249.0
+1955,36,0-15 años,Extranjeros,Mujeres,2019,1951.0
+1956,36,0-15 años,% Extranjeros,Hombres,2021,3.46
+1957,36,0-15 años,% Extranjeros,Hombres,2020,3.41
+1958,36,0-15 años,% Extranjeros,Hombres,2019,2.97
+1959,36,0-15 años,% Extranjeros,Mujeres,2021,3.65
+1960,36,0-15 años,% Extranjeros,Mujeres,2020,3.64
+1961,36,0-15 años,% Extranjeros,Mujeres,2019,3.12
+1962,36,16-64 años,Españoles,Hombres,2021,283575.0
+1963,36,16-64 años,Españoles,Hombres,2020,284400.0
+1964,36,16-64 años,Españoles,Hombres,2019,285445.0
+1965,36,16-64 años,Españoles,Mujeres,2021,285567.0
+1966,36,16-64 años,Españoles,Mujeres,2020,286751.0
+1967,36,16-64 años,Españoles,Mujeres,2019,288237.0
+1968,36,16-64 años,Extranjeros,Hombres,2021,14751.0
+1969,36,16-64 años,Extranjeros,Hombres,2020,14646.0
+1970,36,16-64 años,Extranjeros,Hombres,2019,13405.0
+1971,36,16-64 años,Extranjeros,Mujeres,2021,16113.0
+1972,36,16-64 años,Extranjeros,Mujeres,2020,15996.0
+1973,36,16-64 años,Extranjeros,Mujeres,2019,14331.0
+1974,36,16-64 años,% Extranjeros,Hombres,2021,4.94
+1975,36,16-64 años,% Extranjeros,Hombres,2020,4.9
+1976,36,16-64 años,% Extranjeros,Hombres,2019,4.49
+1977,36,16-64 años,% Extranjeros,Mujeres,2021,5.34
+1978,36,16-64 años,% Extranjeros,Mujeres,2020,5.28
+1979,36,16-64 años,% Extranjeros,Mujeres,2019,4.74
+1980,36,65 y más,Españoles,Hombres,2021,91569.0
+1981,36,65 y más,Españoles,Hombres,2020,90078.0
+1982,36,65 y más,Españoles,Hombres,2019,88510.0
+1983,36,65 y más,Españoles,Mujeres,2021,124555.0
+1984,36,65 y más,Españoles,Mujeres,2020,122959.0
+1985,36,65 y más,Españoles,Mujeres,2019,121026.0
+1986,36,65 y más,Extranjeros,Hombres,2021,1222.0
+1987,36,65 y más,Extranjeros,Hombres,2020,1213.0
+1988,36,65 y más,Extranjeros,Hombres,2019,1100.0
+1989,36,65 y más,Extranjeros,Mujeres,2021,1479.0
+1990,36,65 y más,Extranjeros,Mujeres,2020,1442.0
+1991,36,65 y más,Extranjeros,Mujeres,2019,1236.0
+1992,36,65 y más,% Extranjeros,Hombres,2021,1.32
+1993,36,65 y más,% Extranjeros,Hombres,2020,1.33
+1994,36,65 y más,% Extranjeros,Hombres,2019,1.23
+1995,36,65 y más,% Extranjeros,Mujeres,2021,1.17
+1996,36,65 y más,% Extranjeros,Mujeres,2020,1.16
+1997,36,65 y más,% Extranjeros,Mujeres,2019,1.01
+1998,26,0-15 años,Españoles,Hombres,2021,20868.0
+1999,26,0-15 años,Españoles,Hombres,2020,21255.0
+2000,26,0-15 años,Españoles,Hombres,2019,21517.0
+2001,26,0-15 años,Españoles,Mujeres,2021,19687.0
+2002,26,0-15 años,Españoles,Mujeres,2020,20162.0
+2003,26,0-15 años,Españoles,Mujeres,2019,20443.0
+2004,26,0-15 años,Extranjeros,Hombres,2021,4088.0
+2005,26,0-15 años,Extranjeros,Hombres,2020,4014.0
+2006,26,0-15 años,Extranjeros,Hombres,2019,3757.0
+2007,26,0-15 años,Extranjeros,Mujeres,2021,3801.0
+2008,26,0-15 años,Extranjeros,Mujeres,2020,3695.0
+2009,26,0-15 años,Extranjeros,Mujeres,2019,3431.0
+2010,26,0-15 años,% Extranjeros,Hombres,2021,16.38
+2011,26,0-15 años,% Extranjeros,Hombres,2020,15.89
+2012,26,0-15 años,% Extranjeros,Hombres,2019,14.87
+2013,26,0-15 años,% Extranjeros,Mujeres,2021,16.18
+2014,26,0-15 años,% Extranjeros,Mujeres,2020,15.49
+2015,26,0-15 años,% Extranjeros,Mujeres,2019,14.37
+2016,26,16-64 años,Españoles,Hombres,2021,87004.0
+2017,26,16-64 años,Españoles,Hombres,2020,87204.0
+2018,26,16-64 años,Españoles,Hombres,2019,87288.0
+2019,26,16-64 años,Españoles,Mujeres,2021,84910.0
+2020,26,16-64 años,Españoles,Mujeres,2020,85079.0
+2021,26,16-64 años,Españoles,Mujeres,2019,85174.0
+2022,26,16-64 años,Extranjeros,Hombres,2021,15688.0
+2023,26,16-64 años,Extranjeros,Hombres,2020,15436.0
+2024,26,16-64 años,Extranjeros,Hombres,2019,14230.0
+2025,26,16-64 años,Extranjeros,Mujeres,2021,15914.0
+2026,26,16-64 años,Extranjeros,Mujeres,2020,15748.0
+2027,26,16-64 años,Extranjeros,Mujeres,2019,14709.0
+2028,26,16-64 años,% Extranjeros,Hombres,2021,15.28
+2029,26,16-64 años,% Extranjeros,Hombres,2020,15.04
+2030,26,16-64 años,% Extranjeros,Hombres,2019,14.02
+2031,26,16-64 años,% Extranjeros,Mujeres,2021,15.78
+2032,26,16-64 años,% Extranjeros,Mujeres,2020,15.62
+2033,26,16-64 años,% Extranjeros,Mujeres,2019,14.73
+2034,26,65 y más,Españoles,Hombres,2021,29641.0
+2035,26,65 y más,Españoles,Hombres,2020,29433.0
+2036,26,65 y más,Españoles,Hombres,2019,28957.0
+2037,26,65 y más,Españoles,Mujeres,2021,36795.0
+2038,26,65 y más,Españoles,Mujeres,2020,36571.0
+2039,26,65 y más,Españoles,Mujeres,2019,36189.0
+2040,26,65 y más,Extranjeros,Hombres,2021,534.0
+2041,26,65 y más,Extranjeros,Hombres,2020,493.0
+2042,26,65 y más,Extranjeros,Hombres,2019,430.0
+2043,26,65 y más,Extranjeros,Mujeres,2021,866.0
+2044,26,65 y más,Extranjeros,Mujeres,2020,824.0
+2045,26,65 y más,Extranjeros,Mujeres,2019,673.0
+2046,26,65 y más,% Extranjeros,Hombres,2021,1.77
+2047,26,65 y más,% Extranjeros,Hombres,2020,1.65
+2048,26,65 y más,% Extranjeros,Hombres,2019,1.46
+2049,26,65 y más,% Extranjeros,Mujeres,2021,2.3
+2050,26,65 y más,% Extranjeros,Mujeres,2020,2.2
+2051,26,65 y más,% Extranjeros,Mujeres,2019,1.83
+2052,37,0-15 años,Españoles,Hombres,2021,19175.0
+2053,37,0-15 años,Españoles,Hombres,2020,19531.0
+2054,37,0-15 años,Españoles,Hombres,2019,19952.0
+2055,37,0-15 años,Españoles,Mujeres,2021,18017.0
+2056,37,0-15 años,Españoles,Mujeres,2020,18446.0
+2057,37,0-15 años,Españoles,Mujeres,2019,18782.0
+2058,37,0-15 años,Extranjeros,Hombres,2021,981.0
+2059,37,0-15 años,Extranjeros,Hombres,2020,984.0
+2060,37,0-15 años,Extranjeros,Hombres,2019,909.0
+2061,37,0-15 años,Extranjeros,Mujeres,2021,1088.0
+2062,37,0-15 años,Extranjeros,Mujeres,2020,1056.0
+2063,37,0-15 años,Extranjeros,Mujeres,2019,949.0
+2064,37,0-15 años,% Extranjeros,Hombres,2021,4.87
+2065,37,0-15 años,% Extranjeros,Hombres,2020,4.8
+2066,37,0-15 años,% Extranjeros,Hombres,2019,4.36
+2067,37,0-15 años,% Extranjeros,Mujeres,2021,5.69
+2068,37,0-15 años,% Extranjeros,Mujeres,2020,5.41
+2069,37,0-15 años,% Extranjeros,Mujeres,2019,4.81
+2070,37,16-64 años,Españoles,Hombres,2021,94346.0
+2071,37,16-64 años,Españoles,Hombres,2020,94954.0
+2072,37,16-64 años,Españoles,Hombres,2019,96188.0
+2073,37,16-64 años,Españoles,Mujeres,2021,93439.0
+2074,37,16-64 años,Españoles,Mujeres,2020,93834.0
+2075,37,16-64 años,Españoles,Mujeres,2019,94798.0
+2076,37,16-64 años,Extranjeros,Hombres,2021,5807.0
+2077,37,16-64 años,Extranjeros,Hombres,2020,5675.0
+2078,37,16-64 años,Extranjeros,Hombres,2019,4977.0
+2079,37,16-64 años,Extranjeros,Mujeres,2021,6669.0
+2080,37,16-64 años,Extranjeros,Mujeres,2020,6468.0
+2081,37,16-64 años,Extranjeros,Mujeres,2019,5827.0
+2082,37,16-64 años,% Extranjeros,Hombres,2021,5.8
+2083,37,16-64 años,% Extranjeros,Hombres,2020,5.64
+2084,37,16-64 años,% Extranjeros,Hombres,2019,4.92
+2085,37,16-64 años,% Extranjeros,Mujeres,2021,6.66
+2086,37,16-64 años,% Extranjeros,Mujeres,2020,6.45
+2087,37,16-64 años,% Extranjeros,Mujeres,2019,5.79
+2088,37,65 y más,Españoles,Hombres,2021,38255.0
+2089,37,65 y más,Españoles,Hombres,2020,38478.0
+2090,37,65 y más,Españoles,Hombres,2019,38065.0
+2091,37,65 y más,Españoles,Mujeres,2021,48837.0
+2092,37,65 y más,Españoles,Mujeres,2020,49109.0
+2093,37,65 y más,Españoles,Mujeres,2019,49047.0
+2094,37,65 y más,Extranjeros,Hombres,2021,310.0
+2095,37,65 y más,Extranjeros,Hombres,2020,307.0
+2096,37,65 y más,Extranjeros,Hombres,2019,273.0
+2097,37,65 y más,Extranjeros,Mujeres,2021,414.0
+2098,37,65 y más,Extranjeros,Mujeres,2020,403.0
+2099,37,65 y más,Extranjeros,Mujeres,2019,352.0
+2100,37,65 y más,% Extranjeros,Hombres,2021,0.8
+2101,37,65 y más,% Extranjeros,Hombres,2020,0.79
+2102,37,65 y más,% Extranjeros,Hombres,2019,0.71
+2103,37,65 y más,% Extranjeros,Mujeres,2021,0.84
+2104,37,65 y más,% Extranjeros,Mujeres,2020,0.81
+2105,37,65 y más,% Extranjeros,Mujeres,2019,0.71
+2106,38,0-15 años,Españoles,Hombres,2021,63933.0
+2107,38,0-15 años,Españoles,Hombres,2020,65611.0
+2108,38,0-15 años,Españoles,Hombres,2019,66718.0
+2109,38,0-15 años,Españoles,Mujeres,2021,60617.0
+2110,38,0-15 años,Españoles,Mujeres,2020,62298.0
+2111,38,0-15 años,Españoles,Mujeres,2019,63293.0
+2112,38,0-15 años,Extranjeros,Hombres,2021,8270.0
+2113,38,0-15 años,Extranjeros,Hombres,2020,8587.0
+2114,38,0-15 años,Extranjeros,Hombres,2019,8387.0
+2115,38,0-15 años,Extranjeros,Mujeres,2021,7880.0
+2116,38,0-15 años,Extranjeros,Mujeres,2020,8258.0
+2117,38,0-15 años,Extranjeros,Mujeres,2019,7986.0
+2118,38,0-15 años,% Extranjeros,Hombres,2021,11.45
+2119,38,0-15 años,% Extranjeros,Hombres,2020,11.57
+2120,38,0-15 años,% Extranjeros,Hombres,2019,11.17
+2121,38,0-15 años,% Extranjeros,Mujeres,2021,11.5
+2122,38,0-15 años,% Extranjeros,Mujeres,2020,11.7
+2123,38,0-15 años,% Extranjeros,Mujeres,2019,11.2
+2124,38,16-64 años,Españoles,Hombres,2021,307283.0
+2125,38,16-64 años,Españoles,Hombres,2020,307166.0
+2126,38,16-64 años,Españoles,Hombres,2019,305903.0
+2127,38,16-64 años,Españoles,Mujeres,2021,305648.0
+2128,38,16-64 años,Españoles,Mujeres,2020,305179.0
+2129,38,16-64 años,Españoles,Mujeres,2019,304078.0
+2130,38,16-64 años,Extranjeros,Hombres,2021,52369.0
+2131,38,16-64 años,Extranjeros,Hombres,2020,53491.0
+2132,38,16-64 años,Extranjeros,Hombres,2019,50746.0
+2133,38,16-64 años,Extranjeros,Mujeres,2021,55242.0
+2134,38,16-64 años,Extranjeros,Mujeres,2020,56153.0
+2135,38,16-64 años,Extranjeros,Mujeres,2019,52960.0
+2136,38,16-64 años,% Extranjeros,Hombres,2021,14.56
+2137,38,16-64 años,% Extranjeros,Hombres,2020,14.83
+2138,38,16-64 años,% Extranjeros,Hombres,2019,14.23
+2139,38,16-64 años,% Extranjeros,Mujeres,2021,15.31
+2140,38,16-64 años,% Extranjeros,Mujeres,2020,15.54
+2141,38,16-64 años,% Extranjeros,Mujeres,2019,14.83
+2142,38,65 y más,Españoles,Hombres,2021,71284.0
+2143,38,65 y más,Españoles,Hombres,2020,69281.0
+2144,38,65 y más,Españoles,Hombres,2019,67350.0
+2145,38,65 y más,Españoles,Mujeres,2021,91712.0
+2146,38,65 y más,Españoles,Mujeres,2020,89531.0
+2147,38,65 y más,Españoles,Mujeres,2019,87167.0
+2148,38,65 y más,Extranjeros,Hombres,2021,9760.0
+2149,38,65 y más,Extranjeros,Hombres,2020,9355.0
+2150,38,65 y más,Extranjeros,Hombres,2019,9093.0
+2151,38,65 y más,Extranjeros,Mujeres,2021,10407.0
+2152,38,65 y más,Extranjeros,Mujeres,2020,9977.0
+2153,38,65 y más,Extranjeros,Mujeres,2019,9302.0
+2154,38,65 y más,% Extranjeros,Hombres,2021,12.04
+2155,38,65 y más,% Extranjeros,Hombres,2020,11.9
+2156,38,65 y más,% Extranjeros,Hombres,2019,11.9
+2157,38,65 y más,% Extranjeros,Mujeres,2021,10.19
+2158,38,65 y más,% Extranjeros,Mujeres,2020,10.03
+2159,38,65 y más,% Extranjeros,Mujeres,2019,9.64
+2160,40,0-15 años,Españoles,Hombres,2021,9134.0
+2161,40,0-15 años,Españoles,Hombres,2020,9180.0
+2162,40,0-15 años,Españoles,Hombres,2019,9365.0
+2163,40,0-15 años,Españoles,Mujeres,2021,8681.0
+2164,40,0-15 años,Españoles,Mujeres,2020,8708.0
+2165,40,0-15 años,Españoles,Mujeres,2019,8795.0
+2166,40,0-15 años,Extranjeros,Hombres,2021,1693.0
+2167,40,0-15 años,Extranjeros,Hombres,2020,1746.0
+2168,40,0-15 años,Extranjeros,Hombres,2019,1666.0
+2169,40,0-15 años,Extranjeros,Mujeres,2021,1595.0
+2170,40,0-15 años,Extranjeros,Mujeres,2020,1631.0
+2171,40,0-15 años,Extranjeros,Mujeres,2019,1578.0
+2172,40,0-15 años,% Extranjeros,Hombres,2021,15.64
+2173,40,0-15 años,% Extranjeros,Hombres,2020,15.98
+2174,40,0-15 años,% Extranjeros,Hombres,2019,15.1
+2175,40,0-15 años,% Extranjeros,Mujeres,2021,15.52
+2176,40,0-15 años,% Extranjeros,Mujeres,2020,15.78
+2177,40,0-15 años,% Extranjeros,Mujeres,2019,15.21
+2178,40,16-64 años,Españoles,Hombres,2021,43716.0
+2179,40,16-64 años,Españoles,Hombres,2020,43541.0
+2180,40,16-64 años,Españoles,Hombres,2019,43835.0
+2181,40,16-64 años,Españoles,Mujeres,2021,40104.0
+2182,40,16-64 años,Españoles,Mujeres,2020,39784.0
+2183,40,16-64 años,Españoles,Mujeres,2019,40081.0
+2184,40,16-64 años,Extranjeros,Hombres,2021,6846.0
+2185,40,16-64 años,Extranjeros,Hombres,2020,6839.0
+2186,40,16-64 años,Extranjeros,Hombres,2019,6385.0
+2187,40,16-64 años,Extranjeros,Mujeres,2021,7261.0
+2188,40,16-64 años,Extranjeros,Mujeres,2020,7170.0
+2189,40,16-64 años,Extranjeros,Mujeres,2019,6729.0
+2190,40,16-64 años,% Extranjeros,Hombres,2021,13.54
+2191,40,16-64 años,% Extranjeros,Hombres,2020,13.57
+2192,40,16-64 años,% Extranjeros,Hombres,2019,12.71
+2193,40,16-64 años,% Extranjeros,Mujeres,2021,15.33
+2194,40,16-64 años,% Extranjeros,Mujeres,2020,15.27
+2195,40,16-64 años,% Extranjeros,Mujeres,2019,14.38
+2196,40,65 y más,Españoles,Hombres,2021,15425.0
+2197,40,65 y más,Españoles,Hombres,2020,15484.0
+2198,40,65 y más,Españoles,Hombres,2019,15363.0
+2199,40,65 y más,Españoles,Mujeres,2021,18581.0
+2200,40,65 y más,Españoles,Mujeres,2020,18816.0
+2201,40,65 y más,Españoles,Mujeres,2019,18826.0
+2202,40,65 y más,Extranjeros,Hombres,2021,257.0
+2203,40,65 y más,Extranjeros,Hombres,2020,243.0
+2204,40,65 y más,Extranjeros,Hombres,2019,199.0
+2205,40,65 y más,Extranjeros,Mujeres,2021,370.0
+2206,40,65 y más,Extranjeros,Mujeres,2020,336.0
+2207,40,65 y más,Extranjeros,Mujeres,2019,307.0
+2208,40,65 y más,% Extranjeros,Hombres,2021,1.64
+2209,40,65 y más,% Extranjeros,Hombres,2020,1.55
+2210,40,65 y más,% Extranjeros,Hombres,2019,1.28
+2211,40,65 y más,% Extranjeros,Mujeres,2021,1.95
+2212,40,65 y más,% Extranjeros,Mujeres,2020,1.75
+2213,40,65 y más,% Extranjeros,Mujeres,2019,1.6
+2214,41,0-15 años,Españoles,Hombres,2021,165644.0
+2215,41,0-15 años,Españoles,Hombres,2020,168975.0
+2216,41,0-15 años,Españoles,Hombres,2019,171561.0
+2217,41,0-15 años,Españoles,Mujeres,2021,156142.0
+2218,41,0-15 años,Españoles,Mujeres,2020,159568.0
+2219,41,0-15 años,Españoles,Mujeres,2019,162100.0
+2220,41,0-15 años,Extranjeros,Hombres,2021,5323.0
+2221,41,0-15 años,Extranjeros,Hombres,2020,5397.0
+2222,41,0-15 años,Extranjeros,Hombres,2019,4855.0
+2223,41,0-15 años,Extranjeros,Mujeres,2021,5177.0
+2224,41,0-15 años,Extranjeros,Mujeres,2020,5264.0
+2225,41,0-15 años,Extranjeros,Mujeres,2019,4736.0
+2226,41,0-15 años,% Extranjeros,Hombres,2021,3.11
+2227,41,0-15 años,% Extranjeros,Hombres,2020,3.1
+2228,41,0-15 años,% Extranjeros,Hombres,2019,2.75
+2229,41,0-15 años,% Extranjeros,Mujeres,2021,3.21
+2230,41,0-15 años,% Extranjeros,Mujeres,2020,3.19
+2231,41,0-15 años,% Extranjeros,Mujeres,2019,2.84
+2232,41,16-64 años,Españoles,Hombres,2021,609628.0
+2233,41,16-64 años,Españoles,Hombres,2020,610721.0
+2234,41,16-64 años,Españoles,Hombres,2019,610696.0
+2235,41,16-64 años,Españoles,Mujeres,2021,610730.0
+2236,41,16-64 años,Españoles,Mujeres,2020,611500.0
+2237,41,16-64 años,Españoles,Mujeres,2019,611468.0
+2238,41,16-64 años,Extranjeros,Hombres,2021,29313.0
+2239,41,16-64 años,Extranjeros,Hombres,2020,28753.0
+2240,41,16-64 años,Extranjeros,Hombres,2019,26052.0
+2241,41,16-64 años,Extranjeros,Mujeres,2021,34223.0
+2242,41,16-64 años,Extranjeros,Mujeres,2020,33535.0
+2243,41,16-64 años,Extranjeros,Mujeres,2019,30308.0
+2244,41,16-64 años,% Extranjeros,Hombres,2021,4.59
+2245,41,16-64 años,% Extranjeros,Hombres,2020,4.5
+2246,41,16-64 años,% Extranjeros,Hombres,2019,4.09
+2247,41,16-64 años,% Extranjeros,Mujeres,2021,5.31
+2248,41,16-64 años,% Extranjeros,Mujeres,2020,5.2
+2249,41,16-64 años,% Extranjeros,Mujeres,2019,4.72
+2250,41,65 y más,Españoles,Hombres,2021,139710.0
+2251,41,65 y más,Españoles,Hombres,2020,137422.0
+2252,41,65 y más,Españoles,Hombres,2019,134760.0
+2253,41,65 y más,Españoles,Mujeres,2021,188472.0
+2254,41,65 y más,Españoles,Mujeres,2020,185746.0
+2255,41,65 y más,Españoles,Mujeres,2019,182917.0
+2256,41,65 y más,Extranjeros,Hombres,2021,1465.0
+2257,41,65 y más,Extranjeros,Hombres,2020,1427.0
+2258,41,65 y más,Extranjeros,Hombres,2019,1288.0
+2259,41,65 y más,Extranjeros,Mujeres,2021,2025.0
+2260,41,65 y más,Extranjeros,Mujeres,2020,1911.0
+2261,41,65 y más,Extranjeros,Mujeres,2019,1648.0
+2262,41,65 y más,% Extranjeros,Hombres,2021,1.04
+2263,41,65 y más,% Extranjeros,Hombres,2020,1.03
+2264,41,65 y más,% Extranjeros,Hombres,2019,0.95
+2265,41,65 y más,% Extranjeros,Mujeres,2021,1.06
+2266,41,65 y más,% Extranjeros,Mujeres,2020,1.02
+2267,41,65 y más,% Extranjeros,Mujeres,2019,0.89
+2268,42,0-15 años,Españoles,Hombres,2021,5096.0
+2269,42,0-15 años,Españoles,Hombres,2020,5172.0
+2270,42,0-15 años,Españoles,Hombres,2019,5212.0
+2271,42,0-15 años,Españoles,Mujeres,2021,4791.0
+2272,42,0-15 años,Españoles,Mujeres,2020,4877.0
+2273,42,0-15 años,Españoles,Mujeres,2019,4999.0
+2274,42,0-15 años,Extranjeros,Hombres,2021,808.0
+2275,42,0-15 años,Extranjeros,Hombres,2020,755.0
+2276,42,0-15 años,Extranjeros,Hombres,2019,680.0
+2277,42,0-15 años,Extranjeros,Mujeres,2021,767.0
+2278,42,0-15 años,Extranjeros,Mujeres,2020,724.0
+2279,42,0-15 años,Extranjeros,Mujeres,2019,672.0
+2280,42,0-15 años,% Extranjeros,Hombres,2021,13.69
+2281,42,0-15 años,% Extranjeros,Hombres,2020,12.74
+2282,42,0-15 años,% Extranjeros,Hombres,2019,11.54
+2283,42,0-15 años,% Extranjeros,Mujeres,2021,13.8
+2284,42,0-15 años,% Extranjeros,Mujeres,2020,12.93
+2285,42,0-15 años,% Extranjeros,Mujeres,2019,11.85
+2286,42,16-64 años,Españoles,Hombres,2021,25008.0
+2287,42,16-64 años,Españoles,Hombres,2020,25112.0
+2288,42,16-64 años,Españoles,Hombres,2019,25370.0
+2289,42,16-64 años,Españoles,Mujeres,2021,22895.0
+2290,42,16-64 años,Españoles,Mujeres,2020,22933.0
+2291,42,16-64 años,Españoles,Mujeres,2019,23062.0
+2292,42,16-64 años,Extranjeros,Hombres,2021,3658.0
+2293,42,16-64 años,Extranjeros,Hombres,2020,3427.0
+2294,42,16-64 años,Extranjeros,Hombres,2019,3135.0
+2295,42,16-64 años,Extranjeros,Mujeres,2021,3283.0
+2296,42,16-64 años,Extranjeros,Mujeres,2020,3149.0
+2297,42,16-64 años,Extranjeros,Mujeres,2019,2759.0
+2298,42,16-64 años,% Extranjeros,Hombres,2021,12.76
+2299,42,16-64 años,% Extranjeros,Hombres,2020,12.01
+2300,42,16-64 años,% Extranjeros,Hombres,2019,11.0
+2301,42,16-64 años,% Extranjeros,Mujeres,2021,12.54
+2302,42,16-64 años,% Extranjeros,Mujeres,2020,12.07
+2303,42,16-64 años,% Extranjeros,Mujeres,2019,10.69
+2304,42,65 y más,Españoles,Hombres,2021,10247.0
+2305,42,65 y más,Españoles,Hombres,2020,10373.0
+2306,42,65 y más,Españoles,Hombres,2019,10335.0
+2307,42,65 y más,Españoles,Mujeres,2021,11953.0
+2308,42,65 y más,Españoles,Mujeres,2020,12146.0
+2309,42,65 y más,Españoles,Mujeres,2019,12220.0
+2310,42,65 y más,Extranjeros,Hombres,2021,103.0
+2311,42,65 y más,Extranjeros,Hombres,2020,88.0
+2312,42,65 y más,Extranjeros,Hombres,2019,82.0
+2313,42,65 y más,Extranjeros,Mujeres,2021,138.0
+2314,42,65 y más,Extranjeros,Mujeres,2020,128.0
+2315,42,65 y más,Extranjeros,Mujeres,2019,110.0
+2316,42,65 y más,% Extranjeros,Hombres,2021,1.0
+2317,42,65 y más,% Extranjeros,Hombres,2020,0.84
+2318,42,65 y más,% Extranjeros,Hombres,2019,0.79
+2319,42,65 y más,% Extranjeros,Mujeres,2021,1.14
+2320,42,65 y más,% Extranjeros,Mujeres,2020,1.04
+2321,42,65 y más,% Extranjeros,Mujeres,2019,0.89
+2322,43,0-15 años,Españoles,Hombres,2021,56970.0
+2323,43,0-15 años,Españoles,Hombres,2020,57689.0
+2324,43,0-15 años,Españoles,Hombres,2019,58183.0
+2325,43,0-15 años,Españoles,Mujeres,2021,53276.0
+2326,43,0-15 años,Españoles,Mujeres,2020,53973.0
+2327,43,0-15 años,Españoles,Mujeres,2019,54461.0
+2328,43,0-15 años,Extranjeros,Hombres,2021,12254.0
+2329,43,0-15 años,Extranjeros,Hombres,2020,12450.0
+2330,43,0-15 años,Extranjeros,Hombres,2019,11879.0
+2331,43,0-15 años,Extranjeros,Mujeres,2021,11808.0
+2332,43,0-15 años,Extranjeros,Mujeres,2020,11799.0
+2333,43,0-15 años,Extranjeros,Mujeres,2019,11349.0
+2334,43,0-15 años,% Extranjeros,Hombres,2021,17.7
+2335,43,0-15 años,% Extranjeros,Hombres,2020,17.75
+2336,43,0-15 años,% Extranjeros,Hombres,2019,16.95
+2337,43,0-15 años,% Extranjeros,Mujeres,2021,18.14
+2338,43,0-15 años,% Extranjeros,Mujeres,2020,17.94
+2339,43,0-15 años,% Extranjeros,Mujeres,2019,17.25
+2340,43,16-64 años,Españoles,Hombres,2021,215246.0
+2341,43,16-64 años,Españoles,Hombres,2020,213433.0
+2342,43,16-64 años,Españoles,Hombres,2019,212518.0
+2343,43,16-64 años,Españoles,Mujeres,2021,209209.0
+2344,43,16-64 años,Españoles,Mujeres,2020,207450.0
+2345,43,16-64 años,Españoles,Mujeres,2019,206995.0
+2346,43,16-64 años,Extranjeros,Hombres,2021,54885.0
+2347,43,16-64 años,Extranjeros,Hombres,2020,54707.0
+2348,43,16-64 años,Extranjeros,Hombres,2019,50390.0
+2349,43,16-64 años,Extranjeros,Mujeres,2021,50084.0
+2350,43,16-64 años,Extranjeros,Mujeres,2020,49851.0
+2351,43,16-64 años,Extranjeros,Mujeres,2019,46955.0
+2352,43,16-64 años,% Extranjeros,Hombres,2021,20.32
+2353,43,16-64 años,% Extranjeros,Hombres,2020,20.4
+2354,43,16-64 años,% Extranjeros,Hombres,2019,19.17
+2355,43,16-64 años,% Extranjeros,Mujeres,2021,19.32
+2356,43,16-64 años,% Extranjeros,Mujeres,2020,19.37
+2357,43,16-64 años,% Extranjeros,Mujeres,2019,18.49
+2358,43,65 y más,Españoles,Hombres,2021,67304.0
+2359,43,65 y más,Españoles,Hombres,2020,66098.0
+2360,43,65 y más,Españoles,Hombres,2019,64911.0
+2361,43,65 y más,Españoles,Mujeres,2021,82819.0
+2362,43,65 y más,Españoles,Mujeres,2020,81336.0
+2363,43,65 y más,Españoles,Mujeres,2019,79828.0
+2364,43,65 y más,Extranjeros,Hombres,2021,3997.0
+2365,43,65 y más,Extranjeros,Hombres,2020,3765.0
+2366,43,65 y más,Extranjeros,Hombres,2019,3377.0
+2367,43,65 y más,Extranjeros,Mujeres,2021,4457.0
+2368,43,65 y más,Extranjeros,Mujeres,2020,4221.0
+2369,43,65 y más,Extranjeros,Mujeres,2019,3818.0
+2370,43,65 y más,% Extranjeros,Hombres,2021,5.61
+2371,43,65 y más,% Extranjeros,Hombres,2020,5.39
+2372,43,65 y más,% Extranjeros,Hombres,2019,4.95
+2373,43,65 y más,% Extranjeros,Mujeres,2021,5.11
+2374,43,65 y más,% Extranjeros,Mujeres,2020,4.93
+2375,43,65 y más,% Extranjeros,Mujeres,2019,4.56
+2376,44,0-15 años,Españoles,Hombres,2021,7921.0
+2377,44,0-15 años,Españoles,Hombres,2020,7966.0
+2378,44,0-15 años,Españoles,Hombres,2019,8064.0
+2379,44,0-15 años,Españoles,Mujeres,2021,7608.0
+2380,44,0-15 años,Españoles,Mujeres,2020,7628.0
+2381,44,0-15 años,Españoles,Mujeres,2019,7705.0
+2382,44,0-15 años,Extranjeros,Hombres,2021,1503.0
+2383,44,0-15 años,Extranjeros,Hombres,2020,1473.0
+2384,44,0-15 años,Extranjeros,Hombres,2019,1397.0
+2385,44,0-15 años,Extranjeros,Mujeres,2021,1483.0
+2386,44,0-15 años,Extranjeros,Mujeres,2020,1433.0
+2387,44,0-15 años,Extranjeros,Mujeres,2019,1377.0
+2388,44,0-15 años,% Extranjeros,Hombres,2021,15.95
+2389,44,0-15 años,% Extranjeros,Hombres,2020,15.61
+2390,44,0-15 años,% Extranjeros,Hombres,2019,14.77
+2391,44,0-15 años,% Extranjeros,Mujeres,2021,16.31
+2392,44,0-15 años,% Extranjeros,Mujeres,2020,15.82
+2393,44,0-15 años,% Extranjeros,Mujeres,2019,15.16
+2394,44,16-64 años,Españoles,Hombres,2021,37885.0
+2395,44,16-64 años,Españoles,Hombres,2020,37786.0
+2396,44,16-64 años,Españoles,Hombres,2019,38046.0
+2397,44,16-64 años,Españoles,Mujeres,2021,34312.0
+2398,44,16-64 años,Españoles,Mujeres,2020,34320.0
+2399,44,16-64 años,Españoles,Mujeres,2019,34531.0
+2400,44,16-64 años,Extranjeros,Hombres,2021,6153.0
+2401,44,16-64 años,Extranjeros,Hombres,2020,5948.0
+2402,44,16-64 años,Extranjeros,Hombres,2019,5580.0
+2403,44,16-64 años,Extranjeros,Mujeres,2021,5619.0
+2404,44,16-64 años,Extranjeros,Mujeres,2020,5474.0
+2405,44,16-64 años,Extranjeros,Mujeres,2019,5120.0
+2406,44,16-64 años,% Extranjeros,Hombres,2021,13.97
+2407,44,16-64 años,% Extranjeros,Hombres,2020,13.6
+2408,44,16-64 años,% Extranjeros,Hombres,2019,12.79
+2409,44,16-64 años,% Extranjeros,Mujeres,2021,14.07
+2410,44,16-64 años,% Extranjeros,Mujeres,2020,13.76
+2411,44,16-64 años,% Extranjeros,Mujeres,2019,12.91
+2412,44,65 y más,Españoles,Hombres,2021,14610.0
+2413,44,65 y más,Españoles,Hombres,2020,14614.0
+2414,44,65 y más,Españoles,Hombres,2019,14679.0
+2415,44,65 y más,Españoles,Mujeres,2021,16970.0
+2416,44,65 y más,Españoles,Mujeres,2020,17106.0
+2417,44,65 y más,Españoles,Mujeres,2019,17267.0
+2418,44,65 y más,Extranjeros,Hombres,2021,215.0
+2419,44,65 y más,Extranjeros,Hombres,2020,188.0
+2420,44,65 y más,Extranjeros,Hombres,2019,161.0
+2421,44,65 y más,Extranjeros,Mujeres,2021,266.0
+2422,44,65 y más,Extranjeros,Mujeres,2020,240.0
+2423,44,65 y más,Extranjeros,Mujeres,2019,210.0
+2424,44,65 y más,% Extranjeros,Hombres,2021,1.45
+2425,44,65 y más,% Extranjeros,Hombres,2020,1.27
+2426,44,65 y más,% Extranjeros,Hombres,2019,1.08
+2427,44,65 y más,% Extranjeros,Mujeres,2021,1.54
+2428,44,65 y más,% Extranjeros,Mujeres,2020,1.38
+2429,44,65 y más,% Extranjeros,Mujeres,2019,1.2
+2430,45,0-15 años,Españoles,Hombres,2021,54801.0
+2431,45,0-15 años,Españoles,Hombres,2020,55229.0
+2432,45,0-15 años,Españoles,Hombres,2019,55482.0
+2433,45,0-15 años,Españoles,Mujeres,2021,51450.0
+2434,45,0-15 años,Españoles,Mujeres,2020,51833.0
+2435,45,0-15 años,Españoles,Mujeres,2019,52258.0
+2436,45,0-15 años,Extranjeros,Hombres,2021,7106.0
+2437,45,0-15 años,Extranjeros,Hombres,2020,7064.0
+2438,45,0-15 años,Extranjeros,Hombres,2019,6474.0
+2439,45,0-15 años,Extranjeros,Mujeres,2021,6909.0
+2440,45,0-15 años,Extranjeros,Mujeres,2020,6941.0
+2441,45,0-15 años,Extranjeros,Mujeres,2019,6358.0
+2442,45,0-15 años,% Extranjeros,Hombres,2021,11.48
+2443,45,0-15 años,% Extranjeros,Hombres,2020,11.34
+2444,45,0-15 años,% Extranjeros,Hombres,2019,10.45
+2445,45,0-15 años,% Extranjeros,Mujeres,2021,11.84
+2446,45,0-15 años,% Extranjeros,Mujeres,2020,11.81
+2447,45,0-15 años,% Extranjeros,Mujeres,2019,10.85
+2448,45,16-64 años,Españoles,Hombres,2021,208828.0
+2449,45,16-64 años,Españoles,Hombres,2020,206365.0
+2450,45,16-64 años,Españoles,Hombres,2019,205858.0
+2451,45,16-64 años,Españoles,Mujeres,2021,196950.0
+2452,45,16-64 años,Españoles,Mujeres,2020,194436.0
+2453,45,16-64 años,Españoles,Mujeres,2019,193650.0
+2454,45,16-64 años,Extranjeros,Hombres,2021,28317.0
+2455,45,16-64 años,Extranjeros,Hombres,2020,27905.0
+2456,45,16-64 años,Extranjeros,Hombres,2019,25329.0
+2457,45,16-64 años,Extranjeros,Mujeres,2021,28052.0
+2458,45,16-64 años,Extranjeros,Mujeres,2020,27657.0
+2459,45,16-64 años,Extranjeros,Mujeres,2019,25059.0
+2460,45,16-64 años,% Extranjeros,Hombres,2021,11.94
+2461,45,16-64 años,% Extranjeros,Hombres,2020,11.91
+2462,45,16-64 años,% Extranjeros,Hombres,2019,10.96
+2463,45,16-64 años,% Extranjeros,Mujeres,2021,12.47
+2464,45,16-64 años,% Extranjeros,Mujeres,2020,12.45
+2465,45,16-64 años,% Extranjeros,Mujeres,2019,11.46
+2466,45,65 y más,Españoles,Hombres,2021,56369.0
+2467,45,65 y más,Españoles,Hombres,2020,56065.0
+2468,45,65 y más,Españoles,Hombres,2019,55165.0
+2469,45,65 y más,Españoles,Mujeres,2021,68005.0
+2470,45,65 y más,Españoles,Mujeres,2020,67877.0
+2471,45,65 y más,Españoles,Mujeres,2019,67205.0
+2472,45,65 y más,Extranjeros,Hombres,2021,997.0
+2473,45,65 y más,Extranjeros,Hombres,2020,920.0
+2474,45,65 y más,Extranjeros,Hombres,2019,782.0
+2475,45,65 y más,Extranjeros,Mujeres,2021,1619.0
+2476,45,65 y más,Extranjeros,Mujeres,2020,1480.0
+2477,45,65 y más,Extranjeros,Mujeres,2019,1224.0
+2478,45,65 y más,% Extranjeros,Hombres,2021,1.74
+2479,45,65 y más,% Extranjeros,Hombres,2020,1.61
+2480,45,65 y más,% Extranjeros,Hombres,2019,1.4
+2481,45,65 y más,% Extranjeros,Mujeres,2021,2.33
+2482,45,65 y más,% Extranjeros,Mujeres,2020,2.13
+2483,45,65 y más,% Extranjeros,Mujeres,2019,1.79
+2484,46,0-15 años,Españoles,Hombres,2021,179771.0
+2485,46,0-15 años,Españoles,Hombres,2020,183995.0
+2486,46,0-15 años,Españoles,Hombres,2019,186796.0
+2487,46,0-15 años,Españoles,Mujeres,2021,170230.0
+2488,46,0-15 años,Españoles,Mujeres,2020,174142.0
+2489,46,0-15 años,Españoles,Mujeres,2019,177232.0
+2490,46,0-15 años,Extranjeros,Hombres,2021,23960.0
+2491,46,0-15 años,Extranjeros,Hombres,2020,24119.0
+2492,46,0-15 años,Extranjeros,Hombres,2019,22277.0
+2493,46,0-15 años,Extranjeros,Mujeres,2021,21891.0
+2494,46,0-15 años,Extranjeros,Mujeres,2020,22057.0
+2495,46,0-15 años,Extranjeros,Mujeres,2019,20301.0
+2496,46,0-15 años,% Extranjeros,Hombres,2021,11.76
+2497,46,0-15 años,% Extranjeros,Hombres,2020,11.59
+2498,46,0-15 años,% Extranjeros,Hombres,2019,10.66
+2499,46,0-15 años,% Extranjeros,Mujeres,2021,11.39
+2500,46,0-15 años,% Extranjeros,Mujeres,2020,11.24
+2501,46,0-15 años,% Extranjeros,Mujeres,2019,10.28
+2502,46,16-64 años,Españoles,Hombres,2021,735588.0
+2503,46,16-64 años,Españoles,Hombres,2020,736065.0
+2504,46,16-64 años,Españoles,Hombres,2019,735690.0
+2505,46,16-64 años,Españoles,Mujeres,2021,728512.0
+2506,46,16-64 años,Españoles,Mujeres,2020,729128.0
+2507,46,16-64 años,Españoles,Mujeres,2019,728886.0
+2508,46,16-64 años,Extranjeros,Hombres,2021,113864.0
+2509,46,16-64 años,Extranjeros,Hombres,2020,113872.0
+2510,46,16-64 años,Extranjeros,Hombres,2019,104223.0
+2511,46,16-64 años,Extranjeros,Mujeres,2021,113251.0
+2512,46,16-64 años,Extranjeros,Mujeres,2020,113059.0
+2513,46,16-64 años,Extranjeros,Mujeres,2019,103610.0
+2514,46,16-64 años,% Extranjeros,Hombres,2021,13.4
+2515,46,16-64 años,% Extranjeros,Hombres,2020,13.4
+2516,46,16-64 años,% Extranjeros,Hombres,2019,12.41
+2517,46,16-64 años,% Extranjeros,Mujeres,2021,13.45
+2518,46,16-64 años,% Extranjeros,Mujeres,2020,13.42
+2519,46,16-64 años,% Extranjeros,Mujeres,2019,12.45
+2520,46,65 y más,Españoles,Hombres,2021,207496.0
+2521,46,65 y más,Españoles,Hombres,2020,204465.0
+2522,46,65 y más,Españoles,Hombres,2019,201263.0
+2523,46,65 y más,Españoles,Mujeres,2021,278667.0
+2524,46,65 y más,Españoles,Mujeres,2020,275559.0
+2525,46,65 y más,Españoles,Mujeres,2019,271409.0
+2526,46,65 y más,Extranjeros,Hombres,2021,7282.0
+2527,46,65 y más,Extranjeros,Hombres,2020,6950.0
+2528,46,65 y más,Extranjeros,Hombres,2019,6101.0
+2529,46,65 y más,Extranjeros,Mujeres,2021,8800.0
+2530,46,65 y más,Extranjeros,Mujeres,2020,8464.0
+2531,46,65 y más,Extranjeros,Mujeres,2019,7336.0
+2532,46,65 y más,% Extranjeros,Hombres,2021,3.39
+2533,46,65 y más,% Extranjeros,Hombres,2020,3.29
+2534,46,65 y más,% Extranjeros,Hombres,2019,2.94
+2535,46,65 y más,% Extranjeros,Mujeres,2021,3.06
+2536,46,65 y más,% Extranjeros,Mujeres,2020,2.98
+2537,46,65 y más,% Extranjeros,Mujeres,2019,2.63
+2538,47,0-15 años,Españoles,Hombres,2021,34084.0
+2539,47,0-15 años,Españoles,Hombres,2020,34841.0
+2540,47,0-15 años,Españoles,Hombres,2019,35525.0
+2541,47,0-15 años,Españoles,Mujeres,2021,32417.0
+2542,47,0-15 años,Españoles,Mujeres,2020,33085.0
+2543,47,0-15 años,Españoles,Mujeres,2019,33721.0
+2544,47,0-15 años,Extranjeros,Hombres,2021,2424.0
+2545,47,0-15 años,Extranjeros,Hombres,2020,2309.0
+2546,47,0-15 años,Extranjeros,Hombres,2019,2141.0
+2547,47,0-15 años,Extranjeros,Mujeres,2021,2379.0
+2548,47,0-15 años,Extranjeros,Mujeres,2020,2271.0
+2549,47,0-15 años,Extranjeros,Mujeres,2019,2034.0
+2550,47,0-15 años,% Extranjeros,Hombres,2021,6.64
+2551,47,0-15 años,% Extranjeros,Hombres,2020,6.22
+2552,47,0-15 años,% Extranjeros,Hombres,2019,5.68
+2553,47,0-15 años,% Extranjeros,Mujeres,2021,6.84
+2554,47,0-15 años,% Extranjeros,Mujeres,2020,6.42
+2555,47,0-15 años,% Extranjeros,Mujeres,2019,5.69
+2556,47,16-64 años,Españoles,Hombres,2021,151311.0
+2557,47,16-64 años,Españoles,Hombres,2020,152421.0
+2558,47,16-64 años,Españoles,Hombres,2019,153472.0
+2559,47,16-64 años,Españoles,Mujeres,2021,151343.0
+2560,47,16-64 años,Españoles,Mujeres,2020,152535.0
+2561,47,16-64 años,Españoles,Mujeres,2019,153661.0
+2562,47,16-64 años,Extranjeros,Hombres,2021,11158.0
+2563,47,16-64 años,Extranjeros,Hombres,2020,10644.0
+2564,47,16-64 años,Extranjeros,Hombres,2019,9710.0
+2565,47,16-64 años,Extranjeros,Mujeres,2021,11835.0
+2566,47,16-64 años,Extranjeros,Mujeres,2020,11137.0
+2567,47,16-64 años,Extranjeros,Mujeres,2019,10098.0
+2568,47,16-64 años,% Extranjeros,Hombres,2021,6.87
+2569,47,16-64 años,% Extranjeros,Hombres,2020,6.53
+2570,47,16-64 años,% Extranjeros,Hombres,2019,5.95
+2571,47,16-64 años,% Extranjeros,Mujeres,2021,7.25
+2572,47,16-64 años,% Extranjeros,Mujeres,2020,6.8
+2573,47,16-64 años,% Extranjeros,Mujeres,2019,6.17
+2574,47,65 y más,Españoles,Hombres,2021,53412.0
+2575,47,65 y más,Españoles,Hombres,2020,52915.0
+2576,47,65 y más,Españoles,Hombres,2019,52018.0
+2577,47,65 y más,Españoles,Mujeres,2021,67934.0
+2578,47,65 y más,Españoles,Mujeres,2020,67530.0
+2579,47,65 y más,Españoles,Mujeres,2019,66366.0
+2580,47,65 y más,Extranjeros,Hombres,2021,454.0
+2581,47,65 y más,Extranjeros,Hombres,2020,410.0
+2582,47,65 y más,Extranjeros,Hombres,2019,350.0
+2583,47,65 y más,Extranjeros,Mujeres,2021,610.0
+2584,47,65 y más,Extranjeros,Mujeres,2020,551.0
+2585,47,65 y más,Extranjeros,Mujeres,2019,450.0
+2586,47,65 y más,% Extranjeros,Hombres,2021,0.84
+2587,47,65 y más,% Extranjeros,Hombres,2020,0.77
+2588,47,65 y más,% Extranjeros,Hombres,2019,0.67
+2589,47,65 y más,% Extranjeros,Mujeres,2021,0.89
+2590,47,65 y más,% Extranjeros,Mujeres,2020,0.81
+2591,47,65 y más,% Extranjeros,Mujeres,2019,0.67
+2592,49,0-15 años,Españoles,Hombres,2021,8129.0
+2593,49,0-15 años,Españoles,Hombres,2020,8285.0
+2594,49,0-15 años,Españoles,Hombres,2019,8461.0
+2595,49,0-15 años,Españoles,Mujeres,2021,7583.0
+2596,49,0-15 años,Españoles,Mujeres,2020,7806.0
+2597,49,0-15 años,Españoles,Mujeres,2019,8036.0
+2598,49,0-15 años,Extranjeros,Hombres,2021,529.0
+2599,49,0-15 años,Extranjeros,Hombres,2020,515.0
+2600,49,0-15 años,Extranjeros,Hombres,2019,478.0
+2601,49,0-15 años,Extranjeros,Mujeres,2021,428.0
+2602,49,0-15 años,Extranjeros,Mujeres,2020,442.0
+2603,49,0-15 años,Extranjeros,Mujeres,2019,410.0
+2604,49,0-15 años,% Extranjeros,Hombres,2021,6.11
+2605,49,0-15 años,% Extranjeros,Hombres,2020,5.85
+2606,49,0-15 años,% Extranjeros,Hombres,2019,5.35
+2607,49,0-15 años,% Extranjeros,Mujeres,2021,5.34
+2608,49,0-15 años,% Extranjeros,Mujeres,2020,5.36
+2609,49,0-15 años,% Extranjeros,Mujeres,2019,4.85
+2610,49,16-64 años,Españoles,Hombres,2021,48849.0
+2611,49,16-64 años,Españoles,Hombres,2020,49542.0
+2612,49,16-64 años,Españoles,Hombres,2019,50453.0
+2613,49,16-64 años,Españoles,Mujeres,2021,45638.0
+2614,49,16-64 años,Españoles,Mujeres,2020,46147.0
+2615,49,16-64 años,Españoles,Mujeres,2019,46896.0
+2616,49,16-64 años,Extranjeros,Hombres,2021,2305.0
+2617,49,16-64 años,Extranjeros,Hombres,2020,2242.0
+2618,49,16-64 años,Extranjeros,Hombres,2019,2192.0
+2619,49,16-64 años,Extranjeros,Mujeres,2021,2610.0
+2620,49,16-64 años,Extranjeros,Mujeres,2020,2559.0
+2621,49,16-64 años,Extranjeros,Mujeres,2019,2409.0
+2622,49,16-64 años,% Extranjeros,Hombres,2021,4.51
+2623,49,16-64 años,% Extranjeros,Hombres,2020,4.33
+2624,49,16-64 años,% Extranjeros,Hombres,2019,4.16
+2625,49,16-64 años,% Extranjeros,Mujeres,2021,5.41
+2626,49,16-64 años,% Extranjeros,Mujeres,2020,5.25
+2627,49,16-64 años,% Extranjeros,Mujeres,2019,4.89
+2628,49,65 y más,Españoles,Hombres,2021,23583.0
+2629,49,65 y más,Españoles,Hombres,2020,23640.0
+2630,49,65 y más,Españoles,Hombres,2019,23629.0
+2631,49,65 y más,Españoles,Mujeres,2021,28697.0
+2632,49,65 y más,Españoles,Mujeres,2020,29071.0
+2633,49,65 y más,Españoles,Mujeres,2019,29282.0
+2634,49,65 y más,Extranjeros,Hombres,2021,156.0
+2635,49,65 y más,Extranjeros,Hombres,2020,145.0
+2636,49,65 y más,Extranjeros,Hombres,2019,128.0
+2637,49,65 y más,Extranjeros,Mujeres,2021,218.0
+2638,49,65 y más,Extranjeros,Mujeres,2020,194.0
+2639,49,65 y más,Extranjeros,Mujeres,2019,165.0
+2640,49,65 y más,% Extranjeros,Hombres,2021,0.66
+2641,49,65 y más,% Extranjeros,Hombres,2020,0.61
+2642,49,65 y más,% Extranjeros,Hombres,2019,0.54
+2643,49,65 y más,% Extranjeros,Mujeres,2021,0.75
+2644,49,65 y más,% Extranjeros,Mujeres,2020,0.66
+2645,49,65 y más,% Extranjeros,Mujeres,2019,0.56
+2646,50,0-15 años,Españoles,Hombres,2021,63663.0
+2647,50,0-15 años,Españoles,Hombres,2020,64843.0
+2648,50,0-15 años,Españoles,Hombres,2019,65802.0
+2649,50,0-15 años,Españoles,Mujeres,2021,59890.0
+2650,50,0-15 años,Españoles,Mujeres,2020,61114.0
+2651,50,0-15 años,Españoles,Mujeres,2019,62064.0
+2652,50,0-15 años,Extranjeros,Hombres,2021,10222.0
+2653,50,0-15 años,Extranjeros,Hombres,2020,10280.0
+2654,50,0-15 años,Extranjeros,Hombres,2019,9681.0
+2655,50,0-15 años,Extranjeros,Mujeres,2021,9663.0
+2656,50,0-15 años,Extranjeros,Mujeres,2020,9718.0
+2657,50,0-15 años,Extranjeros,Mujeres,2019,9112.0
+2658,50,0-15 años,% Extranjeros,Hombres,2021,13.84
+2659,50,0-15 años,% Extranjeros,Hombres,2020,13.68
+2660,50,0-15 años,% Extranjeros,Hombres,2019,12.83
+2661,50,0-15 años,% Extranjeros,Mujeres,2021,13.89
+2662,50,0-15 años,% Extranjeros,Mujeres,2020,13.72
+2663,50,0-15 años,% Extranjeros,Mujeres,2019,12.8
+2664,50,16-64 años,Españoles,Hombres,2021,262950.0
+2665,50,16-64 años,Españoles,Hombres,2020,264195.0
+2666,50,16-64 años,Españoles,Hombres,2019,264922.0
+2667,50,16-64 años,Españoles,Mujeres,2021,259156.0
+2668,50,16-64 años,Españoles,Mujeres,2020,259882.0
+2669,50,16-64 años,Españoles,Mujeres,2019,260723.0
+2670,50,16-64 años,Extranjeros,Hombres,2021,47799.0
+2671,50,16-64 años,Extranjeros,Hombres,2020,48081.0
+2672,50,16-64 años,Extranjeros,Hombres,2019,44157.0
+2673,50,16-64 años,Extranjeros,Mujeres,2021,46863.0
+2674,50,16-64 años,Extranjeros,Mujeres,2020,47857.0
+2675,50,16-64 años,Extranjeros,Mujeres,2019,44447.0
+2676,50,16-64 años,% Extranjeros,Hombres,2021,15.38
+2677,50,16-64 años,% Extranjeros,Hombres,2020,15.4
+2678,50,16-64 años,% Extranjeros,Hombres,2019,14.29
+2679,50,16-64 años,% Extranjeros,Mujeres,2021,15.31
+2680,50,16-64 años,% Extranjeros,Mujeres,2020,15.55
+2681,50,16-64 años,% Extranjeros,Mujeres,2019,14.56
+2682,50,65 y más,Españoles,Hombres,2021,87204.0
+2683,50,65 y más,Españoles,Hombres,2020,86793.0
+2684,50,65 y más,Españoles,Hombres,2019,85803.0
+2685,50,65 y más,Españoles,Mujeres,2021,116303.0
+2686,50,65 y más,Españoles,Mujeres,2020,116234.0
+2687,50,65 y más,Españoles,Mujeres,2019,115001.0
+2688,50,65 y más,Extranjeros,Hombres,2021,1516.0
+2689,50,65 y más,Extranjeros,Hombres,2020,1410.0
+2690,50,65 y más,Extranjeros,Hombres,2019,1174.0
+2691,50,65 y más,Extranjeros,Mujeres,2021,2223.0
+2692,50,65 y más,Extranjeros,Mujeres,2020,2121.0
+2693,50,65 y más,Extranjeros,Mujeres,2019,1807.0
+2694,50,65 y más,% Extranjeros,Hombres,2021,1.71
+2695,50,65 y más,% Extranjeros,Hombres,2020,1.6
+2696,50,65 y más,% Extranjeros,Hombres,2019,1.35
+2697,50,65 y más,% Extranjeros,Mujeres,2021,1.88
+2698,50,65 y más,% Extranjeros,Mujeres,2020,1.79
+2699,50,65 y más,% Extranjeros,Mujeres,2019,1.55
+2700,51,0-15 años,Españoles,Hombres,2021,8428.0
+2701,51,0-15 años,Españoles,Hombres,2020,8762.0
+2702,51,0-15 años,Españoles,Hombres,2019,8974.0
+2703,51,0-15 años,Españoles,Mujeres,2021,8152.0
+2704,51,0-15 años,Españoles,Mujeres,2020,8445.0
+2705,51,0-15 años,Españoles,Mujeres,2019,8614.0
+2706,51,0-15 años,Extranjeros,Hombres,2021,381.0
+2707,51,0-15 años,Extranjeros,Hombres,2020,442.0
+2708,51,0-15 años,Extranjeros,Hombres,2019,510.0
+2709,51,0-15 años,Extranjeros,Mujeres,2021,346.0
+2710,51,0-15 años,Extranjeros,Mujeres,2020,395.0
+2711,51,0-15 años,Extranjeros,Mujeres,2019,446.0
+2712,51,0-15 años,% Extranjeros,Hombres,2021,4.33
+2713,51,0-15 años,% Extranjeros,Hombres,2020,4.8
+2714,51,0-15 años,% Extranjeros,Hombres,2019,5.38
+2715,51,0-15 años,% Extranjeros,Mujeres,2021,4.07
+2716,51,0-15 años,% Extranjeros,Mujeres,2020,4.47
+2717,51,0-15 años,% Extranjeros,Mujeres,2019,4.92
+2718,51,16-64 años,Españoles,Hombres,2021,26687.0
+2719,51,16-64 años,Españoles,Hombres,2020,26585.0
+2720,51,16-64 años,Españoles,Hombres,2019,26807.0
+2721,51,16-64 años,Españoles,Mujeres,2021,24886.0
+2722,51,16-64 años,Españoles,Mujeres,2020,24883.0
+2723,51,16-64 años,Españoles,Mujeres,2019,24972.0
+2724,51,16-64 años,Extranjeros,Hombres,2021,2066.0
+2725,51,16-64 años,Extranjeros,Hombres,2020,2222.0
+2726,51,16-64 años,Extranjeros,Hombres,2019,2216.0
+2727,51,16-64 años,Extranjeros,Mujeres,2021,2259.0
+2728,51,16-64 años,Extranjeros,Mujeres,2020,2324.0
+2729,51,16-64 años,Extranjeros,Mujeres,2019,2309.0
+2730,51,16-64 años,% Extranjeros,Hombres,2021,7.19
+2731,51,16-64 años,% Extranjeros,Hombres,2020,7.71
+2732,51,16-64 años,% Extranjeros,Hombres,2019,7.64
+2733,51,16-64 años,% Extranjeros,Mujeres,2021,8.32
+2734,51,16-64 años,% Extranjeros,Mujeres,2020,8.54
+2735,51,16-64 años,% Extranjeros,Mujeres,2019,8.46
+2736,51,65 y más,Españoles,Hombres,2021,4494.0
+2737,51,65 y más,Españoles,Hombres,2020,4373.0
+2738,51,65 y más,Españoles,Hombres,2019,4247.0
+2739,51,65 y más,Españoles,Mujeres,2021,5503.0
+2740,51,65 y más,Españoles,Mujeres,2020,5449.0
+2741,51,65 y más,Españoles,Mujeres,2019,5371.0
+2742,51,65 y más,Extranjeros,Hombres,2021,152.0
+2743,51,65 y más,Extranjeros,Hombres,2020,158.0
+2744,51,65 y más,Extranjeros,Hombres,2019,158.0
+2745,51,65 y más,Extranjeros,Mujeres,2021,163.0
+2746,51,65 y más,Extranjeros,Mujeres,2020,164.0
+2747,51,65 y más,Extranjeros,Mujeres,2019,153.0
+2748,51,65 y más,% Extranjeros,Hombres,2021,3.27
+2749,51,65 y más,% Extranjeros,Hombres,2020,3.49
+2750,51,65 y más,% Extranjeros,Hombres,2019,3.59
+2751,51,65 y más,% Extranjeros,Mujeres,2021,2.88
+2752,51,65 y más,% Extranjeros,Mujeres,2020,2.92
+2753,51,65 y más,% Extranjeros,Mujeres,2019,2.77
+2754,52,0-15 años,Españoles,Hombres,2021,9033.0
+2755,52,0-15 años,Españoles,Hombres,2020,9090.0
+2756,52,0-15 años,Españoles,Hombres,2019,9100.0
+2757,52,0-15 años,Españoles,Mujeres,2021,8666.0
+2758,52,0-15 años,Españoles,Mujeres,2020,8716.0
+2759,52,0-15 años,Españoles,Mujeres,2019,8702.0
+2760,52,0-15 años,Extranjeros,Hombres,2021,1405.0
+2761,52,0-15 años,Extranjeros,Hombres,2020,1628.0
+2762,52,0-15 años,Extranjeros,Hombres,2019,1656.0
+2763,52,0-15 años,Extranjeros,Mujeres,2021,1291.0
+2764,52,0-15 años,Extranjeros,Mujeres,2020,1464.0
+2765,52,0-15 años,Extranjeros,Mujeres,2019,1468.0
+2766,52,0-15 años,% Extranjeros,Hombres,2021,13.46
+2767,52,0-15 años,% Extranjeros,Hombres,2020,15.19
+2768,52,0-15 años,% Extranjeros,Hombres,2019,15.4
+2769,52,0-15 años,% Extranjeros,Mujeres,2021,12.97
+2770,52,0-15 años,% Extranjeros,Mujeres,2020,14.38
+2771,52,0-15 años,% Extranjeros,Mujeres,2019,14.43
+2772,52,16-64 años,Españoles,Hombres,2021,24646.0
+2773,52,16-64 años,Españoles,Hombres,2020,24775.0
+2774,52,16-64 años,Españoles,Hombres,2019,24709.0
+2775,52,16-64 años,Españoles,Mujeres,2021,22897.0
+2776,52,16-64 años,Españoles,Mujeres,2020,22859.0
+2777,52,16-64 años,Españoles,Mujeres,2019,22699.0
+2778,52,16-64 años,Extranjeros,Hombres,2021,4323.0
+2779,52,16-64 años,Extranjeros,Hombres,2020,4553.0
+2780,52,16-64 años,Extranjeros,Hombres,2019,4497.0
+2781,52,16-64 años,Extranjeros,Mujeres,2021,4682.0
+2782,52,16-64 años,Extranjeros,Mujeres,2020,4785.0
+2783,52,16-64 años,Extranjeros,Mujeres,2019,4780.0
+2784,52,16-64 años,% Extranjeros,Hombres,2021,14.92
+2785,52,16-64 años,% Extranjeros,Hombres,2020,15.52
+2786,52,16-64 años,% Extranjeros,Hombres,2019,15.4
+2787,52,16-64 años,% Extranjeros,Mujeres,2021,16.98
+2788,52,16-64 años,% Extranjeros,Mujeres,2020,17.31
+2789,52,16-64 años,% Extranjeros,Mujeres,2019,17.4
+2790,52,65 y más,Españoles,Hombres,2021,3775.0
+2791,52,65 y más,Españoles,Hombres,2020,3669.0
+2792,52,65 y más,Españoles,Hombres,2019,3510.0
+2793,52,65 y más,Españoles,Mujeres,2021,4633.0
+2794,52,65 y más,Españoles,Mujeres,2020,4604.0
+2795,52,65 y más,Españoles,Mujeres,2019,4501.0
+2796,52,65 y más,Extranjeros,Hombres,2021,421.0
+2797,52,65 y más,Extranjeros,Hombres,2020,447.0
+2798,52,65 y más,Extranjeros,Hombres,2019,422.0
+2799,52,65 y más,Extranjeros,Mujeres,2021,489.0
+2800,52,65 y más,Extranjeros,Mujeres,2020,486.0
+2801,52,65 y más,Extranjeros,Mujeres,2019,443.0
+2802,52,65 y más,% Extranjeros,Hombres,2021,10.03
+2803,52,65 y más,% Extranjeros,Hombres,2020,10.86
+2804,52,65 y más,% Extranjeros,Hombres,2019,10.73
+2805,52,65 y más,% Extranjeros,Mujeres,2021,9.55
+2806,52,65 y más,% Extranjeros,Mujeres,2020,9.55
+2807,52,65 y más,% Extranjeros,Mujeres,2019,8.96

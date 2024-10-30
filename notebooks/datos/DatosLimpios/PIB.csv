@@ -1,0 +1,1405 @@
+,Provincias,Ramas de actividad,periodo,Total
+0,2,"A. Agricultura, ganadería, silvicultura y pesca",2021,884324.0
+1,2,"A. Agricultura, ganadería, silvicultura y pesca",2020,768976.0
+2,2,"A. Agricultura, ganadería, silvicultura y pesca",2019,791464.0
+3,2,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1397006.0
+4,2,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1194438.0
+5,2,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1207915.0
+6,2,C. - De las cuales: Industria manufacturera,2021,1018831.0
+7,2,C. - De las cuales: Industria manufacturera,2020,910902.0
+8,2,C. - De las cuales: Industria manufacturera,2019,918972.0
+9,2,F. Construcción,2021,465911.0
+10,2,F. Construcción,2020,415182.0
+11,2,F. Construcción,2019,497842.0
+12,2,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1559382.0
+13,2,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1341669.0
+14,2,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1646811.0
+15,2,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1440261.0
+16,2,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1392792.0
+17,2,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1389258.0
+18,2,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,2091603.0
+19,2,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2055063.0
+20,2,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2153181.0
+21,2,Valor añadido bruto total,2021,7838487.0
+22,2,Valor añadido bruto total,2020,7168120.0
+23,2,Valor añadido bruto total,2019,7686471.0
+24,2,Impuestos netos sobre los productos,2021,825327.0
+25,2,Impuestos netos sobre los productos,2020,687436.0
+26,2,Impuestos netos sobre los productos,2019,788599.0
+27,3,"A. Agricultura, ganadería, silvicultura y pesca",2021,547312.0
+28,3,"A. Agricultura, ganadería, silvicultura y pesca",2020,645872.0
+29,3,"A. Agricultura, ganadería, silvicultura y pesca",2019,576207.0
+30,3,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,3627964.0
+31,3,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,3166272.0
+32,3,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,3280477.0
+33,3,C. - De las cuales: Industria manufacturera,2021,2916222.0
+34,3,C. - De las cuales: Industria manufacturera,2020,2559700.0
+35,3,C. - De las cuales: Industria manufacturera,2019,2686800.0
+36,3,F. Construcción,2021,2556047.0
+37,3,F. Construcción,2020,2436323.0
+38,3,F. Construcción,2019,2867928.0
+39,3,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,9851680.0
+40,3,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,8362099.0
+41,3,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,10227248.0
+42,3,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,8929332.0
+43,3,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,8549617.0
+44,3,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,8710933.0
+45,3,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,8216082.0
+46,3,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,7846163.0
+47,3,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,8226777.0
+48,3,Valor añadido bruto total,2021,33728417.0
+49,3,Valor añadido bruto total,2020,31006346.0
+50,3,Valor añadido bruto total,2019,33889570.0
+51,3,Impuestos netos sobre los productos,2021,3551318.0
+52,3,Impuestos netos sobre los productos,2020,2973565.0
+53,3,Impuestos netos sobre los productos,2019,3476923.0
+54,4,"A. Agricultura, ganadería, silvicultura y pesca",2021,2443690.0
+55,4,"A. Agricultura, ganadería, silvicultura y pesca",2020,2519276.0
+56,4,"A. Agricultura, ganadería, silvicultura y pesca",2019,2400114.0
+57,4,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1348695.0
+58,4,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1302726.0
+59,4,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1416242.0
+60,4,C. - De las cuales: Industria manufacturera,2021,1020119.0
+61,4,C. - De las cuales: Industria manufacturera,2020,1011494.0
+62,4,C. - De las cuales: Industria manufacturera,2019,996328.0
+63,4,F. Construcción,2021,723957.0
+64,4,F. Construcción,2020,648214.0
+65,4,F. Construcción,2019,774405.0
+66,4,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,3793774.0
+67,4,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,3232834.0
+68,4,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,4017874.0
+69,4,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2816431.0
+70,4,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2687981.0
+71,4,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2726384.0
+72,4,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3041318.0
+73,4,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2937782.0
+74,4,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3007440.0
+75,4,Valor añadido bruto total,2021,14167865.0
+76,4,Valor añadido bruto total,2020,13328813.0
+77,4,Valor añadido bruto total,2019,14342459.0
+78,4,Impuestos netos sobre los productos,2021,1491757.0
+79,4,Impuestos netos sobre los productos,2020,1278257.0
+80,4,Impuestos netos sobre los productos,2019,1471474.0
+81,1,"A. Agricultura, ganadería, silvicultura y pesca",2021,201362.0
+82,1,"A. Agricultura, ganadería, silvicultura y pesca",2020,189557.0
+83,1,"A. Agricultura, ganadería, silvicultura y pesca",2019,212839.0
+84,1,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,3832143.0
+85,1,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,3388952.0
+86,1,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,3781684.0
+87,1,C. - De las cuales: Industria manufacturera,2021,3473573.0
+88,1,C. - De las cuales: Industria manufacturera,2020,3145920.0
+89,1,C. - De las cuales: Industria manufacturera,2019,3588690.0
+90,1,F. Construcción,2021,400677.0
+91,1,F. Construcción,2020,429096.0
+92,1,F. Construcción,2019,518235.0
+93,1,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1946392.0
+94,1,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1669800.0
+95,1,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1961560.0
+96,1,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2434844.0
+97,1,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2327165.0
+98,1,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2392190.0
+99,1,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,2891885.0
+100,1,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2700268.0
+101,1,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2754616.0
+102,1,Valor añadido bruto total,2021,11707303.0
+103,1,Valor añadido bruto total,2020,10704838.0
+104,1,Valor añadido bruto total,2019,11621124.0
+105,1,Impuestos netos sobre los productos,2021,1232680.0
+106,1,Impuestos netos sobre los productos,2020,1026613.0
+107,1,Impuestos netos sobre los productos,2019,1192277.0
+108,33,"A. Agricultura, ganadería, silvicultura y pesca",2021,306301.0
+109,33,"A. Agricultura, ganadería, silvicultura y pesca",2020,284291.0
+110,33,"A. Agricultura, ganadería, silvicultura y pesca",2019,307966.0
+111,33,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,4572369.0
+112,33,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,3762056.0
+113,33,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,4239988.0
+114,33,C. - De las cuales: Industria manufacturera,2021,3118701.0
+115,33,C. - De las cuales: Industria manufacturera,2020,2508510.0
+116,33,C. - De las cuales: Industria manufacturera,2019,2902969.0
+117,33,F. Construcción,2021,1392272.0
+118,33,F. Construcción,2020,1314621.0
+119,33,F. Construcción,2019,1521189.0
+120,33,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,4867794.0
+121,33,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,4189893.0
+122,33,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,5208875.0
+123,33,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,5075288.0
+124,33,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,4877413.0
+125,33,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,5013066.0
+126,33,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,5092263.0
+127,33,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,5025246.0
+128,33,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,5213870.0
+129,33,Valor añadido bruto total,2021,21306287.0
+130,33,Valor añadido bruto total,2020,19453520.0
+131,33,Valor añadido bruto total,2019,21504954.0
+132,33,Impuestos netos sobre los productos,2021,2243372.0
+133,33,Impuestos netos sobre los productos,2020,1865628.0
+134,33,Impuestos netos sobre los productos,2019,2206315.0
+135,5,"A. Agricultura, ganadería, silvicultura y pesca",2021,141202.0
+136,5,"A. Agricultura, ganadería, silvicultura y pesca",2020,141187.0
+137,5,"A. Agricultura, ganadería, silvicultura y pesca",2019,104443.0
+138,5,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,324441.0
+139,5,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,264401.0
+140,5,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,281793.0
+141,5,C. - De las cuales: Industria manufacturera,2021,251439.0
+142,5,C. - De las cuales: Industria manufacturera,2020,216637.0
+143,5,C. - De las cuales: Industria manufacturera,2019,234660.0
+144,5,F. Construcción,2021,266759.0
+145,5,F. Construcción,2020,264628.0
+146,5,F. Construcción,2019,272458.0
+147,5,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,645518.0
+148,5,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,556041.0
+149,5,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,732257.0
+150,5,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,678479.0
+151,5,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,651021.0
+152,5,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,660029.0
+153,5,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,929338.0
+154,5,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,929911.0
+155,5,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,961361.0
+156,5,Valor añadido bruto total,2021,2985737.0
+157,5,Valor añadido bruto total,2020,2807189.0
+158,5,Valor añadido bruto total,2019,3012341.0
+159,5,Impuestos netos sobre los productos,2021,314373.0
+160,5,Impuestos netos sobre los productos,2020,269215.0
+161,5,Impuestos netos sobre los productos,2019,309053.0
+162,6,"A. Agricultura, ganadería, silvicultura y pesca",2021,1114803.0
+163,6,"A. Agricultura, ganadería, silvicultura y pesca",2020,828169.0
+164,6,"A. Agricultura, ganadería, silvicultura y pesca",2019,957944.0
+165,6,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1424693.0
+166,6,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1284940.0
+167,6,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1331190.0
+168,6,C. - De las cuales: Industria manufacturera,2021,989504.0
+169,6,C. - De las cuales: Industria manufacturera,2020,880772.0
+170,6,C. - De las cuales: Industria manufacturera,2019,894518.0
+171,6,F. Construcción,2021,712482.0
+172,6,F. Construcción,2020,656761.0
+173,6,F. Construcción,2019,766514.0
+174,6,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,2239124.0
+175,6,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1925604.0
+176,6,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,2274580.0
+177,6,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2390063.0
+178,6,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2284369.0
+179,6,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2278521.0
+180,6,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3630016.0
+181,6,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,3639953.0
+182,6,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3719584.0
+183,6,Valor añadido bruto total,2021,11511181.0
+184,6,Valor añadido bruto total,2020,10619796.0
+185,6,Valor añadido bruto total,2019,11328333.0
+186,6,Impuestos netos sobre los productos,2021,1212030.0
+187,6,Impuestos netos sobre los productos,2020,1018458.0
+188,6,Impuestos netos sobre los productos,2019,1162238.0
+189,7,"A. Agricultura, ganadería, silvicultura y pesca",2021,154128.0
+190,7,"A. Agricultura, ganadería, silvicultura y pesca",2020,148537.0
+191,7,"A. Agricultura, ganadería, silvicultura y pesca",2019,181850.0
+192,7,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1806386.0
+193,7,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1674865.0
+194,7,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1791348.0
+195,7,C. - De las cuales: Industria manufacturera,2021,775341.0
+196,7,C. - De las cuales: Industria manufacturera,2020,739139.0
+197,7,C. - De las cuales: Industria manufacturera,2019,843963.0
+198,7,F. Construcción,2021,2146768.0
+199,7,F. Construcción,2020,2151854.0
+200,7,F. Construcción,2019,2447974.0
+201,7,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,8876564.0
+202,7,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,6310676.0
+203,7,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,11653261.0
+204,7,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,8116266.0
+205,7,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,7758796.0
+206,7,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,8527791.0
+207,7,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,6070699.0
+208,7,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,5860780.0
+209,7,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,6175425.0
+210,7,Valor añadido bruto total,2021,27170811.0
+211,7,Valor añadido bruto total,2020,23905508.0
+212,7,Valor añadido bruto total,2019,30777649.0
+213,7,Impuestos netos sobre los productos,2021,2860857.0
+214,7,Impuestos netos sobre los productos,2020,2292582.0
+215,7,Impuestos netos sobre los productos,2019,3157653.0
+216,8,"A. Agricultura, ganadería, silvicultura y pesca",2021,723577.0
+217,8,"A. Agricultura, ganadería, silvicultura y pesca",2020,823535.0
+218,8,"A. Agricultura, ganadería, silvicultura y pesca",2019,895896.0
+219,8,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,32134195.0
+220,8,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,29055554.0
+221,8,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,31248511.0
+222,8,C. - De las cuales: Industria manufacturera,2021,27764672.0
+223,8,C. - De las cuales: Industria manufacturera,2020,25263528.0
+224,8,C. - De las cuales: Industria manufacturera,2019,27412031.0
+225,8,F. Construcción,2021,7393843.0
+226,8,F. Construcción,2020,7182337.0
+227,8,F. Construcción,2019,8229130.0
+228,8,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,42489644.0
+229,8,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,36678272.0
+230,8,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,46043711.0
+231,8,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,42975113.0
+232,8,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,41181032.0
+233,8,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,43372364.0
+234,8,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,31456531.0
+235,8,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,31242312.0
+236,8,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,32731702.0
+237,8,Valor añadido bruto total,2021,157172903.0
+238,8,Valor añadido bruto total,2020,146163042.0
+239,8,Valor añadido bruto total,2019,162521314.0
+240,8,Impuestos netos sobre los productos,2021,16548982.0
+241,8,Impuestos netos sobre los productos,2020,14017302.0
+242,8,Impuestos netos sobre los productos,2019,16673980.0
+243,48,"A. Agricultura, ganadería, silvicultura y pesca",2021,70267.0
+244,48,"A. Agricultura, ganadería, silvicultura y pesca",2020,73997.0
+245,48,"A. Agricultura, ganadería, silvicultura y pesca",2019,80500.0
+246,48,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,6216317.0
+247,48,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,5610559.0
+248,48,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,6422101.0
+249,48,C. - De las cuales: Industria manufacturera,2021,4877367.0
+250,48,C. - De las cuales: Industria manufacturera,2020,4163901.0
+251,48,C. - De las cuales: Industria manufacturera,2019,4878649.0
+252,48,F. Construcción,2021,2531960.0
+253,48,F. Construcción,2020,2501960.0
+254,48,F. Construcción,2019,2775398.0
+255,48,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,7637754.0
+256,48,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,6701292.0
+257,48,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,8332364.0
+258,48,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,8394418.0
+259,48,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,8114266.0
+260,48,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,8238406.0
+261,48,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,7219464.0
+262,48,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,7045343.0
+263,48,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,7497822.0
+264,48,Valor añadido bruto total,2021,32070180.0
+265,48,Valor añadido bruto total,2020,30047417.0
+266,48,Valor añadido bruto total,2019,33346591.0
+267,48,Impuestos netos sobre los productos,2021,3376720.0
+268,48,Impuestos netos sobre los productos,2020,2881602.0
+269,48,Impuestos netos sobre los productos,2019,3421215.0
+270,9,"A. Agricultura, ganadería, silvicultura y pesca",2021,537609.0
+271,9,"A. Agricultura, ganadería, silvicultura y pesca",2020,478764.0
+272,9,"A. Agricultura, ganadería, silvicultura y pesca",2019,423763.0
+273,9,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,2948934.0
+274,9,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,2703579.0
+275,9,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,3069858.0
+276,9,C. - De las cuales: Industria manufacturera,2021,2524749.0
+277,9,C. - De las cuales: Industria manufacturera,2020,2158189.0
+278,9,C. - De las cuales: Industria manufacturera,2019,2294659.0
+279,9,F. Construcción,2021,527010.0
+280,9,F. Construcción,2020,560582.0
+281,9,F. Construcción,2019,642790.0
+282,9,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1630774.0
+283,9,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1390971.0
+284,9,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1733220.0
+285,9,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1738882.0
+286,9,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1678852.0
+287,9,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1715185.0
+288,9,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,1914522.0
+289,9,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,1920724.0
+290,9,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2025682.0
+291,9,Valor añadido bruto total,2021,9297731.0
+292,9,Valor añadido bruto total,2020,8733472.0
+293,9,Valor añadido bruto total,2019,9610498.0
+294,9,Impuestos netos sobre los productos,2021,978973.0
+295,9,Impuestos netos sobre los productos,2020,837556.0
+296,9,Impuestos netos sobre los productos,2019,985995.0
+297,10,"A. Agricultura, ganadería, silvicultura y pesca",2021,539289.0
+298,10,"A. Agricultura, ganadería, silvicultura y pesca",2020,384965.0
+299,10,"A. Agricultura, ganadería, silvicultura y pesca",2019,549609.0
+300,10,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1314786.0
+301,10,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1044502.0
+302,10,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1131335.0
+303,10,C. - De las cuales: Industria manufacturera,2021,304861.0
+304,10,C. - De las cuales: Industria manufacturera,2020,290796.0
+305,10,C. - De las cuales: Industria manufacturera,2019,319407.0
+306,10,F. Construcción,2021,595778.0
+307,10,F. Construcción,2020,579651.0
+308,10,F. Construcción,2019,676716.0
+309,10,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1230075.0
+310,10,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1081047.0
+311,10,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1341820.0
+312,10,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1393426.0
+313,10,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1362215.0
+314,10,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1374099.0
+315,10,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,2098080.0
+316,10,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2119364.0
+317,10,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2171468.0
+318,10,Valor añadido bruto total,2021,7171434.0
+319,10,Valor añadido bruto total,2020,6571744.0
+320,10,Valor añadido bruto total,2019,7245047.0
+321,10,Impuestos netos sobre los productos,2021,755092.0
+322,10,Impuestos netos sobre los productos,2020,630242.0
+323,10,Impuestos netos sobre los productos,2019,743310.0
+324,11,"A. Agricultura, ganadería, silvicultura y pesca",2021,590182.0
+325,11,"A. Agricultura, ganadería, silvicultura y pesca",2020,517282.0
+326,11,"A. Agricultura, ganadería, silvicultura y pesca",2019,652209.0
+327,11,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,2965350.0
+328,11,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,2230039.0
+329,11,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,3068425.0
+330,11,C. - De las cuales: Industria manufacturera,2021,1903996.0
+331,11,C. - De las cuales: Industria manufacturera,2020,1325381.0
+332,11,C. - De las cuales: Industria manufacturera,2019,2016715.0
+333,11,F. Construcción,2021,1228858.0
+334,11,F. Construcción,2020,1285220.0
+335,11,F. Construcción,2019,1519941.0
+336,11,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,4713925.0
+337,11,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,3915656.0
+338,11,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,4931412.0
+339,11,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,4743273.0
+340,11,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,4504009.0
+341,11,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,4618525.0
+342,11,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,6237843.0
+343,11,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,6029118.0
+344,11,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,6208929.0
+345,11,Valor añadido bruto total,2021,20479431.0
+346,11,Valor añadido bruto total,2020,18481324.0
+347,11,Valor añadido bruto total,2019,20999441.0
+348,11,Impuestos netos sobre los productos,2021,2156311.0
+349,11,Impuestos netos sobre los productos,2020,1772393.0
+350,11,Impuestos netos sobre los productos,2019,2154451.0
+351,39,"A. Agricultura, ganadería, silvicultura y pesca",2021,185011.0
+352,39,"A. Agricultura, ganadería, silvicultura y pesca",2020,155059.0
+353,39,"A. Agricultura, ganadería, silvicultura y pesca",2019,153770.0
+354,39,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,2834352.0
+355,39,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,2479943.0
+356,39,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,2671327.0
+357,39,C. - De las cuales: Industria manufacturera,2021,2264179.0
+358,39,C. - De las cuales: Industria manufacturera,2020,2001452.0
+359,39,C. - De las cuales: Industria manufacturera,2019,2188319.0
+360,39,F. Construcción,2021,824530.0
+361,39,F. Construcción,2020,810175.0
+362,39,F. Construcción,2019,929138.0
+363,39,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,2693982.0
+364,39,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,2319072.0
+365,39,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,2921214.0
+366,39,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,3078541.0
+367,39,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2940643.0
+368,39,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2967918.0
+369,39,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3069890.0
+370,39,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,3022731.0
+371,39,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3217884.0
+372,39,Valor añadido bruto total,2021,12686306.0
+373,39,Valor añadido bruto total,2020,11727623.0
+374,39,Valor añadido bruto total,2019,12861251.0
+375,39,Impuestos netos sobre los productos,2021,1335761.0
+376,39,Impuestos netos sobre los productos,2020,1124700.0
+377,39,Impuestos netos sobre los productos,2019,1319508.0
+378,12,"A. Agricultura, ganadería, silvicultura y pesca",2021,429078.0
+379,12,"A. Agricultura, ganadería, silvicultura y pesca",2020,394736.0
+380,12,"A. Agricultura, ganadería, silvicultura y pesca",2019,366391.0
+381,12,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,5233733.0
+382,12,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,4312375.0
+383,12,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,4928270.0
+384,12,C. - De las cuales: Industria manufacturera,2021,4811949.0
+385,12,C. - De las cuales: Industria manufacturera,2020,3975218.0
+386,12,C. - De las cuales: Industria manufacturera,2019,4574401.0
+387,12,F. Construcción,2021,758542.0
+388,12,F. Construcción,2020,749752.0
+389,12,F. Construcción,2019,889592.0
+390,12,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,2930316.0
+391,12,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,2492836.0
+392,12,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,3183379.0
+393,12,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2748923.0
+394,12,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2600229.0
+395,12,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2651625.0
+396,12,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,2508262.0
+397,12,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2431729.0
+398,12,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2566816.0
+399,12,Valor añadido bruto total,2021,14608854.0
+400,12,Valor añadido bruto total,2020,12981657.0
+401,12,Valor añadido bruto total,2019,14586073.0
+402,12,Impuestos netos sobre los productos,2021,1538189.0
+403,12,Impuestos netos sobre los productos,2020,1244964.0
+404,12,Impuestos netos sobre los productos,2019,1496468.0
+405,13,"A. Agricultura, ganadería, silvicultura y pesca",2021,962771.0
+406,13,"A. Agricultura, ganadería, silvicultura y pesca",2020,1067394.0
+407,13,"A. Agricultura, ganadería, silvicultura y pesca",2019,868740.0
+408,13,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1830190.0
+409,13,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1425229.0
+410,13,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1844805.0
+411,13,C. - De las cuales: Industria manufacturera,2021,1547223.0
+412,13,C. - De las cuales: Industria manufacturera,2020,1184306.0
+413,13,C. - De las cuales: Industria manufacturera,2019,1589514.0
+414,13,F. Construcción,2021,660968.0
+415,13,F. Construcción,2020,635088.0
+416,13,F. Construcción,2019,697770.0
+417,13,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,2003563.0
+418,13,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1764264.0
+419,13,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,2097107.0
+420,13,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1715384.0
+421,13,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1655507.0
+422,13,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1669390.0
+423,13,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,2628011.0
+424,13,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2573562.0
+425,13,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2589507.0
+426,13,Valor añadido bruto total,2021,9800887.0
+427,13,Valor añadido bruto total,2020,9121044.0
+428,13,Valor añadido bruto total,2019,9767319.0
+429,13,Impuestos netos sobre los productos,2021,1031951.0
+430,13,Impuestos netos sobre los productos,2020,874725.0
+431,13,Impuestos netos sobre los productos,2019,1002084.0
+432,14,"A. Agricultura, ganadería, silvicultura y pesca",2021,1495086.0
+433,14,"A. Agricultura, ganadería, silvicultura y pesca",2020,1135706.0
+434,14,"A. Agricultura, ganadería, silvicultura y pesca",2019,851623.0
+435,14,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1519904.0
+436,14,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1269133.0
+437,14,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1391994.0
+438,14,C. - De las cuales: Industria manufacturera,2021,1230162.0
+439,14,C. - De las cuales: Industria manufacturera,2020,1011867.0
+440,14,C. - De las cuales: Industria manufacturera,2019,1051099.0
+441,14,F. Construcción,2021,780631.0
+442,14,F. Construcción,2020,689441.0
+443,14,F. Construcción,2019,789781.0
+444,14,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,2674401.0
+445,14,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,2262007.0
+446,14,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,3046711.0
+447,14,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2786778.0
+448,14,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2665513.0
+449,14,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2738673.0
+450,14,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3966979.0
+451,14,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,3847235.0
+452,14,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3989016.0
+453,14,Valor añadido bruto total,2021,13223779.0
+454,14,Valor añadido bruto total,2020,11869035.0
+455,14,Valor añadido bruto total,2019,12807798.0
+456,14,Impuestos netos sobre los productos,2021,1392352.0
+457,14,Impuestos netos sobre los productos,2020,1138262.0
+458,14,Impuestos netos sobre los productos,2019,1314024.0
+459,15,"A. Agricultura, ganadería, silvicultura y pesca",2021,971640.0
+460,15,"A. Agricultura, ganadería, silvicultura y pesca",2020,908992.0
+461,15,"A. Agricultura, ganadería, silvicultura y pesca",2019,963008.0
+462,15,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,3953030.0
+463,15,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,3628728.0
+464,15,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,4181304.0
+465,15,C. - De las cuales: Industria manufacturera,2021,2597552.0
+466,15,C. - De las cuales: Industria manufacturera,2020,2355242.0
+467,15,C. - De las cuales: Industria manufacturera,2019,2912326.0
+468,15,F. Construcción,2021,1762785.0
+469,15,F. Construcción,2020,1716942.0
+470,15,F. Construcción,2019,1887684.0
+471,15,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,6169564.0
+472,15,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,5397387.0
+473,15,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,6485156.0
+474,15,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,5622858.0
+475,15,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,5371364.0
+476,15,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,5434532.0
+477,15,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,6262883.0
+478,15,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,6118677.0
+479,15,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,6187238.0
+480,15,Valor añadido bruto total,2021,24742760.0
+481,15,Valor añadido bruto total,2020,23142090.0
+482,15,Valor añadido bruto total,2019,25138922.0
+483,15,Impuestos netos sobre los productos,2021,2605205.0
+484,15,Impuestos netos sobre los productos,2020,2219368.0
+485,15,Impuestos netos sobre los productos,2019,2579144.0
+486,16,"A. Agricultura, ganadería, silvicultura y pesca",2021,757799.0
+487,16,"A. Agricultura, ganadería, silvicultura y pesca",2020,695451.0
+488,16,"A. Agricultura, ganadería, silvicultura y pesca",2019,695787.0
+489,16,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,513832.0
+490,16,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,433609.0
+491,16,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,471007.0
+492,16,C. - De las cuales: Industria manufacturera,2021,288247.0
+493,16,C. - De las cuales: Industria manufacturera,2020,254710.0
+494,16,C. - De las cuales: Industria manufacturera,2019,272495.0
+495,16,F. Construcción,2021,273704.0
+496,16,F. Construcción,2020,252164.0
+497,16,F. Construcción,2019,276267.0
+498,16,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,987352.0
+499,16,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,898560.0
+500,16,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1063817.0
+501,16,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,671677.0
+502,16,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,645053.0
+503,16,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,655596.0
+504,16,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,952006.0
+505,16,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,903256.0
+506,16,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,932880.0
+507,16,Valor añadido bruto total,2021,4156370.0
+508,16,Valor añadido bruto total,2020,3828093.0
+509,16,Valor añadido bruto total,2019,4095354.0
+510,16,Impuestos netos sobre los productos,2021,437631.0
+511,16,Impuestos netos sobre los productos,2020,367121.0
+512,16,Impuestos netos sobre los productos,2019,420166.0
+513,20,"A. Agricultura, ganadería, silvicultura y pesca",2021,91933.0
+514,20,"A. Agricultura, ganadería, silvicultura y pesca",2020,96251.0
+515,20,"A. Agricultura, ganadería, silvicultura y pesca",2019,119345.0
+516,20,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,5921660.0
+517,20,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,5176787.0
+518,20,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,5707550.0
+519,20,C. - De las cuales: Industria manufacturera,2021,5534807.0
+520,20,C. - De las cuales: Industria manufacturera,2020,4897711.0
+521,20,C. - De las cuales: Industria manufacturera,2019,5470374.0
+522,20,F. Construcción,2021,1186543.0
+523,20,F. Construcción,2020,1160660.0
+524,20,F. Construcción,2019,1497326.0
+525,20,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,4963137.0
+526,20,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,4277263.0
+527,20,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,5254022.0
+528,20,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,4743611.0
+529,20,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,4586643.0
+530,20,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,4677171.0
+531,20,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,4661181.0
+532,20,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,4626774.0
+533,20,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,4959233.0
+534,20,Valor añadido bruto total,2021,21568065.0
+535,20,Valor añadido bruto total,2020,19924378.0
+536,20,Valor añadido bruto total,2019,22214647.0
+537,20,Impuestos netos sobre los productos,2021,2270935.0
+538,20,Impuestos netos sobre los productos,2020,1910784.0
+539,20,Impuestos netos sobre los productos,2019,2279126.0
+540,17,"A. Agricultura, ganadería, silvicultura y pesca",2021,504047.0
+541,17,"A. Agricultura, ganadería, silvicultura y pesca",2020,587367.0
+542,17,"A. Agricultura, ganadería, silvicultura y pesca",2019,631719.0
+543,17,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,2877101.0
+544,17,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,2471563.0
+545,17,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,2455373.0
+546,17,C. - De las cuales: Industria manufacturera,2021,2443136.0
+547,17,C. - De las cuales: Industria manufacturera,2020,2089661.0
+548,17,C. - De las cuales: Industria manufacturera,2019,2079978.0
+549,17,F. Construcción,2021,1382527.0
+550,17,F. Construcción,2020,1333140.0
+551,17,F. Construcción,2019,1477548.0
+552,17,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,5538267.0
+553,17,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,4718878.0
+554,17,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,6238839.0
+555,17,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,5196307.0
+556,17,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,4943076.0
+557,17,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,5049800.0
+558,17,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3822602.0
+559,17,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,3758477.0
+560,17,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3943933.0
+561,17,Valor añadido bruto total,2021,19320851.0
+562,17,Valor añadido bruto total,2020,17812501.0
+563,17,Valor añadido bruto total,2019,19797212.0
+564,17,Impuestos netos sobre los productos,2021,2034323.0
+565,17,Impuestos netos sobre los productos,2020,1708251.0
+566,17,Impuestos netos sobre los productos,2019,2031108.0
+567,18,"A. Agricultura, ganadería, silvicultura y pesca",2021,1088230.0
+568,18,"A. Agricultura, ganadería, silvicultura y pesca",2020,1058030.0
+569,18,"A. Agricultura, ganadería, silvicultura y pesca",2019,1075910.0
+570,18,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1549956.0
+571,18,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1399420.0
+572,18,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1291695.0
+573,18,C. - De las cuales: Industria manufacturera,2021,713568.0
+574,18,C. - De las cuales: Industria manufacturera,2020,612214.0
+575,18,C. - De las cuales: Industria manufacturera,2019,631141.0
+576,18,F. Construcción,2021,900062.0
+577,18,F. Construcción,2020,947043.0
+578,18,F. Construcción,2019,1179578.0
+579,18,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,3580557.0
+580,18,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,2979032.0
+581,18,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,3897511.0
+582,18,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,3743645.0
+583,18,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,3565696.0
+584,18,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,3690752.0
+585,18,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,4645227.0
+586,18,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,4470191.0
+587,18,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,4630985.0
+588,18,Valor añadido bruto total,2021,15507677.0
+589,18,Valor añadido bruto total,2020,14419412.0
+590,18,Valor añadido bruto total,2019,15766431.0
+591,18,Impuestos netos sobre los productos,2021,1632828.0
+592,18,Impuestos netos sobre los productos,2020,1382848.0
+593,18,Impuestos netos sobre los productos,2019,1617567.0
+594,19,"A. Agricultura, ganadería, silvicultura y pesca",2021,219859.0
+595,19,"A. Agricultura, ganadería, silvicultura y pesca",2020,208007.0
+596,19,"A. Agricultura, ganadería, silvicultura y pesca",2019,184310.0
+597,19,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1389705.0
+598,19,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1219830.0
+599,19,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1357634.0
+600,19,C. - De las cuales: Industria manufacturera,2021,826448.0
+601,19,C. - De las cuales: Industria manufacturera,2020,771768.0
+602,19,C. - De las cuales: Industria manufacturera,2019,859030.0
+603,19,F. Construcción,2021,256396.0
+604,19,F. Construcción,2020,267054.0
+605,19,F. Construcción,2019,336046.0
+606,19,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,870770.0
+607,19,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,747142.0
+608,19,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,857710.0
+609,19,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1101430.0
+610,19,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1044130.0
+611,19,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1074778.0
+612,19,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,1140388.0
+613,19,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,1119976.0
+614,19,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,1146314.0
+615,19,Valor añadido bruto total,2021,4978548.0
+616,19,Valor añadido bruto total,2020,4606139.0
+617,19,Valor añadido bruto total,2019,4956792.0
+618,19,Impuestos netos sobre los productos,2021,524199.0
+619,19,Impuestos netos sobre los productos,2020,441737.0
+620,19,Impuestos netos sobre los productos,2019,508545.0
+621,21,"A. Agricultura, ganadería, silvicultura y pesca",2021,887316.0
+622,21,"A. Agricultura, ganadería, silvicultura y pesca",2020,644247.0
+623,21,"A. Agricultura, ganadería, silvicultura y pesca",2019,692537.0
+624,21,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,2134574.0
+625,21,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1494167.0
+626,21,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1948511.0
+627,21,C. - De las cuales: Industria manufacturera,2021,1000517.0
+628,21,C. - De las cuales: Industria manufacturera,2020,630072.0
+629,21,C. - De las cuales: Industria manufacturera,2019,1067398.0
+630,21,F. Construcción,2021,485002.0
+631,21,F. Construcción,2020,468596.0
+632,21,F. Construcción,2019,546306.0
+633,21,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1793457.0
+634,21,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1545198.0
+635,21,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1951281.0
+636,21,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2041220.0
+637,21,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1949759.0
+638,21,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1996873.0
+639,21,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,2396255.0
+640,21,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2332641.0
+641,21,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2427483.0
+642,21,Valor añadido bruto total,2021,9737824.0
+643,21,Valor añadido bruto total,2020,8434608.0
+644,21,Valor añadido bruto total,2019,9562991.0
+645,21,Impuestos netos sobre los productos,2021,1025311.0
+646,21,Impuestos netos sobre los productos,2020,808894.0
+647,21,Impuestos netos sobre los productos,2019,981121.0
+648,22,"A. Agricultura, ganadería, silvicultura y pesca",2021,972723.0
+649,22,"A. Agricultura, ganadería, silvicultura y pesca",2020,1035363.0
+650,22,"A. Agricultura, ganadería, silvicultura y pesca",2019,846752.0
+651,22,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1105405.0
+652,22,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,891562.0
+653,22,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,945859.0
+654,22,C. - De las cuales: Industria manufacturera,2021,867271.0
+655,22,C. - De las cuales: Industria manufacturera,2020,746279.0
+656,22,C. - De las cuales: Industria manufacturera,2019,781522.0
+657,22,F. Construcción,2021,442920.0
+658,22,F. Construcción,2020,430346.0
+659,22,F. Construcción,2019,388936.0
+660,22,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1275846.0
+661,22,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1113337.0
+662,22,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1409365.0
+663,22,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1055854.0
+664,22,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1010901.0
+665,22,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1020279.0
+666,22,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,1301635.0
+667,22,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,1246288.0
+668,22,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,1283310.0
+669,22,Valor añadido bruto total,2021,6154383.0
+670,22,Valor añadido bruto total,2020,5727797.0
+671,22,Valor añadido bruto total,2019,5894501.0
+672,22,Impuestos netos sobre los productos,2021,648005.0
+673,22,Impuestos netos sobre los productos,2020,549306.0
+674,22,Impuestos netos sobre los productos,2019,604750.0
+675,23,"A. Agricultura, ganadería, silvicultura y pesca",2021,1535182.0
+676,23,"A. Agricultura, ganadería, silvicultura y pesca",2020,1250522.0
+677,23,"A. Agricultura, ganadería, silvicultura y pesca",2019,897842.0
+678,23,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1362513.0
+679,23,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1222063.0
+680,23,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1291407.0
+681,23,C. - De las cuales: Industria manufacturera,2021,1182833.0
+682,23,C. - De las cuales: Industria manufacturera,2020,1078634.0
+683,23,C. - De las cuales: Industria manufacturera,2019,1142351.0
+684,23,F. Construcción,2021,596843.0
+685,23,F. Construcción,2020,545873.0
+686,23,F. Construcción,2019,593931.0
+687,23,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1900108.0
+688,23,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1636284.0
+689,23,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,2103115.0
+690,23,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2144868.0
+691,23,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2073365.0
+692,23,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2143888.0
+693,23,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3095299.0
+694,23,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,3013399.0
+695,23,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3101012.0
+696,23,Valor añadido bruto total,2021,10634813.0
+697,23,Valor añadido bruto total,2020,9741506.0
+698,23,Valor añadido bruto total,2019,10131195.0
+699,23,Impuestos netos sobre los productos,2021,1119756.0
+700,23,Impuestos netos sobre los productos,2020,934228.0
+701,23,Impuestos netos sobre los productos,2019,1039417.0
+702,24,"A. Agricultura, ganadería, silvicultura y pesca",2021,487420.0
+703,24,"A. Agricultura, ganadería, silvicultura y pesca",2020,398244.0
+704,24,"A. Agricultura, ganadería, silvicultura y pesca",2019,365818.0
+705,24,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1524493.0
+706,24,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1276866.0
+707,24,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1208184.0
+708,24,C. - De las cuales: Industria manufacturera,2021,1016874.0
+709,24,C. - De las cuales: Industria manufacturera,2020,905858.0
+710,24,C. - De las cuales: Industria manufacturera,2019,895326.0
+711,24,F. Construcción,2021,587871.0
+712,24,F. Construcción,2020,502355.0
+713,24,F. Construcción,2019,584515.0
+714,24,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,2188755.0
+715,24,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1950487.0
+716,24,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,2453693.0
+717,24,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2139793.0
+718,24,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2047975.0
+719,24,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2077368.0
+720,24,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,2322297.0
+721,24,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2314234.0
+722,24,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2464503.0
+723,24,Valor añadido bruto total,2021,9250629.0
+724,24,Valor añadido bruto total,2020,8490161.0
+725,24,Valor añadido bruto total,2019,9154081.0
+726,24,Impuestos netos sobre los productos,2021,974013.0
+727,24,Impuestos netos sobre los productos,2020,814222.0
+728,24,Impuestos netos sobre los productos,2019,939169.0
+729,25,"A. Agricultura, ganadería, silvicultura y pesca",2021,734891.0
+730,25,"A. Agricultura, ganadería, silvicultura y pesca",2020,768325.0
+731,25,"A. Agricultura, ganadería, silvicultura y pesca",2019,635301.0
+732,25,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1433652.0
+733,25,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1208932.0
+734,25,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1219140.0
+735,25,C. - De las cuales: Industria manufacturera,2021,1010745.0
+736,25,C. - De las cuales: Industria manufacturera,2020,910459.0
+737,25,C. - De las cuales: Industria manufacturera,2019,907084.0
+738,25,F. Construcción,2021,641829.0
+739,25,F. Construcción,2020,629368.0
+740,25,F. Construcción,2019,811609.0
+741,25,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,3416722.0
+742,25,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,2958971.0
+743,25,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,3785177.0
+744,25,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2360633.0
+745,25,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2268866.0
+746,25,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2327973.0
+747,25,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,2774807.0
+748,25,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2679171.0
+749,25,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2685708.0
+750,25,Valor añadido bruto total,2021,11362534.0
+751,25,Valor añadido bruto total,2020,10513633.0
+752,25,Valor añadido bruto total,2019,11464908.0
+753,25,Impuestos netos sobre los productos,2021,1196379.0
+754,25,Impuestos netos sobre los productos,2020,1008276.0
+755,25,Impuestos netos sobre los productos,2019,1176250.0
+756,27,"A. Agricultura, ganadería, silvicultura y pesca",2021,647279.0
+757,27,"A. Agricultura, ganadería, silvicultura y pesca",2020,653364.0
+758,27,"A. Agricultura, ganadería, silvicultura y pesca",2019,716511.0
+759,27,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,866820.0
+760,27,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,774232.0
+761,27,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1043134.0
+762,27,C. - De las cuales: Industria manufacturera,2021,475584.0
+763,27,C. - De las cuales: Industria manufacturera,2020,441422.0
+764,27,C. - De las cuales: Industria manufacturera,2019,622456.0
+765,27,F. Construcción,2021,399301.0
+766,27,F. Construcción,2020,391320.0
+767,27,F. Construcción,2019,439896.0
+768,27,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1781960.0
+769,27,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1572441.0
+770,27,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1885830.0
+771,27,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1294058.0
+772,27,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1245507.0
+773,27,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1263369.0
+774,27,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,1701452.0
+775,27,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,1651304.0
+776,27,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,1692749.0
+777,27,Valor añadido bruto total,2021,6690870.0
+778,27,Valor añadido bruto total,2020,6288168.0
+779,27,Valor añadido bruto total,2019,7041489.0
+780,27,Impuestos netos sobre los productos,2021,704492.0
+781,27,Impuestos netos sobre los productos,2020,603047.0
+782,27,Impuestos netos sobre los productos,2019,722426.0
+783,28,"A. Agricultura, ganadería, silvicultura y pesca",2021,162499.0
+784,28,"A. Agricultura, ganadería, silvicultura y pesca",2020,162448.0
+785,28,"A. Agricultura, ganadería, silvicultura y pesca",2019,151583.0
+786,28,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,23091420.0
+787,28,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,21389543.0
+788,28,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,22573777.0
+789,28,C. - De las cuales: Industria manufacturera,2021,13175614.0
+790,28,C. - De las cuales: Industria manufacturera,2020,12425602.0
+791,28,C. - De las cuales: Industria manufacturera,2019,13307397.0
+792,28,F. Construcción,2021,9638924.0
+793,28,F. Construcción,2020,9543051.0
+794,28,F. Construcción,2019,10978541.0
+795,28,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,68316587.0
+796,28,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,59733235.0
+797,28,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,71999847.0
+798,28,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,68867253.0
+799,28,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,65309206.0
+800,28,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,67864003.0
+801,28,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,44835198.0
+802,28,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,43725772.0
+803,28,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,45998900.0
+804,28,Valor añadido bruto total,2021,214911881.0
+805,28,Valor añadido bruto total,2020,199863255.0
+806,28,Valor añadido bruto total,2019,219566651.0
+807,28,Impuestos netos sobre los productos,2021,22628411.0
+808,28,Impuestos netos sobre los productos,2020,19167249.0
+809,28,Impuestos netos sobre los productos,2019,22526584.0
+810,29,"A. Agricultura, ganadería, silvicultura y pesca",2021,741095.0
+811,29,"A. Agricultura, ganadería, silvicultura y pesca",2020,694679.0
+812,29,"A. Agricultura, ganadería, silvicultura y pesca",2019,759634.0
+813,29,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1399899.0
+814,29,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1232461.0
+815,29,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1400889.0
+816,29,C. - De las cuales: Industria manufacturera,2021,781474.0
+817,29,C. - De las cuales: Industria manufacturera,2020,679044.0
+818,29,C. - De las cuales: Industria manufacturera,2019,771216.0
+819,29,F. Construcción,2021,2484676.0
+820,29,F. Construcción,2020,2482994.0
+821,29,F. Construcción,2019,2989565.0
+822,29,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,7893378.0
+823,29,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,6696639.0
+824,29,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,8765068.0
+825,29,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,8534746.0
+826,29,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,8044382.0
+827,29,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,8342239.0
+828,29,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,6790462.0
+829,29,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,6544666.0
+830,29,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,6948800.0
+831,29,Valor añadido bruto total,2021,27844256.0
+832,29,Valor añadido bruto total,2020,25695821.0
+833,29,Valor añadido bruto total,2019,29206195.0
+834,29,Impuestos netos sobre los productos,2021,2931765.0
+835,29,Impuestos netos sobre los productos,2020,2464276.0
+836,29,Impuestos netos sobre los productos,2019,2996429.0
+837,30,"A. Agricultura, ganadería, silvicultura y pesca",2021,1555680.0
+838,30,"A. Agricultura, ganadería, silvicultura y pesca",2020,1519277.0
+839,30,"A. Agricultura, ganadería, silvicultura y pesca",2019,1617920.0
+840,30,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,5608933.0
+841,30,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,4816771.0
+842,30,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,5306154.0
+843,30,C. - De las cuales: Industria manufacturera,2021,4275150.0
+844,30,C. - De las cuales: Industria manufacturera,2020,3660672.0
+845,30,C. - De las cuales: Industria manufacturera,2019,4075736.0
+846,30,F. Construcción,2021,1705143.0
+847,30,F. Construcción,2020,1632555.0
+848,30,F. Construcción,2019,1909159.0
+849,30,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,7516651.0
+850,30,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,6590539.0
+851,30,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,7618779.0
+852,30,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,6215565.0
+853,30,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,5887143.0
+854,30,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,5914766.0
+855,30,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,7000380.0
+856,30,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,6723558.0
+857,30,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,6945191.0
+858,30,Valor añadido bruto total,2021,29602352.0
+859,30,Valor añadido bruto total,2020,27169843.0
+860,30,Valor añadido bruto total,2019,29311969.0
+861,30,Impuestos netos sobre los productos,2021,3116878.0
+862,30,Impuestos netos sobre los productos,2020,2605637.0
+863,30,Impuestos netos sobre los productos,2019,3007281.0
+864,31,"A. Agricultura, ganadería, silvicultura y pesca",2021,715214.0
+865,31,"A. Agricultura, ganadería, silvicultura y pesca",2020,693269.0
+866,31,"A. Agricultura, ganadería, silvicultura y pesca",2019,671653.0
+867,31,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,5498025.0
+868,31,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,5096618.0
+869,31,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,5608308.0
+870,31,C. - De las cuales: Industria manufacturera,2021,4752883.0
+871,31,C. - De las cuales: Industria manufacturera,2020,4436495.0
+872,31,C. - De las cuales: Industria manufacturera,2019,4872516.0
+873,31,F. Construcción,2021,1046069.0
+874,31,F. Construcción,2020,970671.0
+875,31,F. Construcción,2019,1117296.0
+876,31,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,3751217.0
+877,31,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,3208902.0
+878,31,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,4025408.0
+879,31,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,3620392.0
+880,31,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,3502143.0
+881,31,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,3587200.0
+882,31,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3932937.0
+883,31,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,3808630.0
+884,31,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3921279.0
+885,31,Valor añadido bruto total,2021,18563854.0
+886,31,Valor añadido bruto total,2020,17280233.0
+887,31,Valor añadido bruto total,2019,18931144.0
+888,31,Impuestos netos sobre los productos,2021,1954617.0
+889,31,Impuestos netos sobre los productos,2020,1657206.0
+890,31,Impuestos netos sobre los productos,2019,1942253.0
+891,32,"A. Agricultura, ganadería, silvicultura y pesca",2021,382289.0
+892,32,"A. Agricultura, ganadería, silvicultura y pesca",2020,334061.0
+893,32,"A. Agricultura, ganadería, silvicultura y pesca",2019,507480.0
+894,32,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1392490.0
+895,32,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1137917.0
+896,32,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1171849.0
+897,32,C. - De las cuales: Industria manufacturera,2021,682035.0
+898,32,C. - De las cuales: Industria manufacturera,2020,620754.0
+899,32,C. - De las cuales: Industria manufacturera,2019,682981.0
+900,32,F. Construcción,2021,426962.0
+901,32,F. Construcción,2020,430937.0
+902,32,F. Construcción,2019,514957.0
+903,32,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1483127.0
+904,32,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1258680.0
+905,32,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1523294.0
+906,32,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1188820.0
+907,32,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1155135.0
+908,32,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1165126.0
+909,32,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,1553782.0
+910,32,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,1509092.0
+911,32,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,1557388.0
+912,32,Valor añadido bruto total,2021,6427470.0
+913,32,Valor añadido bruto total,2020,5825822.0
+914,32,Valor añadido bruto total,2019,6440094.0
+915,32,Impuestos netos sobre los productos,2021,676758.0
+916,32,Impuestos netos sobre los productos,2020,558707.0
+917,32,Impuestos netos sobre los productos,2019,660726.0
+918,34,"A. Agricultura, ganadería, silvicultura y pesca",2021,348625.0
+919,34,"A. Agricultura, ganadería, silvicultura y pesca",2020,278063.0
+920,34,"A. Agricultura, ganadería, silvicultura y pesca",2019,230828.0
+921,34,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1089346.0
+922,34,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1037431.0
+923,34,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1200768.0
+924,34,C. - De las cuales: Industria manufacturera,2021,934598.0
+925,34,C. - De las cuales: Industria manufacturera,2020,952127.0
+926,34,C. - De las cuales: Industria manufacturera,2019,1057584.0
+927,34,F. Construcción,2021,195647.0
+928,34,F. Construcción,2020,197343.0
+929,34,F. Construcción,2019,206840.0
+930,34,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,616051.0
+931,34,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,542423.0
+932,34,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,671756.0
+933,34,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,727306.0
+934,34,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,704338.0
+935,34,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,732983.0
+936,34,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,916807.0
+937,34,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,916992.0
+938,34,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,956721.0
+939,34,Valor añadido bruto total,2021,3893782.0
+940,34,Valor añadido bruto total,2020,3676590.0
+941,34,Valor añadido bruto total,2019,3999896.0
+942,34,Impuestos netos sobre los productos,2021,409982.0
+943,34,Impuestos netos sobre los productos,2020,352592.0
+944,34,Impuestos netos sobre los productos,2019,410372.0
+945,35,"A. Agricultura, ganadería, silvicultura y pesca",2021,247736.0
+946,35,"A. Agricultura, ganadería, silvicultura y pesca",2020,255269.0
+947,35,"A. Agricultura, ganadería, silvicultura y pesca",2019,264322.0
+948,35,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1514492.0
+949,35,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1410524.0
+950,35,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1534808.0
+951,35,C. - De las cuales: Industria manufacturera,2021,719414.0
+952,35,C. - De las cuales: Industria manufacturera,2020,684010.0
+953,35,C. - De las cuales: Industria manufacturera,2019,799644.0
+954,35,F. Construcción,2021,1273844.0
+955,35,F. Construcción,2020,1186512.0
+956,35,F. Construcción,2019,1271859.0
+957,35,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,6618825.0
+958,35,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,5324925.0
+959,35,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,8579740.0
+960,35,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,4935073.0
+961,35,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,4763697.0
+962,35,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,5091851.0
+963,35,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,5365733.0
+964,35,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,5028455.0
+965,35,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,5218522.0
+966,35,Valor añadido bruto total,2021,19955703.0
+967,35,Valor añadido bruto total,2020,17969382.0
+968,35,Valor añadido bruto total,2019,21961102.0
+969,35,Impuestos netos sobre los productos,2021,2101168.0
+970,35,Impuestos netos sobre los productos,2020,1723297.0
+971,35,Impuestos netos sobre los productos,2019,2253114.0
+972,36,"A. Agricultura, ganadería, silvicultura y pesca",2021,742360.0
+973,36,"A. Agricultura, ganadería, silvicultura y pesca",2020,676570.0
+974,36,"A. Agricultura, ganadería, silvicultura y pesca",2019,818688.0
+975,36,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,4744084.0
+976,36,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,3994501.0
+977,36,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,3977842.0
+978,36,C. - De las cuales: Industria manufacturera,2021,4316195.0
+979,36,C. - De las cuales: Industria manufacturera,2020,3704507.0
+980,36,C. - De las cuales: Industria manufacturera,2019,3713443.0
+981,36,F. Construcción,2021,1168637.0
+982,36,F. Construcción,2020,1200960.0
+983,36,F. Construcción,2019,1369926.0
+984,36,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,4885776.0
+985,36,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,4194311.0
+986,36,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,5014448.0
+987,36,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,4299973.0
+988,36,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,4150541.0
+989,36,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,4204561.0
+990,36,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,4052861.0
+991,36,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,4056584.0
+992,36,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,4238514.0
+993,36,Valor añadido bruto total,2021,19893691.0
+994,36,Valor añadido bruto total,2020,18273467.0
+995,36,Valor añadido bruto total,2019,19623979.0
+996,36,Impuestos netos sobre los productos,2021,2094638.0
+997,36,Impuestos netos sobre los productos,2020,1752459.0
+998,36,Impuestos netos sobre los productos,2019,2013335.0
+999,26,"A. Agricultura, ganadería, silvicultura y pesca",2021,476624.0
+1000,26,"A. Agricultura, ganadería, silvicultura y pesca",2020,467196.0
+1001,26,"A. Agricultura, ganadería, silvicultura y pesca",2019,480753.0
+1002,26,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1987268.0
+1003,26,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1881181.0
+1004,26,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,2041910.0
+1005,26,C. - De las cuales: Industria manufacturera,2021,1687784.0
+1006,26,C. - De las cuales: Industria manufacturera,2020,1617797.0
+1007,26,C. - De las cuales: Industria manufacturera,2019,1786257.0
+1008,26,F. Construcción,2021,438925.0
+1009,26,F. Construcción,2020,429765.0
+1010,26,F. Construcción,2019,493419.0
+1011,26,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1560662.0
+1012,26,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1346824.0
+1013,26,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1657362.0
+1014,26,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1579983.0
+1015,26,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1528596.0
+1016,26,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1549702.0
+1017,26,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,1755185.0
+1018,26,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,1742724.0
+1019,26,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,1778337.0
+1020,26,Valor añadido bruto total,2021,7798647.0
+1021,26,Valor añadido bruto total,2020,7396286.0
+1022,26,Valor añadido bruto total,2019,8001483.0
+1023,26,Impuestos netos sobre los productos,2021,821132.0
+1024,26,Impuestos netos sobre los productos,2020,709317.0
+1025,26,Impuestos netos sobre los productos,2019,820917.0
+1026,37,"A. Agricultura, ganadería, silvicultura y pesca",2021,348499.0
+1027,37,"A. Agricultura, ganadería, silvicultura y pesca",2020,364262.0
+1028,37,"A. Agricultura, ganadería, silvicultura y pesca",2019,357605.0
+1029,37,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,851691.0
+1030,37,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,613052.0
+1031,37,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,560811.0
+1032,37,C. - De las cuales: Industria manufacturera,2021,518924.0
+1033,37,C. - De las cuales: Industria manufacturera,2020,480828.0
+1034,37,C. - De las cuales: Industria manufacturera,2019,423359.0
+1035,37,F. Construcción,2021,410569.0
+1036,37,F. Construcción,2020,364334.0
+1037,37,F. Construcción,2019,426712.0
+1038,37,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,1557796.0
+1039,37,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1315417.0
+1040,37,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,1662920.0
+1041,37,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,1470694.0
+1042,37,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,1416690.0
+1043,37,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,1447567.0
+1044,37,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,1956168.0
+1045,37,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,1969395.0
+1046,37,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,2076334.0
+1047,37,Valor añadido bruto total,2021,6595417.0
+1048,37,Valor añadido bruto total,2020,6043150.0
+1049,37,Valor añadido bruto total,2019,6531949.0
+1050,37,Impuestos netos sobre los productos,2021,694442.0
+1051,37,Impuestos netos sobre los productos,2020,579549.0
+1052,37,Impuestos netos sobre los productos,2019,670150.0
+1053,38,"A. Agricultura, ganadería, silvicultura y pesca",2021,483802.0
+1054,38,"A. Agricultura, ganadería, silvicultura y pesca",2020,454127.0
+1055,38,"A. Agricultura, ganadería, silvicultura y pesca",2019,473279.0
+1056,38,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,1209138.0
+1057,38,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,1118599.0
+1058,38,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,1165868.0
+1059,38,C. - De las cuales: Industria manufacturera,2021,457525.0
+1060,38,C. - De las cuales: Industria manufacturera,2020,431406.0
+1061,38,C. - De las cuales: Industria manufacturera,2019,467048.0
+1062,38,F. Construcción,2021,1120681.0
+1063,38,F. Construcción,2020,1124156.0
+1064,38,F. Construcción,2019,1439801.0
+1065,38,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,5416038.0
+1066,38,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,4384777.0
+1067,38,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,7086295.0
+1068,38,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,4819924.0
+1069,38,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,4626471.0
+1070,38,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,4925187.0
+1071,38,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,5756540.0
+1072,38,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,5572109.0
+1073,38,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,5740728.0
+1074,38,Valor añadido bruto total,2021,18806123.0
+1075,38,Valor añadido bruto total,2020,17280239.0
+1076,38,Valor añadido bruto total,2019,20831158.0
+1077,38,Impuestos netos sobre los productos,2021,1980126.0
+1078,38,Impuestos netos sobre los productos,2020,1657206.0
+1079,38,Impuestos netos sobre los productos,2019,2137186.0
+1080,40,"A. Agricultura, ganadería, silvicultura y pesca",2021,232663.0
+1081,40,"A. Agricultura, ganadería, silvicultura y pesca",2020,222457.0
+1082,40,"A. Agricultura, ganadería, silvicultura y pesca",2019,194001.0
+1083,40,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,368098.0
+1084,40,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,310324.0
+1085,40,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,357123.0
+1086,40,C. - De las cuales: Industria manufacturera,2021,263149.0
+1087,40,C. - De las cuales: Industria manufacturera,2020,236422.0
+1088,40,C. - De las cuales: Industria manufacturera,2019,292520.0
+1089,40,F. Construcción,2021,243548.0
+1090,40,F. Construcción,2020,229915.0
+1091,40,F. Construcción,2019,288273.0
+1092,40,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,741167.0
+1093,40,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,629104.0
+1094,40,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,777373.0
+1095,40,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,697627.0
+1096,40,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,664414.0
+1097,40,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,678843.0
+1098,40,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,848181.0
+1099,40,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,845161.0
+1100,40,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,879463.0
+1101,40,Valor añadido bruto total,2021,3131284.0
+1102,40,Valor añadido bruto total,2020,2901375.0
+1103,40,Valor añadido bruto total,2019,3175076.0
+1104,40,Impuestos netos sobre los productos,2021,329698.0
+1105,40,Impuestos netos sobre los productos,2020,278247.0
+1106,40,Impuestos netos sobre los productos,2019,325749.0
+1107,41,"A. Agricultura, ganadería, silvicultura y pesca",2021,2082124.0
+1108,41,"A. Agricultura, ganadería, silvicultura y pesca",2020,1839604.0
+1109,41,"A. Agricultura, ganadería, silvicultura y pesca",2019,1749960.0
+1110,41,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,5575536.0
+1111,41,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,5122448.0
+1112,41,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,5422919.0
+1113,41,C. - De las cuales: Industria manufacturera,2021,3332648.0
+1114,41,C. - De las cuales: Industria manufacturera,2020,3221391.0
+1115,41,C. - De las cuales: Industria manufacturera,2019,3448057.0
+1116,41,F. Construcción,2021,2056824.0
+1117,41,F. Construcción,2020,1851607.0
+1118,41,F. Construcción,2019,2095895.0
+1119,41,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,8375772.0
+1120,41,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,7158830.0
+1121,41,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,9082735.0
+1122,41,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,8537199.0
+1123,41,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,8078595.0
+1124,41,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,8459259.0
+1125,41,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,10157146.0
+1126,41,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,9737903.0
+1127,41,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,9955652.0
+1128,41,Valor añadido bruto total,2021,36784601.0
+1129,41,Valor añadido bruto total,2020,33788987.0
+1130,41,Valor añadido bruto total,2019,36766420.0
+1131,41,Impuestos netos sobre los productos,2021,3873109.0
+1132,41,Impuestos netos sobre los productos,2020,3240425.0
+1133,41,Impuestos netos sobre los productos,2019,3772076.0
+1134,42,"A. Agricultura, ganadería, silvicultura y pesca",2021,226938.0
+1135,42,"A. Agricultura, ganadería, silvicultura y pesca",2020,179112.0
+1136,42,"A. Agricultura, ganadería, silvicultura y pesca",2019,149364.0
+1137,42,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,591689.0
+1138,42,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,506830.0
+1139,42,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,613662.0
+1140,42,C. - De las cuales: Industria manufacturera,2021,472628.0
+1141,42,C. - De las cuales: Industria manufacturera,2020,397766.0
+1142,42,C. - De las cuales: Industria manufacturera,2019,461970.0
+1143,42,F. Construcción,2021,138512.0
+1144,42,F. Construcción,2020,126818.0
+1145,42,F. Construcción,2019,150055.0
+1146,42,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,427380.0
+1147,42,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,380484.0
+1148,42,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,457650.0
+1149,42,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,362182.0
+1150,42,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,345380.0
+1151,42,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,348982.0
+1152,42,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,543704.0
+1153,42,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,546562.0
+1154,42,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,569989.0
+1155,42,Valor añadido bruto total,2021,2290405.0
+1156,42,Valor añadido bruto total,2020,2085186.0
+1157,42,Valor añadido bruto total,2019,2289702.0
+1158,42,Impuestos netos sobre los productos,2021,241160.0
+1159,42,Impuestos netos sobre los productos,2020,199973.0
+1160,42,Impuestos netos sobre los productos,2019,234913.0
+1161,43,"A. Agricultura, ganadería, silvicultura y pesca",2021,304144.0
+1162,43,"A. Agricultura, ganadería, silvicultura y pesca",2020,285126.0
+1163,43,"A. Agricultura, ganadería, silvicultura y pesca",2019,275092.0
+1164,43,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,6058988.0
+1165,43,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,4623638.0
+1166,43,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,5643209.0
+1167,43,C. - De las cuales: Industria manufacturera,2021,4432889.0
+1168,43,C. - De las cuales: Industria manufacturera,2020,3073306.0
+1169,43,C. - De las cuales: Industria manufacturera,2019,3931959.0
+1170,43,F. Construcción,2021,1137251.0
+1171,43,F. Construcción,2020,1034332.0
+1172,43,F. Construcción,2019,1257329.0
+1173,43,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,4775156.0
+1174,43,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,4051876.0
+1175,43,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,5363353.0
+1176,43,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,5643875.0
+1177,43,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,5373009.0
+1178,43,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,5500715.0
+1179,43,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,4175538.0
+1180,43,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,4148766.0
+1181,43,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,4311176.0
+1182,43,Valor añadido bruto total,2021,22094952.0
+1183,43,Valor añadido bruto total,2020,19516747.0
+1184,43,Valor añadido bruto total,2019,22350874.0
+1185,43,Impuestos netos sobre los productos,2021,2326412.0
+1186,43,Impuestos netos sobre los productos,2020,1871691.0
+1187,43,Impuestos netos sobre los productos,2019,2293103.0
+1188,44,"A. Agricultura, ganadería, silvicultura y pesca",2021,240062.0
+1189,44,"A. Agricultura, ganadería, silvicultura y pesca",2020,209804.0
+1190,44,"A. Agricultura, ganadería, silvicultura y pesca",2019,202928.0
+1191,44,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,514273.0
+1192,44,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,364567.0
+1193,44,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,477488.0
+1194,44,C. - De las cuales: Industria manufacturera,2021,290373.0
+1195,44,C. - De las cuales: Industria manufacturera,2020,272103.0
+1196,44,C. - De las cuales: Industria manufacturera,2019,311877.0
+1197,44,F. Construcción,2021,235976.0
+1198,44,F. Construcción,2020,229192.0
+1199,44,F. Construcción,2019,263793.0
+1200,44,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,688024.0
+1201,44,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,605303.0
+1202,44,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,716500.0
+1203,44,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,551729.0
+1204,44,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,534414.0
+1205,44,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,537641.0
+1206,44,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,900412.0
+1207,44,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,884245.0
+1208,44,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,880545.0
+1209,44,Valor añadido bruto total,2021,3130476.0
+1210,44,Valor añadido bruto total,2020,2827525.0
+1211,44,Valor añadido bruto total,2019,3078895.0
+1212,44,Impuestos netos sobre los productos,2021,329613.0
+1213,44,Impuestos netos sobre los productos,2020,271165.0
+1214,44,Impuestos netos sobre los productos,2019,315881.0
+1215,45,"A. Agricultura, ganadería, silvicultura y pesca",2021,728117.0
+1216,45,"A. Agricultura, ganadería, silvicultura y pesca",2020,801305.0
+1217,45,"A. Agricultura, ganadería, silvicultura y pesca",2019,701934.0
+1218,45,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,2569685.0
+1219,45,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,2356947.0
+1220,45,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,2581305.0
+1221,45,C. - De las cuales: Industria manufacturera,2021,2074329.0
+1222,45,C. - De las cuales: Industria manufacturera,2020,1911627.0
+1223,45,C. - De las cuales: Industria manufacturera,2019,2110331.0
+1224,45,F. Construcción,2021,897664.0
+1225,45,F. Construcción,2020,815358.0
+1226,45,F. Construcción,2019,915925.0
+1227,45,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,2331401.0
+1228,45,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,1944149.0
+1229,45,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,2387686.0
+1230,45,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2364247.0
+1231,45,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2264575.0
+1232,45,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2264943.0
+1233,45,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3104673.0
+1234,45,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,2997672.0
+1235,45,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3095945.0
+1236,45,Valor añadido bruto total,2021,11995787.0
+1237,45,Valor añadido bruto total,2020,11180006.0
+1238,45,Valor añadido bruto total,2019,11947738.0
+1239,45,Impuestos netos sobre los productos,2021,1263055.0
+1240,45,Impuestos netos sobre los productos,2020,1072182.0
+1241,45,Impuestos netos sobre los productos,2019,1225786.0
+1242,46,"A. Agricultura, ganadería, silvicultura y pesca",2021,1216902.0
+1243,46,"A. Agricultura, ganadería, silvicultura y pesca",2020,1284395.0
+1244,46,"A. Agricultura, ganadería, silvicultura y pesca",2019,1164377.0
+1245,46,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,11624507.0
+1246,46,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,10606333.0
+1247,46,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,11315325.0
+1248,46,C. - De las cuales: Industria manufacturera,2021,8488474.0
+1249,46,C. - De las cuales: Industria manufacturera,2020,7838058.0
+1250,46,C. - De las cuales: Industria manufacturera,2019,8396005.0
+1251,46,F. Construcción,2021,3179743.0
+1252,46,F. Construcción,2020,3130198.0
+1253,46,F. Construcción,2019,3561297.0
+1254,46,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,13611449.0
+1255,46,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,11712754.0
+1256,46,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,14663218.0
+1257,46,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,13769682.0
+1258,46,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,12974034.0
+1259,46,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,13130021.0
+1260,46,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,12158250.0
+1261,46,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,11891038.0
+1262,46,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,12539573.0
+1263,46,Valor añadido bruto total,2021,55560533.0
+1264,46,Valor añadido bruto total,2020,51598752.0
+1265,46,Valor añadido bruto total,2019,56373811.0
+1266,46,Impuestos netos sobre los productos,2021,5850056.0
+1267,46,Impuestos netos sobre los productos,2020,4948414.0
+1268,46,Impuestos netos sobre los productos,2019,5783707.0
+1269,47,"A. Agricultura, ganadería, silvicultura y pesca",2021,552661.0
+1270,47,"A. Agricultura, ganadería, silvicultura y pesca",2020,526934.0
+1271,47,"A. Agricultura, ganadería, silvicultura y pesca",2019,435167.0
+1272,47,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,3213771.0
+1273,47,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,3004600.0
+1274,47,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,3208945.0
+1275,47,C. - De las cuales: Industria manufacturera,2021,2592996.0
+1276,47,C. - De las cuales: Industria manufacturera,2020,2468979.0
+1277,47,C. - De las cuales: Industria manufacturera,2019,2778463.0
+1278,47,F. Construcción,2021,656713.0
+1279,47,F. Construcción,2020,709282.0
+1280,47,F. Construcción,2019,721013.0
+1281,47,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,2448567.0
+1282,47,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,2170702.0
+1283,47,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,2675110.0
+1284,47,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,2781737.0
+1285,47,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,2670005.0
+1286,47,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,2748889.0
+1287,47,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,3278787.0
+1288,47,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,3274887.0
+1289,47,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,3484225.0
+1290,47,Valor añadido bruto total,2021,12932236.0
+1291,47,Valor añadido bruto total,2020,12356410.0
+1292,47,Valor añadido bruto total,2019,13273349.0
+1293,47,Impuestos netos sobre los productos,2021,1361656.0
+1294,47,Impuestos netos sobre los productos,2020,1185001.0
+1295,47,Impuestos netos sobre los productos,2019,1361788.0
+1296,49,"A. Agricultura, ganadería, silvicultura y pesca",2021,324073.0
+1297,49,"A. Agricultura, ganadería, silvicultura y pesca",2020,294975.0
+1298,49,"A. Agricultura, ganadería, silvicultura y pesca",2019,259587.0
+1299,49,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,375372.0
+1300,49,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,231794.0
+1301,49,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,251556.0
+1302,49,C. - De las cuales: Industria manufacturera,2021,144241.0
+1303,49,C. - De las cuales: Industria manufacturera,2020,146061.0
+1304,49,C. - De las cuales: Industria manufacturera,2019,154996.0
+1305,49,F. Construcción,2021,207739.0
+1306,49,F. Construcción,2020,241266.0
+1307,49,F. Construcción,2019,310611.0
+1308,49,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,694504.0
+1309,49,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,576069.0
+1310,49,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,723264.0
+1311,49,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,703946.0
+1312,49,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,680737.0
+1313,49,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,693019.0
+1314,49,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,935387.0
+1315,49,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,919471.0
+1316,49,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,949416.0
+1317,49,Valor añadido bruto total,2021,3241021.0
+1318,49,Valor añadido bruto total,2020,2944312.0
+1319,49,Valor añadido bruto total,2019,3187453.0
+1320,49,Impuestos netos sobre los productos,2021,341252.0
+1321,49,Impuestos netos sobre los productos,2020,282365.0
+1322,49,Impuestos netos sobre los productos,2019,327019.0
+1323,50,"A. Agricultura, ganadería, silvicultura y pesca",2021,1038888.0
+1324,50,"A. Agricultura, ganadería, silvicultura y pesca",2020,1054152.0
+1325,50,"A. Agricultura, ganadería, silvicultura y pesca",2019,1082392.0
+1326,50,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,6032878.0
+1327,50,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,5694921.0
+1328,50,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,6006300.0
+1329,50,C. - De las cuales: Industria manufacturera,2021,5008856.0
+1330,50,C. - De las cuales: Industria manufacturera,2020,4657798.0
+1331,50,C. - De las cuales: Industria manufacturera,2019,5020174.0
+1332,50,F. Construcción,2021,1284516.0
+1333,50,F. Construcción,2020,1240501.0
+1334,50,F. Construcción,2019,1535687.0
+1335,50,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,5500071.0
+1336,50,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,4812635.0
+1337,50,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,5695817.0
+1338,50,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,5652200.0
+1339,50,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,5416895.0
+1340,50,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,5444309.0
+1341,50,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,5730936.0
+1342,50,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,5638678.0
+1343,50,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,5771233.0
+1344,50,Valor añadido bruto total,2021,25239489.0
+1345,50,Valor añadido bruto total,2020,23857782.0
+1346,50,Valor añadido bruto total,2019,25535738.0
+1347,50,Impuestos netos sobre los productos,2021,2657505.0
+1348,50,Impuestos netos sobre los productos,2020,2288004.0
+1349,50,Impuestos netos sobre los productos,2019,2619856.0
+1350,51,"A. Agricultura, ganadería, silvicultura y pesca",2021,1748.0
+1351,51,"A. Agricultura, ganadería, silvicultura y pesca",2020,1478.0
+1352,51,"A. Agricultura, ganadería, silvicultura y pesca",2019,1517.0
+1353,51,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,96752.0
+1354,51,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,84988.0
+1355,51,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,86879.0
+1356,51,C. - De las cuales: Industria manufacturera,2021,22099.0
+1357,51,C. - De las cuales: Industria manufacturera,2020,19841.0
+1358,51,C. - De las cuales: Industria manufacturera,2019,22250.0
+1359,51,F. Construcción,2021,73384.0
+1360,51,F. Construcción,2020,69950.0
+1361,51,F. Construcción,2019,81969.0
+1362,51,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,315553.0
+1363,51,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,275441.0
+1364,51,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,340351.0
+1365,51,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,268574.0
+1366,51,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,259015.0
+1367,51,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,264026.0
+1368,51,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,840997.0
+1369,51,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,819453.0
+1370,51,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,835029.0
+1371,51,Valor añadido bruto total,2021,1597008.0
+1372,51,Valor añadido bruto total,2020,1510325.0
+1373,51,Valor añadido bruto total,2019,1609771.0
+1374,51,Impuestos netos sobre los productos,2021,168151.0
+1375,51,Impuestos netos sobre los productos,2020,144843.0
+1376,51,Impuestos netos sobre los productos,2019,165156.0
+1377,52,"A. Agricultura, ganadería, silvicultura y pesca",2021,946.0
+1378,52,"A. Agricultura, ganadería, silvicultura y pesca",2020,971.0
+1379,52,"A. Agricultura, ganadería, silvicultura y pesca",2019,768.0
+1380,52,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2021,68466.0
+1381,52,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2020,58690.0
+1382,52,"B_E. Industrias extractivas, industria manufacturera, suministro de energía eléctrica, gas, vapor y aire acondicionado, suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación",2019,64244.0
+1383,52,C. - De las cuales: Industria manufacturera,2021,14252.0
+1384,52,C. - De las cuales: Industria manufacturera,2020,12664.0
+1385,52,C. - De las cuales: Industria manufacturera,2019,14042.0
+1386,52,F. Construcción,2021,73277.0
+1387,52,F. Construcción,2020,72557.0
+1388,52,F. Construcción,2019,84635.0
+1389,52,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2021,269691.0
+1390,52,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2020,234968.0
+1391,52,"G_J. Comercio al por mayor y al por menor, reparación de vehículos de motor y motocicletas, transporte y almacenamiento, hostelería, información y comunicaciones",2019,295106.0
+1392,52,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2021,266541.0
+1393,52,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2020,254596.0
+1394,52,"K_N. Actividades financieras y de seguros, actividades inmobiliarias, actividades profesionales, científicas y técnicas, actividades administrativas y servicios auxiliares",2019,258800.0
+1395,52,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2021,783628.0
+1396,52,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2020,759737.0
+1397,52,"O_U. Administración pública y defensa, seguridad social obligatoria, educación, actividades sanitarias y de servicios sociales, actividades artísticas, recreativas y de entretenimiento, reparación de artículos de uso doméstico y otros servicios",2019,770320.0
+1398,52,Valor añadido bruto total,2021,1462549.0
+1399,52,Valor añadido bruto total,2020,1381519.0
+1400,52,Valor añadido bruto total,2019,1473873.0
+1401,52,Impuestos netos sobre los productos,2021,153994.0
+1402,52,Impuestos netos sobre los productos,2020,132490.0
+1403,52,Impuestos netos sobre los productos,2019,151213.0
